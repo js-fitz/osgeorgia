@@ -1,7 +1,7 @@
 # Open-Sourcing Georgia Elections Data
 ### AKA "ElViz" (Elections Visualization Tools)
 
-This repository contains cleaned data on recent elections in Georgia collected from multiple official sources. The sources for specific files can be found in subdirectory readme files.
+This repository contains cleaned data on recent elections in Georgia collected from multiple official sources, for use in the ElViz elections vizualization tool currently in development and open to all. The sources for specific files can be found in subdirectory readme files.
 
 
 - **clean_data** contains all non-geometric data from recent elections in Georgia, mostly state-wide but also with some smaller races.
