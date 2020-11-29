@@ -1,0 +1,7 @@
+,Precinct,County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
+0,District 1A,Crawford,516.0,44.0,74.0,25.0,0.0,143.0,61.0,77.0,39.0,0.0,177.0,320.0,62.0
+1,District 1B,Crawford,1025.0,38.0,180.0,69.0,1.0,288.0,53.0,259.0,77.0,0.0,389.0,677.0,66.0
+2,District 2,Crawford,1659.0,70.0,284.0,120.0,0.0,474.0,112.0,423.0,143.0,1.0,679.0,1153.0,69.5
+3,District 3,Crawford,1738.0,78.0,312.0,76.0,0.0,466.0,150.0,488.0,99.0,0.0,737.0,1203.0,69.2
+4,District 4,Crawford,1805.0,139.0,289.0,99.0,0.0,527.0,234.0,365.0,95.0,0.0,694.0,1221.0,67.6
+5,District 5,Crawford,1769.0,161.0,280.0,96.0,0.0,537.0,221.0,354.0,95.0,0.0,670.0,1207.0,68.2
