@@ -1,2 +1,2 @@
-County,Precinct,Registered Voters,"Henry """"Wayne"""" Howard (I) (Dem)_Election Day Votes","Henry """"Wayne"""" Howard (I) (Dem)_Advanced Voting Votes","Henry """"Wayne"""" Howard (I) (Dem)_Absentee by Mail Votes","Henry """"Wayne"""" Howard (I) (Dem)_Provisional Votes","Henry """"Wayne"""" Howard (I) (Dem)_Choice Total",Total,calc_participation
-Richmond,7119.0,32383.0,4301.0,6879.0,5248.0,26.0,16454.0,16454.0,50.8
+County,Precinct,Registered Voters,"Henry """"Wayne"""" Howard (I) (Dem)_Election Day Votes","Henry """"Wayne"""" Howard (I) (Dem)_Advanced Voting Votes","Henry """"Wayne"""" Howard (I) (Dem)_Absentee by Mail Votes","Henry """"Wayne"""" Howard (I) (Dem)_Provisional Votes","Henry """"Wayne"""" Howard (I) (Dem)_Choice Total",Total,calc_participation,Dem_total
+Richmond,7119.0,32383.0,4301.0,6879.0,5248.0,26.0,16454.0,16454.0,50.8,16454.0

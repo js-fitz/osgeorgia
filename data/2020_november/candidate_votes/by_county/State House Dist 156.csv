@@ -1,5 +1,5 @@
-County,Registered Voters,Greg Morris (I) (Rep)_Election Day Votes,Greg Morris (I) (Rep)_Advanced Voting Votes,Greg Morris (I) (Rep)_Absentee by Mail Votes,Greg Morris (I) (Rep)_Provisional Votes,Greg Morris (I) (Rep)_Choice Total,Total,calc_participation
-Appling,9040.0,1336.0,3053.0,793.0,10.0,5192.0,5192.0,57.4
-Jeff Davis,1952.0,416.0,815.0,128.0,0.0,1359.0,1359.0,69.6
-Montgomery,5463.0,1232.0,1684.0,478.0,0.0,3394.0,3394.0,62.1
-Toombs,0.0,2115.0,5401.0,1628.0,7.0,9151.0,9151.0,0.0
+County,Registered Voters,Greg Morris (I) (Rep)_Election Day Votes,Greg Morris (I) (Rep)_Advanced Voting Votes,Greg Morris (I) (Rep)_Absentee by Mail Votes,Greg Morris (I) (Rep)_Provisional Votes,Greg Morris (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Appling,9040.0,1336.0,3053.0,793.0,10.0,5192.0,5192.0,57.4,5192.0
+Jeff Davis,1952.0,416.0,815.0,128.0,0.0,1359.0,1359.0,69.6,1359.0
+Montgomery,5463.0,1232.0,1684.0,478.0,0.0,3394.0,3394.0,62.1,3394.0
+Toombs,0.0,2115.0,5401.0,1628.0,7.0,9151.0,9151.0,0.0,9151.0

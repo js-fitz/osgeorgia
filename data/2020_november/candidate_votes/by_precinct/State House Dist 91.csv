@@ -1,15 +1,15 @@
-Precinct,County,Registered Voters,Rhonda S. Taylor (Dem)_Election Day Votes,Rhonda S. Taylor (Dem)_Advanced Voting Votes,Rhonda S. Taylor (Dem)_Absentee by Mail Votes,Rhonda S. Taylor (Dem)_Provisional Votes,Rhonda S. Taylor (Dem)_Choice Total,Total,calc_participation
-FI,Rockdale,6328.0,86.0,671.0,353.0,0.0,1110.0,1110.0,17.5
-FS,Rockdale,4038.0,169.0,1146.0,596.0,0.0,1911.0,1911.0,47.3
-HC,Rockdale,2411.0,178.0,715.0,351.0,0.0,1244.0,1244.0,51.6
-MA,Rockdale,3180.0,146.0,561.0,287.0,0.0,994.0,994.0,31.3
-OT,Rockdale,6135.0,107.0,419.0,191.0,0.0,717.0,717.0,11.7
-RO,Rockdale,4633.0,318.0,1579.0,724.0,2.0,2623.0,2623.0,56.6
-SM,Rockdale,4308.0,252.0,1616.0,737.0,3.0,2608.0,2608.0,60.5
-SP,Rockdale,4781.0,319.0,1831.0,744.0,1.0,2895.0,2895.0,60.6
-ST,Rockdale,3334.0,189.0,1072.0,526.0,2.0,1789.0,1789.0,53.7
-Candler-Murphey Candler Elem,DeKalb,3712.0,294.0,1439.0,650.0,2.0,2385.0,2385.0,64.3
-Fairington Elem,DeKalb,5455.0,448.0,1588.0,664.0,3.0,2703.0,2703.0,49.6
-Flat Rock Elem,DeKalb,3142.0,259.0,1336.0,547.0,6.0,2148.0,2148.0,68.4
-Stonecrest Library,DeKalb,3720.0,220.0,1538.0,550.0,5.0,2313.0,2313.0,62.2
-Woodrow Road,DeKalb,3493.0,253.0,1099.0,496.0,5.0,1853.0,1853.0,53.0
+Precinct,County,Registered Voters,Rhonda S. Taylor (Dem)_Election Day Votes,Rhonda S. Taylor (Dem)_Advanced Voting Votes,Rhonda S. Taylor (Dem)_Absentee by Mail Votes,Rhonda S. Taylor (Dem)_Provisional Votes,Rhonda S. Taylor (Dem)_Choice Total,Total,calc_participation,Dem_total
+FI,Rockdale,6328.0,86.0,671.0,353.0,0.0,1110.0,1110.0,17.5,1110.0
+FS,Rockdale,4038.0,169.0,1146.0,596.0,0.0,1911.0,1911.0,47.3,1911.0
+HC,Rockdale,2411.0,178.0,715.0,351.0,0.0,1244.0,1244.0,51.6,1244.0
+MA,Rockdale,3180.0,146.0,561.0,287.0,0.0,994.0,994.0,31.3,994.0
+OT,Rockdale,6135.0,107.0,419.0,191.0,0.0,717.0,717.0,11.7,717.0
+RO,Rockdale,4633.0,318.0,1579.0,724.0,2.0,2623.0,2623.0,56.6,2623.0
+SM,Rockdale,4308.0,252.0,1616.0,737.0,3.0,2608.0,2608.0,60.5,2608.0
+SP,Rockdale,4781.0,319.0,1831.0,744.0,1.0,2895.0,2895.0,60.6,2895.0
+ST,Rockdale,3334.0,189.0,1072.0,526.0,2.0,1789.0,1789.0,53.7,1789.0
+Candler-Murphey Candler Elem,DeKalb,3712.0,294.0,1439.0,650.0,2.0,2385.0,2385.0,64.3,2385.0
+Fairington Elem,DeKalb,5455.0,448.0,1588.0,664.0,3.0,2703.0,2703.0,49.6,2703.0
+Flat Rock Elem,DeKalb,3142.0,259.0,1336.0,547.0,6.0,2148.0,2148.0,68.4,2148.0
+Stonecrest Library,DeKalb,3720.0,220.0,1538.0,550.0,5.0,2313.0,2313.0,62.2,2313.0
+Woodrow Road,DeKalb,3493.0,253.0,1099.0,496.0,5.0,1853.0,1853.0,53.0,1853.0

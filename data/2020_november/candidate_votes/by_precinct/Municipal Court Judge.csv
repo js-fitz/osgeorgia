@@ -1,26 +1,26 @@
-Precinct,County,Registered Voters,Steven Smith (I) (Dem)_Election Day Votes,Steven Smith (I) (Dem)_Advanced Voting Votes,Steven Smith (I) (Dem)_Absentee by Mail Votes,Steven Smith (I) (Dem)_Provisional Votes,Steven Smith (I) (Dem)_Choice Total,Total,calc_participation
-Wynnton/Britt,Muscogee,5289.0,410.0,1361.0,829.0,0.0,2600.0,2600.0,49.2
-Carver/Mack,Muscogee,4374.0,268.0,1155.0,829.0,0.0,2252.0,2252.0,51.5
-St John/Belvedere,Muscogee,5341.0,297.0,1742.0,1157.0,2.0,3198.0,3198.0,59.9
-Britt David,Muscogee,2747.0,334.0,691.0,331.0,0.0,1356.0,1356.0,49.4
-St Peter,Muscogee,3265.0,362.0,879.0,458.0,1.0,1700.0,1700.0,52.1
-Cornerstone,Muscogee,6684.0,632.0,1855.0,880.0,1.0,3368.0,3368.0,50.4
-Columbus Tech,Muscogee,4464.0,391.0,808.0,421.0,0.0,1620.0,1620.0,36.3
-St Mark/Heiferhorn,Muscogee,6492.0,504.0,2101.0,987.0,9.0,3601.0,3601.0,55.5
-Wynnbrook,Muscogee,2692.0,221.0,831.0,531.0,0.0,1583.0,1583.0,58.8
-Cusseta Rd,Muscogee,6169.0,555.0,1230.0,850.0,3.0,2638.0,2638.0,42.8
-Our Lady of Lourdes,Muscogee,10204.0,726.0,1837.0,1367.0,3.0,3933.0,3933.0,38.5
-Mt Pilgrim,Muscogee,6022.0,462.0,1904.0,1169.0,1.0,3536.0,3536.0,58.7
-Faith Tabernacle,Muscogee,4461.0,375.0,1439.0,855.0,0.0,2669.0,2669.0,59.8
-Canaan,Muscogee,7078.0,486.0,1937.0,1180.0,0.0,3603.0,3603.0,50.9
-Holsey/Buena Vista,Muscogee,7613.0,508.0,2357.0,1305.0,0.0,4170.0,4170.0,54.8
-Gentian/Reese,Muscogee,5612.0,499.0,1510.0,806.0,0.0,2815.0,2815.0,50.2
-St Paul/Clubview,Muscogee,5677.0,464.0,1769.0,875.0,0.0,3108.0,3108.0,54.7
-Moon/Morningside,Muscogee,5415.0,538.0,1426.0,778.0,1.0,2743.0,2743.0,50.7
-St Andrews/Midland,Muscogee,7959.0,747.0,2354.0,1262.0,0.0,4363.0,4363.0,54.8
-Salvation Army,Muscogee,3192.0,327.0,893.0,446.0,0.0,1666.0,1666.0,52.2
-First African,Muscogee,1955.0,133.0,353.0,272.0,4.0,762.0,762.0,39.0
-Epworth UMC,Muscogee,4512.0,420.0,919.0,525.0,0.0,1864.0,1864.0,41.3
-Marianna Gallops,Muscogee,3095.0,253.0,594.0,364.0,5.0,1216.0,1216.0,39.3
-Edgewood Baptist,Muscogee,3235.0,272.0,934.0,499.0,3.0,1708.0,1708.0,52.8
-Psalmond/Mathews,Muscogee,7331.0,469.0,2548.0,1285.0,1.0,4303.0,4303.0,58.7
+Precinct,County,Registered Voters,Steven Smith (I) (Dem)_Election Day Votes,Steven Smith (I) (Dem)_Advanced Voting Votes,Steven Smith (I) (Dem)_Absentee by Mail Votes,Steven Smith (I) (Dem)_Provisional Votes,Steven Smith (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Wynnton/Britt,Muscogee,5289.0,410.0,1361.0,829.0,0.0,2600.0,2600.0,49.2,2600.0
+Carver/Mack,Muscogee,4374.0,268.0,1155.0,829.0,0.0,2252.0,2252.0,51.5,2252.0
+St John/Belvedere,Muscogee,5341.0,297.0,1742.0,1157.0,2.0,3198.0,3198.0,59.9,3198.0
+Britt David,Muscogee,2747.0,334.0,691.0,331.0,0.0,1356.0,1356.0,49.4,1356.0
+St Peter,Muscogee,3265.0,362.0,879.0,458.0,1.0,1700.0,1700.0,52.1,1700.0
+Cornerstone,Muscogee,6684.0,632.0,1855.0,880.0,1.0,3368.0,3368.0,50.4,3368.0
+Columbus Tech,Muscogee,4464.0,391.0,808.0,421.0,0.0,1620.0,1620.0,36.3,1620.0
+St Mark/Heiferhorn,Muscogee,6492.0,504.0,2101.0,987.0,9.0,3601.0,3601.0,55.5,3601.0
+Wynnbrook,Muscogee,2692.0,221.0,831.0,531.0,0.0,1583.0,1583.0,58.8,1583.0
+Cusseta Rd,Muscogee,6169.0,555.0,1230.0,850.0,3.0,2638.0,2638.0,42.8,2638.0
+Our Lady of Lourdes,Muscogee,10204.0,726.0,1837.0,1367.0,3.0,3933.0,3933.0,38.5,3933.0
+Mt Pilgrim,Muscogee,6022.0,462.0,1904.0,1169.0,1.0,3536.0,3536.0,58.7,3536.0
+Faith Tabernacle,Muscogee,4461.0,375.0,1439.0,855.0,0.0,2669.0,2669.0,59.8,2669.0
+Canaan,Muscogee,7078.0,486.0,1937.0,1180.0,0.0,3603.0,3603.0,50.9,3603.0
+Holsey/Buena Vista,Muscogee,7613.0,508.0,2357.0,1305.0,0.0,4170.0,4170.0,54.8,4170.0
+Gentian/Reese,Muscogee,5612.0,499.0,1510.0,806.0,0.0,2815.0,2815.0,50.2,2815.0
+St Paul/Clubview,Muscogee,5677.0,464.0,1769.0,875.0,0.0,3108.0,3108.0,54.7,3108.0
+Moon/Morningside,Muscogee,5415.0,538.0,1426.0,778.0,1.0,2743.0,2743.0,50.7,2743.0
+St Andrews/Midland,Muscogee,7959.0,747.0,2354.0,1262.0,0.0,4363.0,4363.0,54.8,4363.0
+Salvation Army,Muscogee,3192.0,327.0,893.0,446.0,0.0,1666.0,1666.0,52.2,1666.0
+First African,Muscogee,1955.0,133.0,353.0,272.0,4.0,762.0,762.0,39.0,762.0
+Epworth UMC,Muscogee,4512.0,420.0,919.0,525.0,0.0,1864.0,1864.0,41.3,1864.0
+Marianna Gallops,Muscogee,3095.0,253.0,594.0,364.0,5.0,1216.0,1216.0,39.3,1216.0
+Edgewood Baptist,Muscogee,3235.0,272.0,934.0,499.0,3.0,1708.0,1708.0,52.8,1708.0
+Psalmond/Mathews,Muscogee,7331.0,469.0,2548.0,1285.0,1.0,4303.0,4303.0,58.7,4303.0

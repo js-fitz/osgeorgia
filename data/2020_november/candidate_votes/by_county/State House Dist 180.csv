@@ -1,4 +1,4 @@
-County,Registered Voters,Steven Sainz (I) (Rep)_Election Day Votes,Steven Sainz (I) (Rep)_Advanced Voting Votes,Steven Sainz (I) (Rep)_Absentee by Mail Votes,Steven Sainz (I) (Rep)_Provisional Votes,Steven Sainz (I) (Rep)_Choice Total,Total,calc_participation
-Camden,29196.0,3574.0,9464.0,2897.0,4.0,15939.0,15939.0,54.6
-Charlton,1331.0,165.0,215.0,43.0,1.0,424.0,424.0,31.9
-Ware,11984.0,719.0,2543.0,647.0,14.0,3923.0,3923.0,32.7
+County,Registered Voters,Steven Sainz (I) (Rep)_Election Day Votes,Steven Sainz (I) (Rep)_Advanced Voting Votes,Steven Sainz (I) (Rep)_Absentee by Mail Votes,Steven Sainz (I) (Rep)_Provisional Votes,Steven Sainz (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Camden,29196.0,3574.0,9464.0,2897.0,4.0,15939.0,15939.0,54.6,15939.0
+Charlton,1331.0,165.0,215.0,43.0,1.0,424.0,424.0,31.9,424.0
+Ware,11984.0,719.0,2543.0,647.0,14.0,3923.0,3923.0,32.7,3923.0

@@ -1,13 +1,13 @@
-Precinct,County,Registered Voters,Jason C. Jones (Rep)_Election Day Votes,Jason C. Jones (Rep)_Advanced Voting Votes,Jason C. Jones (Rep)_Absentee by Mail Votes,Jason C. Jones (Rep)_Provisional Votes,Jason C. Jones (Rep)_Choice Total,Kimberly Alexander (I) (Dem)_Election Day Votes,Kimberly Alexander (I) (Dem)_Advanced Voting Votes,Kimberly Alexander (I) (Dem)_Absentee by Mail Votes,Kimberly Alexander (I) (Dem)_Provisional Votes,Kimberly Alexander (I) (Dem)_Choice Total,Total,calc_participation
-Golden Methodist Church,Douglas,5634.0,80.0,239.0,123.0,0.0,442.0,446.0,1598.0,942.0,2.0,2988.0,3430.0,60.9
-Old Courthouse,Douglas,5675.0,146.0,574.0,301.0,0.0,1021.0,337.0,1174.0,723.0,3.0,2237.0,3258.0,57.4
-Stewart,Douglas,3208.0,56.0,134.0,60.0,0.0,250.0,322.0,871.0,516.0,0.0,1709.0,1959.0,61.1
-Arbor Station,Douglas,2990.0,127.0,307.0,133.0,0.0,567.0,247.0,690.0,394.0,9.0,1340.0,1907.0,63.8
-Chapel Hill,Douglas,4016.0,133.0,477.0,143.0,0.0,753.0,249.0,1165.0,693.0,6.0,2113.0,2866.0,71.4
-Chestnut Log,Douglas,5177.0,76.0,257.0,107.0,0.0,440.0,252.0,1011.0,556.0,5.0,1824.0,2264.0,43.7
-St Julians Episcopal,Douglas,2253.0,181.0,391.0,174.0,0.0,746.0,136.0,330.0,287.0,0.0,753.0,1499.0,66.5
-Lutheran Church-GS,Douglas,4149.0,190.0,638.0,257.0,1.0,1086.0,205.0,1085.0,668.0,1.0,1959.0,3045.0,73.4
-First Baptist Douglasville,Douglas,2478.0,120.0,415.0,199.0,0.0,734.0,103.0,577.0,440.0,0.0,1120.0,1854.0,74.8
-D Wright Innovation Ctr,Paulding,7137.0,4.0,163.0,34.0,0.0,201.0,7.0,41.0,54.0,0.0,102.0,303.0,4.2
-Taylor Farm Park,Paulding,2761.0,78.0,396.0,136.0,0.0,610.0,43.0,165.0,87.0,0.0,295.0,905.0,32.8
-Dobbins Middle School,Paulding,8081.0,405.0,1982.0,487.0,2.0,2876.0,359.0,1623.0,983.0,2.0,2967.0,5843.0,72.3
+Precinct,County,Registered Voters,Jason C. Jones (Rep)_Election Day Votes,Jason C. Jones (Rep)_Advanced Voting Votes,Jason C. Jones (Rep)_Absentee by Mail Votes,Jason C. Jones (Rep)_Provisional Votes,Jason C. Jones (Rep)_Choice Total,Kimberly Alexander (I) (Dem)_Election Day Votes,Kimberly Alexander (I) (Dem)_Advanced Voting Votes,Kimberly Alexander (I) (Dem)_Absentee by Mail Votes,Kimberly Alexander (I) (Dem)_Provisional Votes,Kimberly Alexander (I) (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Golden Methodist Church,Douglas,5634.0,80.0,239.0,123.0,0.0,442.0,446.0,1598.0,942.0,2.0,2988.0,3430.0,60.9,442.0,2988.0
+Old Courthouse,Douglas,5675.0,146.0,574.0,301.0,0.0,1021.0,337.0,1174.0,723.0,3.0,2237.0,3258.0,57.4,1021.0,2237.0
+Stewart,Douglas,3208.0,56.0,134.0,60.0,0.0,250.0,322.0,871.0,516.0,0.0,1709.0,1959.0,61.1,250.0,1709.0
+Arbor Station,Douglas,2990.0,127.0,307.0,133.0,0.0,567.0,247.0,690.0,394.0,9.0,1340.0,1907.0,63.8,567.0,1340.0
+Chapel Hill,Douglas,4016.0,133.0,477.0,143.0,0.0,753.0,249.0,1165.0,693.0,6.0,2113.0,2866.0,71.4,753.0,2113.0
+Chestnut Log,Douglas,5177.0,76.0,257.0,107.0,0.0,440.0,252.0,1011.0,556.0,5.0,1824.0,2264.0,43.7,440.0,1824.0
+St Julians Episcopal,Douglas,2253.0,181.0,391.0,174.0,0.0,746.0,136.0,330.0,287.0,0.0,753.0,1499.0,66.5,746.0,753.0
+Lutheran Church-GS,Douglas,4149.0,190.0,638.0,257.0,1.0,1086.0,205.0,1085.0,668.0,1.0,1959.0,3045.0,73.4,1086.0,1959.0
+First Baptist Douglasville,Douglas,2478.0,120.0,415.0,199.0,0.0,734.0,103.0,577.0,440.0,0.0,1120.0,1854.0,74.8,734.0,1120.0
+D Wright Innovation Ctr,Paulding,7137.0,4.0,163.0,34.0,0.0,201.0,7.0,41.0,54.0,0.0,102.0,303.0,4.2,201.0,102.0
+Taylor Farm Park,Paulding,2761.0,78.0,396.0,136.0,0.0,610.0,43.0,165.0,87.0,0.0,295.0,905.0,32.8,610.0,295.0
+Dobbins Middle School,Paulding,8081.0,405.0,1982.0,487.0,2.0,2876.0,359.0,1623.0,983.0,2.0,2967.0,5843.0,72.3,2876.0,2967.0

@@ -1,4 +1,4 @@
-County,Registered Voters,Trey Kelley (I) (Rep)_Election Day Votes,Trey Kelley (I) (Rep)_Advanced Voting Votes,Trey Kelley (I) (Rep)_Absentee by Mail Votes,Trey Kelley (I) (Rep)_Provisional Votes,Trey Kelley (I) (Rep)_Choice Total,Lyndsay Arrendale (Dem)_Election Day Votes,Lyndsay Arrendale (Dem)_Advanced Voting Votes,Lyndsay Arrendale (Dem)_Absentee by Mail Votes,Lyndsay Arrendale (Dem)_Provisional Votes,Lyndsay Arrendale (Dem)_Choice Total,Total,calc_participation
-Bartow,8151.0,1307.0,1700.0,443.0,0.0,3450.0,183.0,292.0,232.0,0.0,707.0,4157.0,51.0
-Haralson,3753.0,965.0,911.0,285.0,0.0,2161.0,64.0,82.0,72.0,0.0,218.0,2379.0,63.4
-Polk,24189.0,2547.0,8330.0,1604.0,14.0,12495.0,793.0,2269.0,1081.0,6.0,4149.0,16644.0,68.8
+County,Registered Voters,Trey Kelley (I) (Rep)_Election Day Votes,Trey Kelley (I) (Rep)_Advanced Voting Votes,Trey Kelley (I) (Rep)_Absentee by Mail Votes,Trey Kelley (I) (Rep)_Provisional Votes,Trey Kelley (I) (Rep)_Choice Total,Lyndsay Arrendale (Dem)_Election Day Votes,Lyndsay Arrendale (Dem)_Advanced Voting Votes,Lyndsay Arrendale (Dem)_Absentee by Mail Votes,Lyndsay Arrendale (Dem)_Provisional Votes,Lyndsay Arrendale (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Bartow,8151.0,1307.0,1700.0,443.0,0.0,3450.0,183.0,292.0,232.0,0.0,707.0,4157.0,51.0,3450.0,707.0
+Haralson,3753.0,965.0,911.0,285.0,0.0,2161.0,64.0,82.0,72.0,0.0,218.0,2379.0,63.4,2161.0,218.0
+Polk,24189.0,2547.0,8330.0,1604.0,14.0,12495.0,793.0,2269.0,1081.0,6.0,4149.0,16644.0,68.8,12495.0,4149.0

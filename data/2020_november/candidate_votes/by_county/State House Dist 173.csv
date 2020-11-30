@@ -1,4 +1,4 @@
-County,Registered Voters,Darlene Taylor (I) (Rep)_Election Day Votes,Darlene Taylor (I) (Rep)_Advanced Voting Votes,Darlene Taylor (I) (Rep)_Absentee by Mail Votes,Darlene Taylor (I) (Rep)_Provisional Votes,Darlene Taylor (I) (Rep)_Choice Total,Booker T. Gainor (Dem)_Election Day Votes,Booker T. Gainor (Dem)_Advanced Voting Votes,Booker T. Gainor (Dem)_Absentee by Mail Votes,Booker T. Gainor (Dem)_Provisional Votes,Booker T. Gainor (Dem)_Choice Total,Total,calc_participation
-Decatur,9672.0,674.0,1229.0,320.0,2.0,2225.0,257.0,574.0,467.0,0.0,1298.0,3523.0,36.4
-Grady,15442.0,1916.0,3845.0,1148.0,7.0,6916.0,736.0,1883.0,1032.0,9.0,3660.0,10576.0,68.5
-Thomas,14351.0,819.0,3512.0,795.0,0.0,5126.0,742.0,2761.0,1303.0,2.0,4808.0,9934.0,69.2
+County,Registered Voters,Darlene Taylor (I) (Rep)_Election Day Votes,Darlene Taylor (I) (Rep)_Advanced Voting Votes,Darlene Taylor (I) (Rep)_Absentee by Mail Votes,Darlene Taylor (I) (Rep)_Provisional Votes,Darlene Taylor (I) (Rep)_Choice Total,Booker T. Gainor (Dem)_Election Day Votes,Booker T. Gainor (Dem)_Advanced Voting Votes,Booker T. Gainor (Dem)_Absentee by Mail Votes,Booker T. Gainor (Dem)_Provisional Votes,Booker T. Gainor (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Decatur,9672.0,674.0,1229.0,320.0,2.0,2225.0,257.0,574.0,467.0,0.0,1298.0,3523.0,36.4,2225.0,1298.0
+Grady,15442.0,1916.0,3845.0,1148.0,7.0,6916.0,736.0,1883.0,1032.0,9.0,3660.0,10576.0,68.5,6916.0,3660.0
+Thomas,14351.0,819.0,3512.0,795.0,0.0,5126.0,742.0,2761.0,1303.0,2.0,4808.0,9934.0,69.2,5126.0,4808.0

@@ -1,13 +1,13 @@
-Precinct,County,Registered Voters,Jacob Douylliez (Dem)_Election Day Votes,Jacob Douylliez (Dem)_Advanced Voting Votes,Jacob Douylliez (Dem)_Absentee by Mail Votes,Jacob Douylliez (Dem)_Provisional Votes,Jacob Douylliez (Dem)_Choice Total,Amrey Harden (Rep)_Election Day Votes,Amrey Harden (Rep)_Advanced Voting Votes,Amrey Harden (Rep)_Absentee by Mail Votes,Amrey Harden (Rep)_Provisional Votes,Amrey Harden (Rep)_Choice Total,Aaron W. Nowak (Rep)_Election Day Votes,Aaron W. Nowak (Rep)_Advanced Voting Votes,Aaron W. Nowak (Rep)_Absentee by Mail Votes,Aaron W. Nowak (Rep)_Provisional Votes,Aaron W. Nowak (Rep)_Choice Total,Total,calc_participation
-City Hall,Oconee,3910.0,88.0,619.0,305.0,0.0,1012.0,180.0,1042.0,342.0,0.0,1564.0,91.0,405.0,67.0,0.0,563.0,3139.0,80.3
-Colham Ferry,Oconee,1847.0,29.0,213.0,126.0,0.0,368.0,136.0,600.0,171.0,0.0,907.0,51.0,189.0,39.0,1.0,280.0,1555.0,84.2
-Antioch,Oconee,1397.0,27.0,95.0,81.0,0.0,203.0,192.0,460.0,139.0,0.0,791.0,37.0,84.0,16.0,0.0,137.0,1131.0,81.0
-Farmington,Oconee,737.0,16.0,69.0,55.0,0.0,140.0,99.0,171.0,43.0,0.0,313.0,47.0,71.0,9.0,0.0,127.0,580.0,78.7
-Bishop,Oconee,1938.0,45.0,216.0,147.0,1.0,409.0,134.0,531.0,129.0,1.0,795.0,71.0,247.0,43.0,0.0,361.0,1565.0,80.8
-High Shoals,Oconee,1939.0,31.0,225.0,110.0,0.0,366.0,139.0,631.0,135.0,0.0,905.0,73.0,239.0,41.0,0.0,353.0,1624.0,83.8
-North Oconee,Oconee,1244.0,19.0,128.0,70.0,0.0,217.0,103.0,340.0,91.0,0.0,534.0,59.0,167.0,40.0,0.0,266.0,1017.0,81.8
-Dark Corner,Oconee,3541.0,57.0,309.0,170.0,1.0,537.0,266.0,1060.0,279.0,0.0,1605.0,147.0,532.0,71.0,0.0,750.0,2892.0,81.7
-Bogart,Oconee,2384.0,72.0,241.0,152.0,0.0,465.0,220.0,543.0,179.0,0.0,942.0,80.0,282.0,46.0,0.0,408.0,1815.0,76.1
-Marswood Hall,Oconee,4091.0,62.0,462.0,395.0,0.0,919.0,152.0,1032.0,438.0,0.0,1622.0,119.0,539.0,161.0,0.0,819.0,3360.0,82.1
-East Oconee,Oconee,2647.0,64.0,344.0,273.0,0.0,681.0,77.0,703.0,209.0,0.0,989.0,41.0,271.0,55.0,0.0,367.0,2037.0,77.0
-Civic Center,Oconee,4396.0,76.0,579.0,399.0,0.0,1054.0,161.0,1237.0,397.0,0.0,1795.0,115.0,452.0,100.0,0.0,667.0,3516.0,80.0
+Precinct,County,Registered Voters,Jacob Douylliez (Dem)_Election Day Votes,Jacob Douylliez (Dem)_Advanced Voting Votes,Jacob Douylliez (Dem)_Absentee by Mail Votes,Jacob Douylliez (Dem)_Provisional Votes,Jacob Douylliez (Dem)_Choice Total,Amrey Harden (Rep)_Election Day Votes,Amrey Harden (Rep)_Advanced Voting Votes,Amrey Harden (Rep)_Absentee by Mail Votes,Amrey Harden (Rep)_Provisional Votes,Amrey Harden (Rep)_Choice Total,Aaron W. Nowak (Rep)_Election Day Votes,Aaron W. Nowak (Rep)_Advanced Voting Votes,Aaron W. Nowak (Rep)_Absentee by Mail Votes,Aaron W. Nowak (Rep)_Provisional Votes,Aaron W. Nowak (Rep)_Choice Total,Total,calc_participation,Dem_total,Rep_total,Rep_steal
+City Hall,Oconee,3910.0,88.0,619.0,305.0,0.0,1012.0,180.0,1042.0,342.0,0.0,1564.0,91.0,405.0,67.0,0.0,563.0,3139.0,80.3,1012.0,2127.0,563.0
+Colham Ferry,Oconee,1847.0,29.0,213.0,126.0,0.0,368.0,136.0,600.0,171.0,0.0,907.0,51.0,189.0,39.0,1.0,280.0,1555.0,84.2,368.0,1187.0,280.0
+Antioch,Oconee,1397.0,27.0,95.0,81.0,0.0,203.0,192.0,460.0,139.0,0.0,791.0,37.0,84.0,16.0,0.0,137.0,1131.0,81.0,203.0,928.0,137.0
+Farmington,Oconee,737.0,16.0,69.0,55.0,0.0,140.0,99.0,171.0,43.0,0.0,313.0,47.0,71.0,9.0,0.0,127.0,580.0,78.7,140.0,440.0,127.0
+Bishop,Oconee,1938.0,45.0,216.0,147.0,1.0,409.0,134.0,531.0,129.0,1.0,795.0,71.0,247.0,43.0,0.0,361.0,1565.0,80.8,409.0,1156.0,361.0
+High Shoals,Oconee,1939.0,31.0,225.0,110.0,0.0,366.0,139.0,631.0,135.0,0.0,905.0,73.0,239.0,41.0,0.0,353.0,1624.0,83.8,366.0,1258.0,353.0
+North Oconee,Oconee,1244.0,19.0,128.0,70.0,0.0,217.0,103.0,340.0,91.0,0.0,534.0,59.0,167.0,40.0,0.0,266.0,1017.0,81.8,217.0,800.0,266.0
+Dark Corner,Oconee,3541.0,57.0,309.0,170.0,1.0,537.0,266.0,1060.0,279.0,0.0,1605.0,147.0,532.0,71.0,0.0,750.0,2892.0,81.7,537.0,2355.0,750.0
+Bogart,Oconee,2384.0,72.0,241.0,152.0,0.0,465.0,220.0,543.0,179.0,0.0,942.0,80.0,282.0,46.0,0.0,408.0,1815.0,76.1,465.0,1350.0,408.0
+Marswood Hall,Oconee,4091.0,62.0,462.0,395.0,0.0,919.0,152.0,1032.0,438.0,0.0,1622.0,119.0,539.0,161.0,0.0,819.0,3360.0,82.1,919.0,2441.0,819.0
+East Oconee,Oconee,2647.0,64.0,344.0,273.0,0.0,681.0,77.0,703.0,209.0,0.0,989.0,41.0,271.0,55.0,0.0,367.0,2037.0,77.0,681.0,1356.0,367.0
+Civic Center,Oconee,4396.0,76.0,579.0,399.0,0.0,1054.0,161.0,1237.0,397.0,0.0,1795.0,115.0,452.0,100.0,0.0,667.0,3516.0,80.0,1054.0,2462.0,667.0

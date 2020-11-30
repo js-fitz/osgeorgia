@@ -1,11 +1,11 @@
-County,Registered Voters,Tyler Harper (I) (Rep)_Election Day Votes,Tyler Harper (I) (Rep)_Advanced Voting Votes,Tyler Harper (I) (Rep)_Absentee by Mail Votes,Tyler Harper (I) (Rep)_Provisional Votes,Tyler Harper (I) (Rep)_Choice Total,Total,calc_participation
-Atkinson,4799.0,795.0,1505.0,217.0,1.0,2518.0,2518.0,52.5
-Bacon,6720.0,477.0,3080.0,533.0,1.0,4091.0,4091.0,60.9
-Ben Hill,9854.0,633.0,3723.0,829.0,0.0,5185.0,5185.0,52.6
-Berrien,11275.0,1977.0,4007.0,884.0,9.0,6877.0,6877.0,61.0
-Charlton,2184.0,567.0,512.0,156.0,2.0,1237.0,1237.0,56.6
-Coffee,25114.0,2948.0,7790.0,1216.0,7.0,11961.0,11961.0,47.6
-Irwin,6113.0,766.0,2329.0,462.0,3.0,3560.0,3560.0,58.2
-Pierce,12717.0,1260.0,5855.0,1043.0,0.0,8158.0,8158.0,64.2
-Ware,21994.0,2837.0,6770.0,1993.0,29.0,11629.0,11629.0,52.9
-Wilcox,2597.0,269.0,763.0,185.0,0.0,1217.0,1217.0,46.9
+County,Registered Voters,Tyler Harper (I) (Rep)_Election Day Votes,Tyler Harper (I) (Rep)_Advanced Voting Votes,Tyler Harper (I) (Rep)_Absentee by Mail Votes,Tyler Harper (I) (Rep)_Provisional Votes,Tyler Harper (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Atkinson,4799.0,795.0,1505.0,217.0,1.0,2518.0,2518.0,52.5,2518.0
+Bacon,6720.0,477.0,3080.0,533.0,1.0,4091.0,4091.0,60.9,4091.0
+Ben Hill,9854.0,633.0,3723.0,829.0,0.0,5185.0,5185.0,52.6,5185.0
+Berrien,11275.0,1977.0,4007.0,884.0,9.0,6877.0,6877.0,61.0,6877.0
+Charlton,2184.0,567.0,512.0,156.0,2.0,1237.0,1237.0,56.6,1237.0
+Coffee,25114.0,2948.0,7790.0,1216.0,7.0,11961.0,11961.0,47.6,11961.0
+Irwin,6113.0,766.0,2329.0,462.0,3.0,3560.0,3560.0,58.2,3560.0
+Pierce,12717.0,1260.0,5855.0,1043.0,0.0,8158.0,8158.0,64.2,8158.0
+Ware,21994.0,2837.0,6770.0,1993.0,29.0,11629.0,11629.0,52.9,11629.0
+Wilcox,2597.0,269.0,763.0,185.0,0.0,1217.0,1217.0,46.9,1217.0

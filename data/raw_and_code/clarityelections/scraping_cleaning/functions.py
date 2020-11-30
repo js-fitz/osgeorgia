@@ -77,7 +77,7 @@ def pre_scraper(state, election_id):
 def define_directories():
     
     # use today's date details for scraped_ child directory structure 
-    config.mo_dy = 'nov_29' #dt.strftime(dt.today(), '%b_%d').lower()
+    config.mo_dy = dt.strftime(dt.today(), '%b_%d').lower()
 
     # use election date for parent directory structure
     e_date_dt = dt.strptime(config.race_date, '%B %d, %Y')
@@ -387,7 +387,7 @@ def prompt_typo_fixes(merged):
             f_score = fuzz.ratio(cand, compare)
             spells = {'1': cand, '2': compare}
             
-            if f_score > 85: # maybe match, ask for input
+            if f_score > 95: # maybe match, ask for input
                 print(f"\nPOSSIBLE typo found ({f_score}% match)")
                 for i, c in spells.items():
                     print(f" > {i}. {c} — {int(merged[c+'_'+'Choice Total'].sum())} total votes")
@@ -411,7 +411,7 @@ def prompt_typo_fixes(merged):
                 merged[correct_col] += merged[typo_col] # overwrite with addition
                 merged.drop(typo_col, axis=1, inplace=True) # drop typo column
 
-            print(f" > Added {int(total_added)} votes to {correct_spell}'s statewide total")
+            print(f" > Candidate totals joined for {correct_spell}")
             print(f" > Removed {typo_spell}")
                     
         remaining.remove(cand) # for minimal iterations
@@ -470,6 +470,41 @@ def get_part_rates(merged):
             except: pass
     return merged
 
+# calc stats on each party. 
+def get_party_totals(df):
+    party_cands = {}
+
+    for c in df.columns:
+        if '(' in c and 'Total' in c: 
+            
+            if c.count('(')>1: # ignore "i" if a party is indicated
+                party = c.split('(')[2].split(')')[0]
+            else: party = c.split('(')[1].split(')')[0]
+                
+            if party=='I': party='Ind'
+            if party not in party_cands.keys():            
+                party_cands[party] = []
+
+            party_cands[party].append(c)
+
+
+    for party, cand_totals in party_cands.items():
+    
+        # get top candidate for this party
+        c_totals = {cand: df[cand].sum() for cand in cand_totals}
+        party_leader = max(c_totals, key=c_totals.get)
+
+        # calculate party total
+        df[f'{party}_total'] = pd.Series(dtype=float)
+        df[f'{party}_total'] = df[f'{party}_total'].fillna(0)
+        for cand in cand_totals:
+            df[f'{party}_total'] += df[cand]
+
+        if len(cand_totals)>1:
+            df[f'{party}_steal'] = df[f'{party}_total'] - df[party_leader]
+            
+    return df
+
 
 def save(merged, race):
     target_dir = config.target_cleaned_dir
@@ -484,6 +519,7 @@ def save(merged, race):
     if not os.path.exists(f'{target_dir}/{sub_dir}'):
         os.makedirs(f'{target_dir}/{sub_dir}')
     m = get_part_rates(merged)
+    m = get_party_totals(m)
     m.to_csv(
         os.path.join(target_dir, sub_dir, race), index=False)
 
@@ -496,6 +532,7 @@ def save(merged, race):
     counties = get_part_rates(counties)
     counties = counties.sort_values('County')
     
+    counties = get_party_totals(counties)
     counties.to_csv(  # index is county now, so don't drop.
         os.path.join(target_dir, sub_dir, race))
     

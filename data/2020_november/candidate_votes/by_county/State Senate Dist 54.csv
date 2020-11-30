@@ -1,5 +1,5 @@
-County,Registered Voters,Chuck Payne (I) (Rep)_Election Day Votes,Chuck Payne (I) (Rep)_Advanced Voting Votes,Chuck Payne (I) (Rep)_Absentee by Mail Votes,Chuck Payne (I) (Rep)_Provisional Votes,Chuck Payne (I) (Rep)_Choice Total,Total,calc_participation
-Gordon,14378.0,3659.0,3874.0,1078.0,3.0,8614.0,8614.0,59.9
-Murray,22284.0,3932.0,7837.0,1560.0,0.0,13329.0,13329.0,59.8
-Pickens,11682.0,2818.0,2360.0,689.0,7.0,5874.0,5874.0,50.3
-Whitfield,54749.0,10202.0,15011.0,4688.0,50.0,29951.0,29951.0,54.7
+County,Registered Voters,Chuck Payne (I) (Rep)_Election Day Votes,Chuck Payne (I) (Rep)_Advanced Voting Votes,Chuck Payne (I) (Rep)_Absentee by Mail Votes,Chuck Payne (I) (Rep)_Provisional Votes,Chuck Payne (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Gordon,14378.0,3659.0,3874.0,1078.0,3.0,8614.0,8614.0,59.9,8614.0
+Murray,22284.0,3932.0,7837.0,1560.0,0.0,13329.0,13329.0,59.8,13329.0
+Pickens,11682.0,2818.0,2360.0,689.0,7.0,5874.0,5874.0,50.3,5874.0
+Whitfield,54749.0,10202.0,15011.0,4688.0,50.0,29951.0,29951.0,54.7,29951.0

@@ -1,4 +1,4 @@
-County,Registered Voters,Brian Strickland (I) (Rep)_Election Day Votes,Brian Strickland (I) (Rep)_Advanced Voting Votes,Brian Strickland (I) (Rep)_Absentee by Mail Votes,Brian Strickland (I) (Rep)_Provisional Votes,Brian Strickland (I) (Rep)_Choice Total,Kelly Rose (Dem)_Election Day Votes,Kelly Rose (Dem)_Advanced Voting Votes,Kelly Rose (Dem)_Absentee by Mail Votes,Kelly Rose (Dem)_Provisional Votes,Kelly Rose (Dem)_Choice Total,Total,calc_participation
-Henry,100989.0,6358.0,22661.0,5337.0,12.0,34368.0,4673.0,21245.0,10434.0,32.0,36384.0,70752.0,70.1
-Newton,30624.0,6892.0,4286.0,2555.0,6.0,13739.0,2017.0,3286.0,2852.0,4.0,8159.0,21898.0,71.5
-Rockdale,14337.0,966.0,2427.0,953.0,1.0,4347.0,726.0,3405.0,1839.0,0.0,5970.0,10317.0,72.0
+County,Registered Voters,Brian Strickland (I) (Rep)_Election Day Votes,Brian Strickland (I) (Rep)_Advanced Voting Votes,Brian Strickland (I) (Rep)_Absentee by Mail Votes,Brian Strickland (I) (Rep)_Provisional Votes,Brian Strickland (I) (Rep)_Choice Total,Kelly Rose (Dem)_Election Day Votes,Kelly Rose (Dem)_Advanced Voting Votes,Kelly Rose (Dem)_Absentee by Mail Votes,Kelly Rose (Dem)_Provisional Votes,Kelly Rose (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Henry,100989.0,6358.0,22661.0,5337.0,12.0,34368.0,4673.0,21245.0,10434.0,32.0,36384.0,70752.0,70.1,34368.0,36384.0
+Newton,30624.0,6892.0,4286.0,2555.0,6.0,13739.0,2017.0,3286.0,2852.0,4.0,8159.0,21898.0,71.5,13739.0,8159.0
+Rockdale,14337.0,966.0,2427.0,953.0,1.0,4347.0,726.0,3405.0,1839.0,0.0,5970.0,10317.0,72.0,4347.0,5970.0

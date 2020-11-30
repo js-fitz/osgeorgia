@@ -1,3 +1,3 @@
-County,Registered Voters,John Albers (I) (Rep)_Election Day Votes,John Albers (I) (Rep)_Advanced Voting Votes,John Albers (I) (Rep)_Absentee by Mail Votes,John Albers (I) (Rep)_Provisional Votes,John Albers (I) (Rep)_Choice Total,Sarah Beeson (Dem)_Election Day Votes,Sarah Beeson (Dem)_Advanced Voting Votes,Sarah Beeson (Dem)_Absentee by Mail Votes,Sarah Beeson (Dem)_Provisional Votes,Sarah Beeson (Dem)_Choice Total,Total,calc_participation
-Cherokee,7480.0,580.0,1719.0,1058.0,0.0,3357.0,215.0,755.0,955.0,0.0,1925.0,5282.0,70.6
-Fulton,130550.0,5876.0,30962.0,11066.0,215.0,48119.0,4058.0,27630.0,15409.0,262.0,47359.0,95478.0,73.1
+County,Registered Voters,John Albers (I) (Rep)_Election Day Votes,John Albers (I) (Rep)_Advanced Voting Votes,John Albers (I) (Rep)_Absentee by Mail Votes,John Albers (I) (Rep)_Provisional Votes,John Albers (I) (Rep)_Choice Total,Sarah Beeson (Dem)_Election Day Votes,Sarah Beeson (Dem)_Advanced Voting Votes,Sarah Beeson (Dem)_Absentee by Mail Votes,Sarah Beeson (Dem)_Provisional Votes,Sarah Beeson (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Cherokee,7480.0,580.0,1719.0,1058.0,0.0,3357.0,215.0,755.0,955.0,0.0,1925.0,5282.0,70.6,3357.0,1925.0
+Fulton,130550.0,5876.0,30962.0,11066.0,215.0,48119.0,4058.0,27630.0,15409.0,262.0,47359.0,95478.0,73.1,48119.0,47359.0

@@ -1,5 +1,5 @@
-County,Registered Voters,Steven Meeks (I) (Rep)_Election Day Votes,Steven Meeks (I) (Rep)_Advanced Voting Votes,Steven Meeks (I) (Rep)_Absentee by Mail Votes,Steven Meeks (I) (Rep)_Provisional Votes,Steven Meeks (I) (Rep)_Choice Total,Total,calc_participation
-Appling,3925.0,510.0,1043.0,275.0,1.0,1829.0,1829.0,46.6
-Brantley,11888.0,1969.0,4249.0,738.0,7.0,6963.0,6963.0,58.6
-Pierce,12717.0,1270.0,5873.0,1038.0,0.0,8181.0,8181.0,64.3
-Wayne,8244.0,1510.0,2834.0,672.0,4.0,5020.0,5020.0,60.9
+County,Registered Voters,Steven Meeks (I) (Rep)_Election Day Votes,Steven Meeks (I) (Rep)_Advanced Voting Votes,Steven Meeks (I) (Rep)_Absentee by Mail Votes,Steven Meeks (I) (Rep)_Provisional Votes,Steven Meeks (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Appling,3925.0,510.0,1043.0,275.0,1.0,1829.0,1829.0,46.6,1829.0
+Brantley,11888.0,1969.0,4249.0,738.0,7.0,6963.0,6963.0,58.6,6963.0
+Pierce,12717.0,1270.0,5873.0,1038.0,0.0,8181.0,8181.0,64.3,8181.0
+Wayne,8244.0,1510.0,2834.0,672.0,4.0,5020.0,5020.0,60.9,5020.0

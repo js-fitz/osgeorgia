@@ -1,2 +1,2 @@
-County,Precinct,Registered Voters,Sheila Clark Nelson (I) (Dem)_Election Day Votes,Sheila Clark Nelson (I) (Dem)_Advanced Voting Votes,Sheila Clark Nelson (I) (Dem)_Absentee by Mail Votes,Sheila Clark Nelson (I) (Dem)_Provisional Votes,Sheila Clark Nelson (I) (Dem)_Choice Total,Total,calc_participation
-Richmond,7893.0,37021.0,4778.0,7209.0,5659.0,20.0,17666.0,17666.0,47.7
+County,Precinct,Registered Voters,Sheila Clark Nelson (I) (Dem)_Election Day Votes,Sheila Clark Nelson (I) (Dem)_Advanced Voting Votes,Sheila Clark Nelson (I) (Dem)_Absentee by Mail Votes,Sheila Clark Nelson (I) (Dem)_Provisional Votes,Sheila Clark Nelson (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Richmond,7893.0,37021.0,4778.0,7209.0,5659.0,20.0,17666.0,17666.0,47.7,17666.0

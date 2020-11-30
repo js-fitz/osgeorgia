@@ -1,8 +1,8 @@
-County,Registered Voters,Ed Harbison (I) (Dem)_Election Day Votes,Ed Harbison (I) (Dem)_Advanced Voting Votes,Ed Harbison (I) (Dem)_Absentee by Mail Votes,Ed Harbison (I) (Dem)_Provisional Votes,Ed Harbison (I) (Dem)_Choice Total,Total,calc_participation
-Chattahoochee,0.0,279.0,528.0,217.0,0.0,1024.0,1024.0,0.0
-Macon,6991.0,790.0,1801.0,697.0,0.0,3288.0,3288.0,47.0
-Marion,4913.0,594.0,1212.0,599.0,0.0,2405.0,2405.0,49.0
-Muscogee,79489.0,5283.0,18623.0,12060.0,23.0,35989.0,35989.0,45.3
-Schley,2882.0,217.0,765.0,204.0,1.0,1187.0,1187.0,41.2
-Talbot,4563.0,761.0,891.0,968.0,1.0,2621.0,2621.0,57.4
-Taylor,5400.0,430.0,1472.0,575.0,7.0,2484.0,2484.0,46.0
+County,Registered Voters,Ed Harbison (I) (Dem)_Election Day Votes,Ed Harbison (I) (Dem)_Advanced Voting Votes,Ed Harbison (I) (Dem)_Absentee by Mail Votes,Ed Harbison (I) (Dem)_Provisional Votes,Ed Harbison (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Chattahoochee,0.0,279.0,528.0,217.0,0.0,1024.0,1024.0,0.0,1024.0
+Macon,6991.0,790.0,1801.0,697.0,0.0,3288.0,3288.0,47.0,3288.0
+Marion,4913.0,594.0,1212.0,599.0,0.0,2405.0,2405.0,49.0,2405.0
+Muscogee,79489.0,5283.0,18623.0,12060.0,23.0,35989.0,35989.0,45.3,35989.0
+Schley,2882.0,217.0,765.0,204.0,1.0,1187.0,1187.0,41.2,1187.0
+Talbot,4563.0,761.0,891.0,968.0,1.0,2621.0,2621.0,57.4,2621.0
+Taylor,5400.0,430.0,1472.0,575.0,7.0,2484.0,2484.0,46.0,2484.0

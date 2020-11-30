@@ -1,13 +1,13 @@
-Precinct,County,Registered Voters,Lynn Smith (I) (Rep)_Election Day Votes,Lynn Smith (I) (Rep)_Advanced Voting Votes,Lynn Smith (I) (Rep)_Absentee by Mail Votes,Lynn Smith (I) (Rep)_Provisional Votes,Lynn Smith (I) (Rep)_Choice Total,Total,calc_participation
-Whitesburg,Carroll,2190.0,567.0,594.0,159.0,0.0,1320.0,1320.0,60.3
-Dresden,Coweta,839.0,363.0,122.0,86.0,0.0,571.0,571.0,68.1
-Newnan,Coweta,3478.0,499.0,563.0,411.0,0.0,1473.0,1473.0,42.4
-Cedar Creek,Coweta,5330.0,1067.0,1781.0,862.0,0.0,3710.0,3710.0,69.6
-Welcome,Coweta,3212.0,1128.0,550.0,400.0,0.0,2078.0,2078.0,64.7
-Panther Creek,Coweta,3028.0,951.0,574.0,367.0,0.0,1892.0,1892.0,62.5
-Central,Coweta,4395.0,155.0,287.0,121.0,2.0,565.0,565.0,12.9
-Newnan Centre,Coweta,20465.0,1990.0,4311.0,2120.0,2.0,8423.0,8423.0,41.2
-Greentop,Coweta,2846.0,592.0,586.0,458.0,0.0,1636.0,1636.0,57.5
-Expo Center,Coweta,1974.0,545.0,424.0,330.0,0.0,1299.0,1299.0,65.8
-Westside,Coweta,838.0,174.0,91.0,85.0,0.0,350.0,350.0,41.8
-Northside,Coweta,2285.0,649.0,428.0,348.0,0.0,1425.0,1425.0,62.4
+Precinct,County,Registered Voters,Lynn Smith (I) (Rep)_Election Day Votes,Lynn Smith (I) (Rep)_Advanced Voting Votes,Lynn Smith (I) (Rep)_Absentee by Mail Votes,Lynn Smith (I) (Rep)_Provisional Votes,Lynn Smith (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Whitesburg,Carroll,2190.0,567.0,594.0,159.0,0.0,1320.0,1320.0,60.3,1320.0
+Dresden,Coweta,839.0,363.0,122.0,86.0,0.0,571.0,571.0,68.1,571.0
+Newnan,Coweta,3478.0,499.0,563.0,411.0,0.0,1473.0,1473.0,42.4,1473.0
+Cedar Creek,Coweta,5330.0,1067.0,1781.0,862.0,0.0,3710.0,3710.0,69.6,3710.0
+Welcome,Coweta,3212.0,1128.0,550.0,400.0,0.0,2078.0,2078.0,64.7,2078.0
+Panther Creek,Coweta,3028.0,951.0,574.0,367.0,0.0,1892.0,1892.0,62.5,1892.0
+Central,Coweta,4395.0,155.0,287.0,121.0,2.0,565.0,565.0,12.9,565.0
+Newnan Centre,Coweta,20465.0,1990.0,4311.0,2120.0,2.0,8423.0,8423.0,41.2,8423.0
+Greentop,Coweta,2846.0,592.0,586.0,458.0,0.0,1636.0,1636.0,57.5,1636.0
+Expo Center,Coweta,1974.0,545.0,424.0,330.0,0.0,1299.0,1299.0,65.8,1299.0
+Westside,Coweta,838.0,174.0,91.0,85.0,0.0,350.0,350.0,41.8,350.0
+Northside,Coweta,2285.0,649.0,428.0,348.0,0.0,1425.0,1425.0,62.4,1425.0

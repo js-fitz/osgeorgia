@@ -1,10 +1,10 @@
-Precinct,County,Registered Voters,Ray Edwin Mosley (I) (Dem)_Election Day Votes,Ray Edwin Mosley (I) (Dem)_Advanced Voting Votes,Ray Edwin Mosley (I) (Dem)_Absentee by Mail Votes,Ray Edwin Mosley (I) (Dem)_Provisional Votes,Ray Edwin Mosley (I) (Dem)_Choice Total,Total,calc_participation
-Lockhart,Bulloch,720.0,66.0,49.0,39.0,0.0,154.0,154.0,21.4
-Statesboro,Bulloch,6312.0,432.0,931.0,516.0,9.0,1888.0,1888.0,29.9
-Portal,Bulloch,1735.0,338.0,228.0,156.0,0.0,722.0,722.0,41.6
-Fair,Bulloch,6335.0,48.0,69.0,20.0,2.0,139.0,139.0,2.2
-Church,Bulloch,5793.0,329.0,614.0,406.0,3.0,1352.0,1352.0,23.3
-Pittman Park,Bulloch,5279.0,180.0,291.0,57.0,1.0,529.0,529.0,10.0
-Hagin,Bulloch,2403.0,82.0,91.0,68.0,1.0,242.0,242.0,10.1
-Sinkhole,Bulloch,488.0,1.0,3.0,4.0,0.0,8.0,8.0,1.6
-Register,Bulloch,969.0,95.0,90.0,56.0,0.0,241.0,241.0,24.9
+Precinct,County,Registered Voters,Ray Edwin Mosley (I) (Dem)_Election Day Votes,Ray Edwin Mosley (I) (Dem)_Advanced Voting Votes,Ray Edwin Mosley (I) (Dem)_Absentee by Mail Votes,Ray Edwin Mosley (I) (Dem)_Provisional Votes,Ray Edwin Mosley (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Lockhart,Bulloch,720.0,66.0,49.0,39.0,0.0,154.0,154.0,21.4,154.0
+Statesboro,Bulloch,6312.0,432.0,931.0,516.0,9.0,1888.0,1888.0,29.9,1888.0
+Portal,Bulloch,1735.0,338.0,228.0,156.0,0.0,722.0,722.0,41.6,722.0
+Fair,Bulloch,6335.0,48.0,69.0,20.0,2.0,139.0,139.0,2.2,139.0
+Church,Bulloch,5793.0,329.0,614.0,406.0,3.0,1352.0,1352.0,23.3,1352.0
+Pittman Park,Bulloch,5279.0,180.0,291.0,57.0,1.0,529.0,529.0,10.0,529.0
+Hagin,Bulloch,2403.0,82.0,91.0,68.0,1.0,242.0,242.0,10.1,242.0
+Sinkhole,Bulloch,488.0,1.0,3.0,4.0,0.0,8.0,8.0,1.6,8.0
+Register,Bulloch,969.0,95.0,90.0,56.0,0.0,241.0,241.0,24.9,241.0

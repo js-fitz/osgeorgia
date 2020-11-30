@@ -1,9 +1,9 @@
-County,Registered Voters,Lee Anderson (I) (Rep)_Election Day Votes,Lee Anderson (I) (Rep)_Advanced Voting Votes,Lee Anderson (I) (Rep)_Absentee by Mail Votes,Lee Anderson (I) (Rep)_Provisional Votes,Lee Anderson (I) (Rep)_Choice Total,Total,calc_participation
-Columbia,106244.0,12397.0,30484.0,8506.0,50.0,51437.0,51437.0,48.4
-Elbert,12305.0,2024.0,3915.0,1394.0,0.0,7333.0,7333.0,59.6
-Hart,16929.0,2568.0,6140.0,1792.0,2.0,10502.0,10502.0,62.0
-Lincoln,6176.0,1025.0,2028.0,635.0,1.0,3689.0,3689.0,59.7
-Oglethorpe,10844.0,1241.0,3968.0,1205.0,2.0,6416.0,6416.0,59.2
-Richmond,576.0,62.0,160.0,97.0,0.0,319.0,319.0,55.4
-Taliaferro,1245.0,132.0,258.0,97.0,0.0,487.0,487.0,39.1
-Wilkes,6819.0,923.0,1958.0,705.0,7.0,3593.0,3593.0,52.7
+County,Registered Voters,Lee Anderson (I) (Rep)_Election Day Votes,Lee Anderson (I) (Rep)_Advanced Voting Votes,Lee Anderson (I) (Rep)_Absentee by Mail Votes,Lee Anderson (I) (Rep)_Provisional Votes,Lee Anderson (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Columbia,106244.0,12397.0,30484.0,8506.0,50.0,51437.0,51437.0,48.4,51437.0
+Elbert,12305.0,2024.0,3915.0,1394.0,0.0,7333.0,7333.0,59.6,7333.0
+Hart,16929.0,2568.0,6140.0,1792.0,2.0,10502.0,10502.0,62.0,10502.0
+Lincoln,6176.0,1025.0,2028.0,635.0,1.0,3689.0,3689.0,59.7,3689.0
+Oglethorpe,10844.0,1241.0,3968.0,1205.0,2.0,6416.0,6416.0,59.2,6416.0
+Richmond,576.0,62.0,160.0,97.0,0.0,319.0,319.0,55.4,319.0
+Taliaferro,1245.0,132.0,258.0,97.0,0.0,487.0,487.0,39.1,487.0
+Wilkes,6819.0,923.0,1958.0,705.0,7.0,3593.0,3593.0,52.7,3593.0

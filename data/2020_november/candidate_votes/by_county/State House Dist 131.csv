@@ -1,4 +1,4 @@
-County,Registered Voters,Beth Camp (Rep)_Election Day Votes,Beth Camp (Rep)_Advanced Voting Votes,Beth Camp (Rep)_Absentee by Mail Votes,Beth Camp (Rep)_Provisional Votes,Beth Camp (Rep)_Choice Total,Chris Benton (Dem)_Election Day Votes,Chris Benton (Dem)_Advanced Voting Votes,Chris Benton (Dem)_Absentee by Mail Votes,Chris Benton (Dem)_Provisional Votes,Chris Benton (Dem)_Choice Total,Total,calc_participation
-Lamar,5977.0,630.0,1462.0,346.0,5.0,2443.0,258.0,691.0,551.0,1.0,1501.0,3944.0,66.0
-Pike,0.0,2353.0,5895.0,956.0,2.0,9206.0,256.0,617.0,476.0,2.0,1351.0,10557.0,0.0
-Upson,18175.0,1356.0,6018.0,1219.0,4.0,8597.0,632.0,1870.0,1462.0,0.0,3964.0,12561.0,69.1
+County,Registered Voters,Beth Camp (Rep)_Election Day Votes,Beth Camp (Rep)_Advanced Voting Votes,Beth Camp (Rep)_Absentee by Mail Votes,Beth Camp (Rep)_Provisional Votes,Beth Camp (Rep)_Choice Total,Chris Benton (Dem)_Election Day Votes,Chris Benton (Dem)_Advanced Voting Votes,Chris Benton (Dem)_Absentee by Mail Votes,Chris Benton (Dem)_Provisional Votes,Chris Benton (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Lamar,5977.0,630.0,1462.0,346.0,5.0,2443.0,258.0,691.0,551.0,1.0,1501.0,3944.0,66.0,2443.0,1501.0
+Pike,0.0,2353.0,5895.0,956.0,2.0,9206.0,256.0,617.0,476.0,2.0,1351.0,10557.0,0.0,9206.0,1351.0
+Upson,18175.0,1356.0,6018.0,1219.0,4.0,8597.0,632.0,1870.0,1462.0,0.0,3964.0,12561.0,69.1,8597.0,3964.0

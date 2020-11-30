@@ -1,2 +1,2 @@
-Precinct,County,Registered Voters,Dean A. Stringer (I)_Election Day Votes,Dean A. Stringer (I)_Advanced Voting Votes,Dean A. Stringer (I)_Absentee by Mail Votes,Dean A. Stringer (I)_Provisional Votes,Dean A. Stringer (I)_Choice Total,Total,calc_participation
-South Jackson,Jackson,8012.0,425.0,1072.0,384.0,1.0,1882.0,1882.0,23.5
+Precinct,County,Registered Voters,Dean A. Stringer (I)_Election Day Votes,Dean A. Stringer (I)_Advanced Voting Votes,Dean A. Stringer (I)_Absentee by Mail Votes,Dean A. Stringer (I)_Provisional Votes,Dean A. Stringer (I)_Choice Total,Total,calc_participation,Ind_total
+South Jackson,Jackson,8012.0,425.0,1072.0,384.0,1.0,1882.0,1882.0,23.5,1882.0

@@ -1,4 +1,4 @@
-County,Registered Voters,"Vance Smith, Jr. (I) (Rep)_Election Day Votes","Vance Smith, Jr. (I) (Rep)_Advanced Voting Votes","Vance Smith, Jr. (I) (Rep)_Absentee by Mail Votes","Vance Smith, Jr. (I) (Rep)_Provisional Votes","Vance Smith, Jr. (I) (Rep)_Choice Total",Total,calc_participation
-Harris,14879.0,3831.0,4428.0,1668.0,14.0,9941.0,9941.0,66.8
-Muscogee,9184.0,956.0,3503.0,1487.0,9.0,5955.0,5955.0,64.8
-Troup,22821.0,2664.0,4858.0,1660.0,16.0,9198.0,9198.0,40.3
+County,Registered Voters,"Vance Smith, Jr. (I) (Rep)_Election Day Votes","Vance Smith, Jr. (I) (Rep)_Advanced Voting Votes","Vance Smith, Jr. (I) (Rep)_Absentee by Mail Votes","Vance Smith, Jr. (I) (Rep)_Provisional Votes","Vance Smith, Jr. (I) (Rep)_Choice Total",Total,calc_participation,Rep_total
+Harris,14879.0,3831.0,4428.0,1668.0,14.0,9941.0,9941.0,66.8,9941.0
+Muscogee,9184.0,956.0,3503.0,1487.0,9.0,5955.0,5955.0,64.8,5955.0
+Troup,22821.0,2664.0,4858.0,1660.0,16.0,9198.0,9198.0,40.3,9198.0

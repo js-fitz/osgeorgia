@@ -1,4 +1,4 @@
-County,Registered Voters,Ben Watson (I) (Rep)_Election Day Votes,Ben Watson (I) (Rep)_Advanced Voting Votes,Ben Watson (I) (Rep)_Absentee by Mail Votes,Ben Watson (I) (Rep)_Provisional Votes,Ben Watson (I) (Rep)_Choice Total,Total,calc_participation
-Bryan,30608.0,3072.0,11830.0,2380.0,5.0,17287.0,17287.0,56.5
-Chatham,76246.0,13248.0,18972.0,11782.0,68.0,44070.0,44070.0,57.8
-Liberty,29743.0,2023.0,6527.0,2281.0,4.0,10835.0,10835.0,36.4
+County,Registered Voters,Ben Watson (I) (Rep)_Election Day Votes,Ben Watson (I) (Rep)_Advanced Voting Votes,Ben Watson (I) (Rep)_Absentee by Mail Votes,Ben Watson (I) (Rep)_Provisional Votes,Ben Watson (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Bryan,30608.0,3072.0,11830.0,2380.0,5.0,17287.0,17287.0,56.5,17287.0
+Chatham,76246.0,13248.0,18972.0,11782.0,68.0,44070.0,44070.0,57.8,44070.0
+Liberty,29743.0,2023.0,6527.0,2281.0,4.0,10835.0,10835.0,36.4,10835.0

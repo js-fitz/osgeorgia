@@ -1,16 +1,16 @@
-Precinct,County,Registered Voters,Beth Camp (Rep)_Election Day Votes,Beth Camp (Rep)_Advanced Voting Votes,Beth Camp (Rep)_Absentee by Mail Votes,Beth Camp (Rep)_Provisional Votes,Beth Camp (Rep)_Choice Total,Chris Benton (Dem)_Election Day Votes,Chris Benton (Dem)_Advanced Voting Votes,Chris Benton (Dem)_Absentee by Mail Votes,Chris Benton (Dem)_Provisional Votes,Chris Benton (Dem)_Choice Total,Total,calc_participation
-Concord,Pike,0.0,285.0,530.0,85.0,0.0,900.0,48.0,83.0,79.0,0.0,210.0,1110.0,
-Hollonville,Pike,0.0,347.0,795.0,135.0,0.0,1277.0,13.0,46.0,42.0,0.0,101.0,1378.0,
-Meansville,Pike,0.0,279.0,551.0,78.0,0.0,908.0,32.0,50.0,22.0,0.0,104.0,1012.0,
-Molena,Pike,0.0,349.0,542.0,103.0,1.0,995.0,51.0,66.0,44.0,2.0,163.0,1158.0,
-Second District,Pike,0.0,376.0,1228.0,205.0,1.0,1810.0,35.0,106.0,68.0,0.0,209.0,2019.0,
-Lifsey Springs,Pike,0.0,209.0,478.0,83.0,0.0,770.0,18.0,33.0,47.0,0.0,98.0,868.0,
-Williamson,Pike,0.0,290.0,840.0,123.0,0.0,1253.0,29.0,65.0,48.0,0.0,142.0,1395.0,
-Zebulon,Pike,0.0,218.0,931.0,144.0,0.0,1293.0,30.0,168.0,126.0,0.0,324.0,1617.0,
-Barnesville,Lamar,2546.0,109.0,285.0,91.0,0.0,485.0,174.0,450.0,367.0,0.0,991.0,1476.0,58.0
-Redbone,Lamar,623.0,187.0,159.0,41.0,0.0,387.0,19.0,29.0,30.0,0.0,78.0,465.0,74.6
-L C S C,Lamar,2808.0,334.0,1018.0,214.0,5.0,1571.0,65.0,212.0,154.0,1.0,432.0,2003.0,71.3
-Yatesville,Upson,1347.0,349.0,363.0,69.0,0.0,781.0,63.0,66.0,108.0,0.0,237.0,1018.0,75.6
-Salem,Upson,370.0,18.0,23.0,13.0,0.0,54.0,63.0,73.0,113.0,0.0,249.0,303.0,81.9
-Redbone,Upson,8219.0,590.0,3446.0,634.0,2.0,4672.0,170.0,585.0,448.0,0.0,1203.0,5875.0,71.5
-Town,Upson,8239.0,399.0,2186.0,503.0,2.0,3090.0,336.0,1146.0,793.0,0.0,2275.0,5365.0,65.1
+Precinct,County,Registered Voters,Beth Camp (Rep)_Election Day Votes,Beth Camp (Rep)_Advanced Voting Votes,Beth Camp (Rep)_Absentee by Mail Votes,Beth Camp (Rep)_Provisional Votes,Beth Camp (Rep)_Choice Total,Chris Benton (Dem)_Election Day Votes,Chris Benton (Dem)_Advanced Voting Votes,Chris Benton (Dem)_Absentee by Mail Votes,Chris Benton (Dem)_Provisional Votes,Chris Benton (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Concord,Pike,0.0,285.0,530.0,85.0,0.0,900.0,48.0,83.0,79.0,0.0,210.0,1110.0,,900.0,210.0
+Hollonville,Pike,0.0,347.0,795.0,135.0,0.0,1277.0,13.0,46.0,42.0,0.0,101.0,1378.0,,1277.0,101.0
+Meansville,Pike,0.0,279.0,551.0,78.0,0.0,908.0,32.0,50.0,22.0,0.0,104.0,1012.0,,908.0,104.0
+Molena,Pike,0.0,349.0,542.0,103.0,1.0,995.0,51.0,66.0,44.0,2.0,163.0,1158.0,,995.0,163.0
+Second District,Pike,0.0,376.0,1228.0,205.0,1.0,1810.0,35.0,106.0,68.0,0.0,209.0,2019.0,,1810.0,209.0
+Lifsey Springs,Pike,0.0,209.0,478.0,83.0,0.0,770.0,18.0,33.0,47.0,0.0,98.0,868.0,,770.0,98.0
+Williamson,Pike,0.0,290.0,840.0,123.0,0.0,1253.0,29.0,65.0,48.0,0.0,142.0,1395.0,,1253.0,142.0
+Zebulon,Pike,0.0,218.0,931.0,144.0,0.0,1293.0,30.0,168.0,126.0,0.0,324.0,1617.0,,1293.0,324.0
+Barnesville,Lamar,2546.0,109.0,285.0,91.0,0.0,485.0,174.0,450.0,367.0,0.0,991.0,1476.0,58.0,485.0,991.0
+Redbone,Lamar,623.0,187.0,159.0,41.0,0.0,387.0,19.0,29.0,30.0,0.0,78.0,465.0,74.6,387.0,78.0
+L C S C,Lamar,2808.0,334.0,1018.0,214.0,5.0,1571.0,65.0,212.0,154.0,1.0,432.0,2003.0,71.3,1571.0,432.0
+Yatesville,Upson,1347.0,349.0,363.0,69.0,0.0,781.0,63.0,66.0,108.0,0.0,237.0,1018.0,75.6,781.0,237.0
+Salem,Upson,370.0,18.0,23.0,13.0,0.0,54.0,63.0,73.0,113.0,0.0,249.0,303.0,81.9,54.0,249.0
+Redbone,Upson,8219.0,590.0,3446.0,634.0,2.0,4672.0,170.0,585.0,448.0,0.0,1203.0,5875.0,71.5,4672.0,1203.0
+Town,Upson,8239.0,399.0,2186.0,503.0,2.0,3090.0,336.0,1146.0,793.0,0.0,2275.0,5365.0,65.1,3090.0,2275.0

@@ -1,9 +1,9 @@
-County,Registered Voters,Steve Gooch (I) (Rep)_Election Day Votes,Steve Gooch (I) (Rep)_Advanced Voting Votes,Steve Gooch (I) (Rep)_Absentee by Mail Votes,Steve Gooch (I) (Rep)_Provisional Votes,Steve Gooch (I) (Rep)_Choice Total,June Krise (Dem)_Election Day Votes,June Krise (Dem)_Advanced Voting Votes,June Krise (Dem)_Absentee by Mail Votes,June Krise (Dem)_Provisional Votes,June Krise (Dem)_Choice Total,Total,calc_participation
-Dawson,21529.0,2360.0,9048.0,2034.0,2.0,13444.0,234.0,1074.0,924.0,1.0,2233.0,15677.0,72.8
-Fannin,20399.0,4044.0,5632.0,2270.0,19.0,11965.0,369.0,958.0,1068.0,2.0,2397.0,14362.0,70.4
-Forsyth,7061.0,184.0,821.0,162.0,0.0,1167.0,38.0,196.0,91.0,0.0,325.0,1492.0,21.1
-Gilmer,22264.0,4260.0,6768.0,2206.0,11.0,13245.0,423.0,1115.0,1181.0,1.0,2720.0,15965.0,71.7
-Lumpkin,22407.0,2037.0,8060.0,2126.0,1.0,12224.0,298.0,1463.0,1102.0,0.0,2863.0,15087.0,67.3
-Pickens,14601.0,3161.0,3966.0,1258.0,1.0,8386.0,407.0,705.0,738.0,0.0,1850.0,10236.0,70.1
-Union,19201.0,3229.0,6701.0,2202.0,9.0,12141.0,378.0,1285.0,1259.0,1.0,2923.0,15064.0,78.5
-White,20622.0,3460.0,6595.0,2135.0,5.0,12195.0,368.0,1048.0,898.0,0.0,2314.0,14509.0,70.4
+County,Registered Voters,Steve Gooch (I) (Rep)_Election Day Votes,Steve Gooch (I) (Rep)_Advanced Voting Votes,Steve Gooch (I) (Rep)_Absentee by Mail Votes,Steve Gooch (I) (Rep)_Provisional Votes,Steve Gooch (I) (Rep)_Choice Total,June Krise (Dem)_Election Day Votes,June Krise (Dem)_Advanced Voting Votes,June Krise (Dem)_Absentee by Mail Votes,June Krise (Dem)_Provisional Votes,June Krise (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Dawson,21529.0,2360.0,9048.0,2034.0,2.0,13444.0,234.0,1074.0,924.0,1.0,2233.0,15677.0,72.8,13444.0,2233.0
+Fannin,20399.0,4044.0,5632.0,2270.0,19.0,11965.0,369.0,958.0,1068.0,2.0,2397.0,14362.0,70.4,11965.0,2397.0
+Forsyth,7061.0,184.0,821.0,162.0,0.0,1167.0,38.0,196.0,91.0,0.0,325.0,1492.0,21.1,1167.0,325.0
+Gilmer,22264.0,4260.0,6768.0,2206.0,11.0,13245.0,423.0,1115.0,1181.0,1.0,2720.0,15965.0,71.7,13245.0,2720.0
+Lumpkin,22407.0,2037.0,8060.0,2126.0,1.0,12224.0,298.0,1463.0,1102.0,0.0,2863.0,15087.0,67.3,12224.0,2863.0
+Pickens,14601.0,3161.0,3966.0,1258.0,1.0,8386.0,407.0,705.0,738.0,0.0,1850.0,10236.0,70.1,8386.0,1850.0
+Union,19201.0,3229.0,6701.0,2202.0,9.0,12141.0,378.0,1285.0,1259.0,1.0,2923.0,15064.0,78.5,12141.0,2923.0
+White,20622.0,3460.0,6595.0,2135.0,5.0,12195.0,368.0,1048.0,898.0,0.0,2314.0,14509.0,70.4,12195.0,2314.0

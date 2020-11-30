@@ -1,13 +1,13 @@
-Precinct,County,Registered Voters,Jim Hickey (Rep)_Election Day Votes,Jim Hickey (Rep)_Advanced Voting Votes,Jim Hickey (Rep)_Absentee by Mail Votes,Jim Hickey (Rep)_Provisional Votes,Jim Hickey (Rep)_Choice Total,Erica Thomas (I) (Dem)_Election Day Votes,Erica Thomas (I) (Dem)_Advanced Voting Votes,Erica Thomas (I) (Dem)_Absentee by Mail Votes,Erica Thomas (I) (Dem)_Provisional Votes,Erica Thomas (I) (Dem)_Choice Total,Total,calc_participation
-Austell 1A,Cobb,5329.0,157.0,263.0,169.0,0.0,589.0,381.0,1301.0,971.0,6.0,2659.0,3248.0,60.9
-Bryant 01,Cobb,2142.0,20.0,38.0,25.0,0.0,83.0,196.0,714.0,471.0,3.0,1384.0,1467.0,68.5
-Bryant 02,Cobb,6209.0,55.0,98.0,53.0,0.0,206.0,542.0,1500.0,787.0,3.0,2832.0,3038.0,48.9
-Clarkdale 01,Cobb,1937.0,33.0,60.0,34.0,0.0,127.0,58.0,140.0,138.0,0.0,336.0,463.0,23.9
-Clarkdale 02,Cobb,5372.0,63.0,94.0,71.0,0.0,228.0,97.0,212.0,150.0,1.0,460.0,688.0,12.8
-Harmony-Leland 01,Cobb,6394.0,115.0,363.0,233.0,0.0,711.0,366.0,1948.0,1444.0,4.0,3762.0,4473.0,70.0
-Lindley 01,Cobb,4797.0,175.0,391.0,312.0,0.0,878.0,295.0,1401.0,1131.0,1.0,2828.0,3706.0,77.3
-Mableton 01,Cobb,5127.0,44.0,99.0,85.0,1.0,229.0,71.0,242.0,218.0,0.0,531.0,760.0,14.8
-Mableton 02,Cobb,3330.0,131.0,218.0,182.0,0.0,531.0,258.0,613.0,536.0,0.0,1407.0,1938.0,58.2
-Pebblebrook 01,Cobb,5218.0,108.0,271.0,214.0,0.0,593.0,445.0,1314.0,913.0,2.0,2674.0,3267.0,62.6
-Riverside 01,Cobb,2133.0,41.0,42.0,28.0,0.0,111.0,215.0,483.0,306.0,1.0,1005.0,1116.0,52.3
-Smyrna 7A,Cobb,6378.0,19.0,67.0,39.0,0.0,125.0,39.0,427.0,269.0,0.0,735.0,860.0,13.5
+Precinct,County,Registered Voters,Jim Hickey (Rep)_Election Day Votes,Jim Hickey (Rep)_Advanced Voting Votes,Jim Hickey (Rep)_Absentee by Mail Votes,Jim Hickey (Rep)_Provisional Votes,Jim Hickey (Rep)_Choice Total,Erica Thomas (I) (Dem)_Election Day Votes,Erica Thomas (I) (Dem)_Advanced Voting Votes,Erica Thomas (I) (Dem)_Absentee by Mail Votes,Erica Thomas (I) (Dem)_Provisional Votes,Erica Thomas (I) (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Austell 1A,Cobb,5329.0,157.0,263.0,169.0,0.0,589.0,381.0,1301.0,971.0,6.0,2659.0,3248.0,60.9,589.0,2659.0
+Bryant 01,Cobb,2142.0,20.0,38.0,25.0,0.0,83.0,196.0,714.0,471.0,3.0,1384.0,1467.0,68.5,83.0,1384.0
+Bryant 02,Cobb,6209.0,55.0,98.0,53.0,0.0,206.0,542.0,1500.0,787.0,3.0,2832.0,3038.0,48.9,206.0,2832.0
+Clarkdale 01,Cobb,1937.0,33.0,60.0,34.0,0.0,127.0,58.0,140.0,138.0,0.0,336.0,463.0,23.9,127.0,336.0
+Clarkdale 02,Cobb,5372.0,63.0,94.0,71.0,0.0,228.0,97.0,212.0,150.0,1.0,460.0,688.0,12.8,228.0,460.0
+Harmony-Leland 01,Cobb,6394.0,115.0,363.0,233.0,0.0,711.0,366.0,1948.0,1444.0,4.0,3762.0,4473.0,70.0,711.0,3762.0
+Lindley 01,Cobb,4797.0,175.0,391.0,312.0,0.0,878.0,295.0,1401.0,1131.0,1.0,2828.0,3706.0,77.3,878.0,2828.0
+Mableton 01,Cobb,5127.0,44.0,99.0,85.0,1.0,229.0,71.0,242.0,218.0,0.0,531.0,760.0,14.8,229.0,531.0
+Mableton 02,Cobb,3330.0,131.0,218.0,182.0,0.0,531.0,258.0,613.0,536.0,0.0,1407.0,1938.0,58.2,531.0,1407.0
+Pebblebrook 01,Cobb,5218.0,108.0,271.0,214.0,0.0,593.0,445.0,1314.0,913.0,2.0,2674.0,3267.0,62.6,593.0,2674.0
+Riverside 01,Cobb,2133.0,41.0,42.0,28.0,0.0,111.0,215.0,483.0,306.0,1.0,1005.0,1116.0,52.3,111.0,1005.0
+Smyrna 7A,Cobb,6378.0,19.0,67.0,39.0,0.0,125.0,39.0,427.0,269.0,0.0,735.0,860.0,13.5,125.0,735.0

@@ -1,3 +1,3 @@
-County,Registered Voters,Mark Newton (I) (Rep)_Election Day Votes,Mark Newton (I) (Rep)_Advanced Voting Votes,Mark Newton (I) (Rep)_Absentee by Mail Votes,Mark Newton (I) (Rep)_Provisional Votes,Mark Newton (I) (Rep)_Choice Total,Total,calc_participation
-Columbia,22693.0,4147.0,6830.0,2691.0,11.0,13679.0,13679.0,60.3
-Richmond,16829.0,2209.0,4845.0,2713.0,6.0,9773.0,9773.0,58.1
+County,Registered Voters,Mark Newton (I) (Rep)_Election Day Votes,Mark Newton (I) (Rep)_Advanced Voting Votes,Mark Newton (I) (Rep)_Absentee by Mail Votes,Mark Newton (I) (Rep)_Provisional Votes,Mark Newton (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Columbia,22693.0,4147.0,6830.0,2691.0,11.0,13679.0,13679.0,60.3,13679.0
+Richmond,16829.0,2209.0,4845.0,2713.0,6.0,9773.0,9773.0,58.1,9773.0

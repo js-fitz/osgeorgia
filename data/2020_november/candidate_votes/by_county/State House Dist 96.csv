@@ -1,2 +1,2 @@
-County,Registered Voters,"Pedro """"Pete"""" Marin (I) (Dem)_Election Day Votes","Pedro """"Pete"""" Marin (I) (Dem)_Advanced Voting Votes","Pedro """"Pete"""" Marin (I) (Dem)_Absentee by Mail Votes","Pedro """"Pete"""" Marin (I) (Dem)_Provisional Votes","Pedro """"Pete"""" Marin (I) (Dem)_Choice Total",Total,calc_participation
-Gwinnett,38934.0,3183.0,7064.0,4741.0,27.0,15015.0,15015.0,38.6
+County,Registered Voters,"Pedro """"Pete"""" Marin (I) (Dem)_Election Day Votes","Pedro """"Pete"""" Marin (I) (Dem)_Advanced Voting Votes","Pedro """"Pete"""" Marin (I) (Dem)_Absentee by Mail Votes","Pedro """"Pete"""" Marin (I) (Dem)_Provisional Votes","Pedro """"Pete"""" Marin (I) (Dem)_Choice Total",Total,calc_participation,Dem_total
+Gwinnett,38934.0,3183.0,7064.0,4741.0,27.0,15015.0,15015.0,38.6,15015.0

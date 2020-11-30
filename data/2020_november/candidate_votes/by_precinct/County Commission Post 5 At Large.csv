@@ -1,8 +1,8 @@
-Precinct,County,Registered Voters,Wade Yoder (I) (Rep)_Election Day Votes,Wade Yoder (I) (Rep)_Advanced Voting Votes,Wade Yoder (I) (Rep)_Absentee by Mail Votes,Wade Yoder (I) (Rep)_Provisional Votes,Wade Yoder (I) (Rep)_Choice Total,Laronda Eason (Dem)_Election Day Votes,Laronda Eason (Dem)_Advanced Voting Votes,Laronda Eason (Dem)_Absentee by Mail Votes,Laronda Eason (Dem)_Provisional Votes,Laronda Eason (Dem)_Choice Total,Total,calc_participation
-Byron 1,Peach,2636.0,167.0,1171.0,154.0,2.0,1494.0,69.0,308.0,124.0,0.0,501.0,1995.0,75.7
-Byron 2,Peach,5028.0,249.0,1812.0,341.0,4.0,2406.0,119.0,748.0,358.0,1.0,1226.0,3632.0,72.2
-Claude,Peach,908.0,185.0,319.0,55.0,1.0,560.0,22.0,51.0,30.0,0.0,103.0,663.0,73.0
-Fort Valley 1,Peach,2669.0,117.0,542.0,150.0,1.0,810.0,150.0,524.0,250.0,0.0,924.0,1734.0,65.0
-Fort Valley 2,Peach,2670.0,110.0,450.0,97.0,1.0,658.0,148.0,526.0,265.0,0.0,939.0,1597.0,59.8
-Fort Valley 3,Peach,2720.0,43.0,232.0,76.0,0.0,351.0,191.0,674.0,427.0,2.0,1294.0,1645.0,60.5
-Powersville,Peach,1365.0,158.0,510.0,103.0,3.0,774.0,24.0,143.0,74.0,1.0,242.0,1016.0,74.4
+Precinct,County,Registered Voters,Wade Yoder (I) (Rep)_Election Day Votes,Wade Yoder (I) (Rep)_Advanced Voting Votes,Wade Yoder (I) (Rep)_Absentee by Mail Votes,Wade Yoder (I) (Rep)_Provisional Votes,Wade Yoder (I) (Rep)_Choice Total,Laronda Eason (Dem)_Election Day Votes,Laronda Eason (Dem)_Advanced Voting Votes,Laronda Eason (Dem)_Absentee by Mail Votes,Laronda Eason (Dem)_Provisional Votes,Laronda Eason (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Byron 1,Peach,2636.0,167.0,1171.0,154.0,2.0,1494.0,69.0,308.0,124.0,0.0,501.0,1995.0,75.7,1494.0,501.0
+Byron 2,Peach,5028.0,249.0,1812.0,341.0,4.0,2406.0,119.0,748.0,358.0,1.0,1226.0,3632.0,72.2,2406.0,1226.0
+Claude,Peach,908.0,185.0,319.0,55.0,1.0,560.0,22.0,51.0,30.0,0.0,103.0,663.0,73.0,560.0,103.0
+Fort Valley 1,Peach,2669.0,117.0,542.0,150.0,1.0,810.0,150.0,524.0,250.0,0.0,924.0,1734.0,65.0,810.0,924.0
+Fort Valley 2,Peach,2670.0,110.0,450.0,97.0,1.0,658.0,148.0,526.0,265.0,0.0,939.0,1597.0,59.8,658.0,939.0
+Fort Valley 3,Peach,2720.0,43.0,232.0,76.0,0.0,351.0,191.0,674.0,427.0,2.0,1294.0,1645.0,60.5,351.0,1294.0
+Powersville,Peach,1365.0,158.0,510.0,103.0,3.0,774.0,24.0,143.0,74.0,1.0,242.0,1016.0,74.4,774.0,242.0

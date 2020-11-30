@@ -1,15 +1,15 @@
-Precinct,County,Registered Voters,Trey Kelley (I) (Rep)_Election Day Votes,Trey Kelley (I) (Rep)_Advanced Voting Votes,Trey Kelley (I) (Rep)_Absentee by Mail Votes,Trey Kelley (I) (Rep)_Provisional Votes,Trey Kelley (I) (Rep)_Choice Total,Lyndsay Arrendale (Dem)_Election Day Votes,Lyndsay Arrendale (Dem)_Advanced Voting Votes,Lyndsay Arrendale (Dem)_Absentee by Mail Votes,Lyndsay Arrendale (Dem)_Provisional Votes,Lyndsay Arrendale (Dem)_Choice Total,Total,calc_participation
-Euharlee,Bartow,5322.0,525.0,911.0,189.0,0.0,1625.0,118.0,222.0,162.0,0.0,502.0,2127.0,40.0
-Taylorsville,Bartow,2829.0,782.0,789.0,254.0,0.0,1825.0,65.0,70.0,70.0,0.0,205.0,2030.0,71.8
-Aragon,Polk,3224.0,441.0,1128.0,205.0,3.0,1777.0,93.0,257.0,108.0,0.0,458.0,2235.0,69.3
-Blooming Grove,Polk,1659.0,257.0,511.0,96.0,1.0,865.0,56.0,127.0,60.0,2.0,245.0,1110.0,66.9
-Cedartown,Polk,6205.0,408.0,1648.0,494.0,5.0,2555.0,260.0,712.0,414.0,2.0,1388.0,3943.0,63.5
-Fish Creek,Polk,2566.0,335.0,929.0,166.0,2.0,1432.0,78.0,189.0,94.0,0.0,361.0,1793.0,69.9
-Lake Creek,Polk,2828.0,373.0,1203.0,164.0,0.0,1740.0,63.0,233.0,90.0,0.0,386.0,2126.0,75.2
-Rockmart,Polk,5746.0,448.0,2215.0,332.0,2.0,2997.0,186.0,630.0,259.0,2.0,1077.0,4074.0,70.9
-Youngs Grove,Polk,1961.0,285.0,696.0,147.0,1.0,1129.0,57.0,121.0,56.0,0.0,234.0,1363.0,69.5
-Corinth,Haralson,1682.0,384.0,503.0,140.0,0.0,1027.0,23.0,46.0,30.0,0.0,99.0,1126.0,66.9
-Twentieth,Haralson,738.0,216.0,189.0,67.0,0.0,472.0,14.0,17.0,26.0,0.0,57.0,529.0,71.7
-Felton,Haralson,304.0,103.0,68.0,20.0,0.0,191.0,7.0,6.0,7.0,0.0,20.0,211.0,69.4
-Little Creek,Haralson,699.0,129.0,88.0,33.0,0.0,250.0,11.0,6.0,7.0,0.0,24.0,274.0,39.2
-Mt View,Haralson,330.0,133.0,63.0,25.0,0.0,221.0,9.0,7.0,2.0,0.0,18.0,239.0,72.4
+Precinct,County,Registered Voters,Trey Kelley (I) (Rep)_Election Day Votes,Trey Kelley (I) (Rep)_Advanced Voting Votes,Trey Kelley (I) (Rep)_Absentee by Mail Votes,Trey Kelley (I) (Rep)_Provisional Votes,Trey Kelley (I) (Rep)_Choice Total,Lyndsay Arrendale (Dem)_Election Day Votes,Lyndsay Arrendale (Dem)_Advanced Voting Votes,Lyndsay Arrendale (Dem)_Absentee by Mail Votes,Lyndsay Arrendale (Dem)_Provisional Votes,Lyndsay Arrendale (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Euharlee,Bartow,5322.0,525.0,911.0,189.0,0.0,1625.0,118.0,222.0,162.0,0.0,502.0,2127.0,40.0,1625.0,502.0
+Taylorsville,Bartow,2829.0,782.0,789.0,254.0,0.0,1825.0,65.0,70.0,70.0,0.0,205.0,2030.0,71.8,1825.0,205.0
+Aragon,Polk,3224.0,441.0,1128.0,205.0,3.0,1777.0,93.0,257.0,108.0,0.0,458.0,2235.0,69.3,1777.0,458.0
+Blooming Grove,Polk,1659.0,257.0,511.0,96.0,1.0,865.0,56.0,127.0,60.0,2.0,245.0,1110.0,66.9,865.0,245.0
+Cedartown,Polk,6205.0,408.0,1648.0,494.0,5.0,2555.0,260.0,712.0,414.0,2.0,1388.0,3943.0,63.5,2555.0,1388.0
+Fish Creek,Polk,2566.0,335.0,929.0,166.0,2.0,1432.0,78.0,189.0,94.0,0.0,361.0,1793.0,69.9,1432.0,361.0
+Lake Creek,Polk,2828.0,373.0,1203.0,164.0,0.0,1740.0,63.0,233.0,90.0,0.0,386.0,2126.0,75.2,1740.0,386.0
+Rockmart,Polk,5746.0,448.0,2215.0,332.0,2.0,2997.0,186.0,630.0,259.0,2.0,1077.0,4074.0,70.9,2997.0,1077.0
+Youngs Grove,Polk,1961.0,285.0,696.0,147.0,1.0,1129.0,57.0,121.0,56.0,0.0,234.0,1363.0,69.5,1129.0,234.0
+Corinth,Haralson,1682.0,384.0,503.0,140.0,0.0,1027.0,23.0,46.0,30.0,0.0,99.0,1126.0,66.9,1027.0,99.0
+Twentieth,Haralson,738.0,216.0,189.0,67.0,0.0,472.0,14.0,17.0,26.0,0.0,57.0,529.0,71.7,472.0,57.0
+Felton,Haralson,304.0,103.0,68.0,20.0,0.0,191.0,7.0,6.0,7.0,0.0,20.0,211.0,69.4,191.0,20.0
+Little Creek,Haralson,699.0,129.0,88.0,33.0,0.0,250.0,11.0,6.0,7.0,0.0,24.0,274.0,39.2,250.0,24.0
+Mt View,Haralson,330.0,133.0,63.0,25.0,0.0,221.0,9.0,7.0,2.0,0.0,18.0,239.0,72.4,221.0,18.0

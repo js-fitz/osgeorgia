@@ -1,14 +1,14 @@
-Precinct,County,Registered Voters,Timothy Barr (I) (Rep)_Election Day Votes,Timothy Barr (I) (Rep)_Advanced Voting Votes,Timothy Barr (I) (Rep)_Absentee by Mail Votes,Timothy Barr (I) (Rep)_Provisional Votes,Timothy Barr (I) (Rep)_Choice Total,Clifton_Election Day Votes,Clifton_Advanced Voting Votes,Clifton_Absentee by Mail Votes,Clifton_Provisional Votes,Clifton_Choice Total,Total,calc_participation
-HOG MOUNTAIN B,Gwinnett,4583.0,269.0,779.0,340.0,1.0,1389.0,107.0,441.0,406.0,0.0,954.0,2343.0,51.1
-HOG MOUNTAIN D,Gwinnett,3179.0,285.0,690.0,260.0,1.0,1236.0,143.0,472.0,381.0,0.0,996.0,2232.0,70.2
-DUNCANS D,Gwinnett,7153.0,631.0,2127.0,754.0,1.0,3513.0,273.0,940.0,675.0,0.0,1888.0,5401.0,75.5
-PUCKETTS C,Gwinnett,3367.0,268.0,896.0,244.0,0.0,1408.0,120.0,511.0,319.0,0.0,950.0,2358.0,70.0
-HOG MOUNTAIN C,Gwinnett,4292.0,158.0,432.0,174.0,0.0,764.0,78.0,297.0,222.0,0.0,597.0,1361.0,31.7
-ROCKYCREEK B,Gwinnett,5061.0,383.0,1261.0,395.0,0.0,2039.0,214.0,934.0,472.0,0.0,1620.0,3659.0,72.3
-PUCKETTS D,Gwinnett,3622.0,262.0,974.0,349.0,0.0,1585.0,136.0,555.0,376.0,0.0,1067.0,2652.0,73.2
-Roberts,Hall,0.0,194.0,581.0,179.0,1.0,955.0,70.0,164.0,149.0,0.0,383.0,1338.0,
-Morgan I,Hall,0.0,473.0,1601.0,384.0,0.0,2458.0,86.0,262.0,166.0,0.0,514.0,2972.0,
-Friendship I,Hall,0.0,537.0,3486.0,1242.0,3.0,5268.0,105.0,676.0,785.0,0.0,1566.0,6834.0,
-Friendship II,Hall,0.0,398.0,1193.0,262.0,2.0,1855.0,76.0,301.0,162.0,0.0,539.0,2394.0,
-Friendship III,Hall,0.0,38.0,201.0,38.0,0.0,277.0,14.0,53.0,36.0,0.0,103.0,380.0,
-Friendship IV,Hall,0.0,142.0,1140.0,175.0,0.0,1457.0,27.0,308.0,139.0,1.0,475.0,1932.0,
+Precinct,County,Registered Voters,Timothy Barr (I) (Rep)_Election Day Votes,Timothy Barr (I) (Rep)_Advanced Voting Votes,Timothy Barr (I) (Rep)_Absentee by Mail Votes,Timothy Barr (I) (Rep)_Provisional Votes,Timothy Barr (I) (Rep)_Choice Total,Clifton_Election Day Votes,Clifton_Advanced Voting Votes,Clifton_Absentee by Mail Votes,Clifton_Provisional Votes,Clifton_Choice Total,Total,calc_participation,Rep_total
+HOG MOUNTAIN B,Gwinnett,4583.0,269.0,779.0,340.0,1.0,1389.0,107.0,441.0,406.0,0.0,954.0,2343.0,51.1,1389.0
+HOG MOUNTAIN D,Gwinnett,3179.0,285.0,690.0,260.0,1.0,1236.0,143.0,472.0,381.0,0.0,996.0,2232.0,70.2,1236.0
+DUNCANS D,Gwinnett,7153.0,631.0,2127.0,754.0,1.0,3513.0,273.0,940.0,675.0,0.0,1888.0,5401.0,75.5,3513.0
+PUCKETTS C,Gwinnett,3367.0,268.0,896.0,244.0,0.0,1408.0,120.0,511.0,319.0,0.0,950.0,2358.0,70.0,1408.0
+HOG MOUNTAIN C,Gwinnett,4292.0,158.0,432.0,174.0,0.0,764.0,78.0,297.0,222.0,0.0,597.0,1361.0,31.7,764.0
+ROCKYCREEK B,Gwinnett,5061.0,383.0,1261.0,395.0,0.0,2039.0,214.0,934.0,472.0,0.0,1620.0,3659.0,72.3,2039.0
+PUCKETTS D,Gwinnett,3622.0,262.0,974.0,349.0,0.0,1585.0,136.0,555.0,376.0,0.0,1067.0,2652.0,73.2,1585.0
+Roberts,Hall,0.0,194.0,581.0,179.0,1.0,955.0,70.0,164.0,149.0,0.0,383.0,1338.0,,955.0
+Morgan I,Hall,0.0,473.0,1601.0,384.0,0.0,2458.0,86.0,262.0,166.0,0.0,514.0,2972.0,,2458.0
+Friendship I,Hall,0.0,537.0,3486.0,1242.0,3.0,5268.0,105.0,676.0,785.0,0.0,1566.0,6834.0,,5268.0
+Friendship II,Hall,0.0,398.0,1193.0,262.0,2.0,1855.0,76.0,301.0,162.0,0.0,539.0,2394.0,,1855.0
+Friendship III,Hall,0.0,38.0,201.0,38.0,0.0,277.0,14.0,53.0,36.0,0.0,103.0,380.0,,277.0
+Friendship IV,Hall,0.0,142.0,1140.0,175.0,0.0,1457.0,27.0,308.0,139.0,1.0,475.0,1932.0,,1457.0

@@ -1,4 +1,4 @@
-County,Registered Voters,Matt Hatchett (I) (Rep)_Election Day Votes,Matt Hatchett (I) (Rep)_Advanced Voting Votes,Matt Hatchett (I) (Rep)_Absentee by Mail Votes,Matt Hatchett (I) (Rep)_Provisional Votes,Matt Hatchett (I) (Rep)_Choice Total,Total,calc_participation
-Johnson,4821.0,576.0,986.0,203.0,0.0,1765.0,1765.0,36.6
-Laurens,29213.0,5607.0,7167.0,3182.0,3.0,15959.0,15959.0,54.6
-Treutlen,0.0,459.0,1570.0,386.0,0.0,2415.0,2415.0,0.0
+County,Registered Voters,Matt Hatchett (I) (Rep)_Election Day Votes,Matt Hatchett (I) (Rep)_Advanced Voting Votes,Matt Hatchett (I) (Rep)_Absentee by Mail Votes,Matt Hatchett (I) (Rep)_Provisional Votes,Matt Hatchett (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Johnson,4821.0,576.0,986.0,203.0,0.0,1765.0,1765.0,36.6,1765.0
+Laurens,29213.0,5607.0,7167.0,3182.0,3.0,15959.0,15959.0,54.6,15959.0
+Treutlen,0.0,459.0,1570.0,386.0,0.0,2415.0,2415.0,0.0,2415.0

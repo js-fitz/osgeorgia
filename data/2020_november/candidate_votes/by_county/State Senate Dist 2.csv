@@ -1,2 +1,2 @@
-County,Registered Voters,"Lester G. Jackson, III (I) (Dem)_Election Day Votes","Lester G. Jackson, III (I) (Dem)_Advanced Voting Votes","Lester G. Jackson, III (I) (Dem)_Absentee by Mail Votes","Lester G. Jackson, III (I) (Dem)_Provisional Votes","Lester G. Jackson, III (I) (Dem)_Choice Total",Total,calc_participation
-Chatham,125820.0,17300.0,24925.0,19967.0,142.0,62334.0,62334.0,49.5
+County,Registered Voters,"Lester G. Jackson, III (I) (Dem)_Election Day Votes","Lester G. Jackson, III (I) (Dem)_Advanced Voting Votes","Lester G. Jackson, III (I) (Dem)_Absentee by Mail Votes","Lester G. Jackson, III (I) (Dem)_Provisional Votes","Lester G. Jackson, III (I) (Dem)_Choice Total",Total,calc_participation,Dem_total
+Chatham,125820.0,17300.0,24925.0,19967.0,142.0,62334.0,62334.0,49.5,62334.0

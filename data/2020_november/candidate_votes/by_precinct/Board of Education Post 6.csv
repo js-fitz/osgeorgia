@@ -1,12 +1,12 @@
-Precinct,County,Registered Voters,Christie Owens Fox (Rep)_Election Day Votes,Christie Owens Fox (Rep)_Advanced Voting Votes,Christie Owens Fox (Rep)_Absentee by Mail Votes,Christie Owens Fox (Rep)_Provisional Votes,Christie Owens Fox (Rep)_Choice Total,Total,calc_participation
-Sugar Valley,Gordon,1471.0,432.0,363.0,103.0,1.0,899.0,899.0,61.1
-Plainville,Gordon,2044.0,540.0,473.0,161.0,3.0,1177.0,1177.0,57.6
-Sonoraville,Gordon,5380.0,1177.0,1738.0,434.0,0.0,3349.0,3349.0,62.2
-Pine Chapel,Gordon,1071.0,322.0,266.0,62.0,0.0,650.0,650.0,60.7
-Oostanaula,Gordon,667.0,226.0,125.0,74.0,0.0,425.0,425.0,63.7
-Oakman,Gordon,1439.0,451.0,257.0,99.0,0.0,807.0,807.0,56.1
-Gordon County,Gordon,6423.0,909.0,2046.0,532.0,0.0,3487.0,3487.0,54.3
-Lily Pond,Gordon,1914.0,373.0,598.0,162.0,0.0,1133.0,1133.0,59.2
-Fairmount,Gordon,1991.0,697.0,356.0,180.0,2.0,1235.0,1235.0,62.0
-Red Bud,Gordon,2965.0,657.0,950.0,178.0,1.0,1786.0,1786.0,60.2
-Resaca,Gordon,1532.0,411.0,338.0,116.0,1.0,866.0,866.0,56.5
+Precinct,County,Registered Voters,Christie Owens Fox (Rep)_Election Day Votes,Christie Owens Fox (Rep)_Advanced Voting Votes,Christie Owens Fox (Rep)_Absentee by Mail Votes,Christie Owens Fox (Rep)_Provisional Votes,Christie Owens Fox (Rep)_Choice Total,Total,calc_participation,Rep_total
+Sugar Valley,Gordon,1471.0,432.0,363.0,103.0,1.0,899.0,899.0,61.1,899.0
+Plainville,Gordon,2044.0,540.0,473.0,161.0,3.0,1177.0,1177.0,57.6,1177.0
+Sonoraville,Gordon,5380.0,1177.0,1738.0,434.0,0.0,3349.0,3349.0,62.2,3349.0
+Pine Chapel,Gordon,1071.0,322.0,266.0,62.0,0.0,650.0,650.0,60.7,650.0
+Oostanaula,Gordon,667.0,226.0,125.0,74.0,0.0,425.0,425.0,63.7,425.0
+Oakman,Gordon,1439.0,451.0,257.0,99.0,0.0,807.0,807.0,56.1,807.0
+Gordon County,Gordon,6423.0,909.0,2046.0,532.0,0.0,3487.0,3487.0,54.3,3487.0
+Lily Pond,Gordon,1914.0,373.0,598.0,162.0,0.0,1133.0,1133.0,59.2,1133.0
+Fairmount,Gordon,1991.0,697.0,356.0,180.0,2.0,1235.0,1235.0,62.0,1235.0
+Red Bud,Gordon,2965.0,657.0,950.0,178.0,1.0,1786.0,1786.0,60.2,1786.0
+Resaca,Gordon,1532.0,411.0,338.0,116.0,1.0,866.0,866.0,56.5,866.0

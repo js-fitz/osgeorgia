@@ -1,21 +1,21 @@
-Precinct,County,Registered Voters,Jodi Lott (I) (Rep)_Election Day Votes,Jodi Lott (I) (Rep)_Advanced Voting Votes,Jodi Lott (I) (Rep)_Absentee by Mail Votes,Jodi Lott (I) (Rep)_Provisional Votes,Jodi Lott (I) (Rep)_Choice Total,Doris O. Crutchfield (Dem)_Election Day Votes,Doris O. Crutchfield (Dem)_Advanced Voting Votes,Doris O. Crutchfield (Dem)_Absentee by Mail Votes,Doris O. Crutchfield (Dem)_Provisional Votes,Doris O. Crutchfield (Dem)_Choice Total,Total,calc_participation
-Lewis Methodist Church,Columbia,3737.0,429.0,1123.0,299.0,1.0,1852.0,117.0,527.0,346.0,1.0,991.0,2843.0,76.1
-Woodlawn Baptist Church,Columbia,1290.0,177.0,465.0,120.0,0.0,762.0,23.0,129.0,81.0,0.0,233.0,995.0,77.1
-Patriots Park,Columbia,4046.0,371.0,1394.0,201.0,0.0,1966.0,120.0,615.0,315.0,0.0,1050.0,3016.0,74.5
-Col Cty Bd of Edu,Columbia,2143.0,233.0,715.0,167.0,2.0,1117.0,87.0,275.0,149.0,0.0,511.0,1628.0,76.0
-Greenbrier High,Columbia,3369.0,514.0,1234.0,250.0,1.0,1999.0,81.0,342.0,237.0,0.0,660.0,2659.0,78.9
-Parkway Baptist Church,Columbia,4596.0,620.0,1548.0,299.0,1.0,2468.0,131.0,684.0,317.0,1.0,1133.0,3601.0,78.4
-Riverview Church,Columbia,1320.0,160.0,472.0,108.0,0.0,740.0,50.0,154.0,121.0,0.0,325.0,1065.0,80.7
-Grace Baptist Church,Columbia,3558.0,430.0,1037.0,196.0,0.0,1663.0,113.0,598.0,319.0,0.0,1030.0,2693.0,75.7
-Christ Sanctified,Columbia,2521.0,358.0,773.0,187.0,0.0,1318.0,89.0,252.0,166.0,0.0,507.0,1825.0,72.4
-Savannah Rapids Pavilion,Columbia,1549.0,145.0,631.0,281.0,0.0,1057.0,25.0,114.0,167.0,0.0,306.0,1363.0,88.0
-Gospel Water Branch,Columbia,2096.0,259.0,671.0,180.0,2.0,1112.0,86.0,251.0,201.0,1.0,539.0,1651.0,78.8
-Lakeside Middle,Columbia,1923.0,276.0,508.0,104.0,0.0,888.0,96.0,226.0,135.0,1.0,458.0,1346.0,70.0
-Gold Cross EMS,Columbia,1889.0,242.0,488.0,303.0,4.0,1037.0,63.0,138.0,125.0,1.0,327.0,1364.0,72.2
-West Acres Baptist,Columbia,2424.0,313.0,767.0,186.0,1.0,1267.0,80.0,250.0,193.0,0.0,523.0,1790.0,73.8
-Journey Comm Church,Columbia,1268.0,163.0,519.0,156.0,2.0,840.0,37.0,94.0,77.0,0.0,208.0,1048.0,82.6
-Wesley Methodist,Columbia,2434.0,334.0,820.0,207.0,3.0,1364.0,84.0,283.0,148.0,1.0,516.0,1880.0,77.2
-Col Cty Main Library,Columbia,2106.0,199.0,706.0,157.0,0.0,1062.0,57.0,259.0,166.0,1.0,483.0,1545.0,73.4
-Christ Church Presbyterian,Columbia,2081.0,298.0,766.0,164.0,1.0,1229.0,54.0,215.0,140.0,1.0,410.0,1639.0,78.8
-Blue Ridge Elementary,Columbia,2301.0,283.0,634.0,155.0,0.0,1072.0,130.0,260.0,161.0,1.0,552.0,1624.0,70.6
-Christ The King Luth Church,Columbia,2148.0,212.0,788.0,267.0,1.0,1268.0,37.0,226.0,199.0,0.0,462.0,1730.0,80.5
+Precinct,County,Registered Voters,Jodi Lott (I) (Rep)_Election Day Votes,Jodi Lott (I) (Rep)_Advanced Voting Votes,Jodi Lott (I) (Rep)_Absentee by Mail Votes,Jodi Lott (I) (Rep)_Provisional Votes,Jodi Lott (I) (Rep)_Choice Total,Doris O. Crutchfield (Dem)_Election Day Votes,Doris O. Crutchfield (Dem)_Advanced Voting Votes,Doris O. Crutchfield (Dem)_Absentee by Mail Votes,Doris O. Crutchfield (Dem)_Provisional Votes,Doris O. Crutchfield (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Lewis Methodist Church,Columbia,3737.0,429.0,1123.0,299.0,1.0,1852.0,117.0,527.0,346.0,1.0,991.0,2843.0,76.1,1852.0,991.0
+Woodlawn Baptist Church,Columbia,1290.0,177.0,465.0,120.0,0.0,762.0,23.0,129.0,81.0,0.0,233.0,995.0,77.1,762.0,233.0
+Patriots Park,Columbia,4046.0,371.0,1394.0,201.0,0.0,1966.0,120.0,615.0,315.0,0.0,1050.0,3016.0,74.5,1966.0,1050.0
+Col Cty Bd of Edu,Columbia,2143.0,233.0,715.0,167.0,2.0,1117.0,87.0,275.0,149.0,0.0,511.0,1628.0,76.0,1117.0,511.0
+Greenbrier High,Columbia,3369.0,514.0,1234.0,250.0,1.0,1999.0,81.0,342.0,237.0,0.0,660.0,2659.0,78.9,1999.0,660.0
+Parkway Baptist Church,Columbia,4596.0,620.0,1548.0,299.0,1.0,2468.0,131.0,684.0,317.0,1.0,1133.0,3601.0,78.4,2468.0,1133.0
+Riverview Church,Columbia,1320.0,160.0,472.0,108.0,0.0,740.0,50.0,154.0,121.0,0.0,325.0,1065.0,80.7,740.0,325.0
+Grace Baptist Church,Columbia,3558.0,430.0,1037.0,196.0,0.0,1663.0,113.0,598.0,319.0,0.0,1030.0,2693.0,75.7,1663.0,1030.0
+Christ Sanctified,Columbia,2521.0,358.0,773.0,187.0,0.0,1318.0,89.0,252.0,166.0,0.0,507.0,1825.0,72.4,1318.0,507.0
+Savannah Rapids Pavilion,Columbia,1549.0,145.0,631.0,281.0,0.0,1057.0,25.0,114.0,167.0,0.0,306.0,1363.0,88.0,1057.0,306.0
+Gospel Water Branch,Columbia,2096.0,259.0,671.0,180.0,2.0,1112.0,86.0,251.0,201.0,1.0,539.0,1651.0,78.8,1112.0,539.0
+Lakeside Middle,Columbia,1923.0,276.0,508.0,104.0,0.0,888.0,96.0,226.0,135.0,1.0,458.0,1346.0,70.0,888.0,458.0
+Gold Cross EMS,Columbia,1889.0,242.0,488.0,303.0,4.0,1037.0,63.0,138.0,125.0,1.0,327.0,1364.0,72.2,1037.0,327.0
+West Acres Baptist,Columbia,2424.0,313.0,767.0,186.0,1.0,1267.0,80.0,250.0,193.0,0.0,523.0,1790.0,73.8,1267.0,523.0
+Journey Comm Church,Columbia,1268.0,163.0,519.0,156.0,2.0,840.0,37.0,94.0,77.0,0.0,208.0,1048.0,82.6,840.0,208.0
+Wesley Methodist,Columbia,2434.0,334.0,820.0,207.0,3.0,1364.0,84.0,283.0,148.0,1.0,516.0,1880.0,77.2,1364.0,516.0
+Col Cty Main Library,Columbia,2106.0,199.0,706.0,157.0,0.0,1062.0,57.0,259.0,166.0,1.0,483.0,1545.0,73.4,1062.0,483.0
+Christ Church Presbyterian,Columbia,2081.0,298.0,766.0,164.0,1.0,1229.0,54.0,215.0,140.0,1.0,410.0,1639.0,78.8,1229.0,410.0
+Blue Ridge Elementary,Columbia,2301.0,283.0,634.0,155.0,0.0,1072.0,130.0,260.0,161.0,1.0,552.0,1624.0,70.6,1072.0,552.0
+Christ The King Luth Church,Columbia,2148.0,212.0,788.0,267.0,1.0,1268.0,37.0,226.0,199.0,0.0,462.0,1730.0,80.5,1268.0,462.0

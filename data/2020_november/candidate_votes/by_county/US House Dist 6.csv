@@ -1,4 +1,4 @@
-County,Registered Voters,Karen Handel (Rep)_Election Day Votes,Karen Handel (Rep)_Advanced Voting Votes,Karen Handel (Rep)_Absentee by Mail Votes,Karen Handel (Rep)_Provisional Votes,Karen Handel (Rep)_Choice Total,Lucy McBath (I) (Dem)_Election Day Votes,Lucy McBath (I) (Dem)_Advanced Voting Votes,Lucy McBath (I) (Dem)_Absentee by Mail Votes,Lucy McBath (I) (Dem)_Provisional Votes,Lucy McBath (I) (Dem)_Choice Total,Total,calc_participation
-Cobb,161588.0,14493.0,24179.0,19830.0,38.0,58540.0,7329.0,19626.0,28567.0,31.0,55553.0,114093.0,70.6
-DeKalb,117250.0,5797.0,17930.0,8147.0,65.0,31939.0,5530.0,29632.0,20330.0,115.0,55607.0,87546.0,74.7
-Fulton,261799.0,11568.0,58037.0,19768.0,477.0,89850.0,8578.0,60497.0,35999.0,541.0,105615.0,195465.0,74.7
+County,Registered Voters,Karen Handel (Rep)_Election Day Votes,Karen Handel (Rep)_Advanced Voting Votes,Karen Handel (Rep)_Absentee by Mail Votes,Karen Handel (Rep)_Provisional Votes,Karen Handel (Rep)_Choice Total,Lucy McBath (I) (Dem)_Election Day Votes,Lucy McBath (I) (Dem)_Advanced Voting Votes,Lucy McBath (I) (Dem)_Absentee by Mail Votes,Lucy McBath (I) (Dem)_Provisional Votes,Lucy McBath (I) (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Cobb,161588.0,14493.0,24179.0,19830.0,38.0,58540.0,7329.0,19626.0,28567.0,31.0,55553.0,114093.0,70.6,58540.0,55553.0
+DeKalb,117250.0,5797.0,17930.0,8147.0,65.0,31939.0,5530.0,29632.0,20330.0,115.0,55607.0,87546.0,74.7,31939.0,55607.0
+Fulton,261799.0,11568.0,58037.0,19768.0,477.0,89850.0,8578.0,60497.0,35999.0,541.0,105615.0,195465.0,74.7,89850.0,105615.0

@@ -1,12 +1,12 @@
-County,Registered Voters,Blake Tillery (I) (Rep)_Election Day Votes,Blake Tillery (I) (Rep)_Advanced Voting Votes,Blake Tillery (I) (Rep)_Absentee by Mail Votes,Blake Tillery (I) (Rep)_Provisional Votes,Blake Tillery (I) (Rep)_Choice Total,Total,calc_participation
-Appling,11399.0,1821.0,4070.0,1069.0,10.0,6970.0,6970.0,61.1
-Jeff Davis,8478.0,1470.0,2799.0,613.0,0.0,4882.0,4882.0,57.6
-Liberty,15148.0,703.0,1891.0,738.0,0.0,3332.0,3332.0,22.0
-Long,10470.0,1319.0,2627.0,491.0,14.0,4451.0,4451.0,42.5
-Montgomery,5463.0,1193.0,1622.0,465.0,0.0,3280.0,3280.0,60.0
-Tattnall,7176.0,953.0,2384.0,629.0,0.0,3966.0,3966.0,55.3
-Telfair,6032.0,1020.0,1636.0,453.0,4.0,3113.0,3113.0,51.6
-Toombs,0.0,2090.0,5344.0,1620.0,6.0,9060.0,9060.0,0.0
-Treutlen,0.0,454.0,1543.0,378.0,0.0,2375.0,2375.0,0.0
-Wayne,18104.0,2662.0,6663.0,1645.0,8.0,10978.0,10978.0,60.6
-Wheeler,0.0,522.0,1025.0,243.0,0.0,1790.0,1790.0,0.0
+County,Registered Voters,Blake Tillery (I) (Rep)_Election Day Votes,Blake Tillery (I) (Rep)_Advanced Voting Votes,Blake Tillery (I) (Rep)_Absentee by Mail Votes,Blake Tillery (I) (Rep)_Provisional Votes,Blake Tillery (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Appling,11399.0,1821.0,4070.0,1069.0,10.0,6970.0,6970.0,61.1,6970.0
+Jeff Davis,8478.0,1470.0,2799.0,613.0,0.0,4882.0,4882.0,57.6,4882.0
+Liberty,15148.0,703.0,1891.0,738.0,0.0,3332.0,3332.0,22.0,3332.0
+Long,10470.0,1319.0,2627.0,491.0,14.0,4451.0,4451.0,42.5,4451.0
+Montgomery,5463.0,1193.0,1622.0,465.0,0.0,3280.0,3280.0,60.0,3280.0
+Tattnall,7176.0,953.0,2384.0,629.0,0.0,3966.0,3966.0,55.3,3966.0
+Telfair,6032.0,1020.0,1636.0,453.0,4.0,3113.0,3113.0,51.6,3113.0
+Toombs,0.0,2090.0,5344.0,1620.0,6.0,9060.0,9060.0,0.0,9060.0
+Treutlen,0.0,454.0,1543.0,378.0,0.0,2375.0,2375.0,0.0,2375.0
+Wayne,18104.0,2662.0,6663.0,1645.0,8.0,10978.0,10978.0,60.6,10978.0
+Wheeler,0.0,522.0,1025.0,243.0,0.0,1790.0,1790.0,0.0,1790.0

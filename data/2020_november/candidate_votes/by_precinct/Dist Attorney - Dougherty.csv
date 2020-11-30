@@ -1,29 +1,29 @@
-Precinct,County,Registered Voters,Gregory W. Edwards (I) (Dem)_Election Day Votes,Gregory W. Edwards (I) (Dem)_Advanced Voting Votes,Gregory W. Edwards (I) (Dem)_Absentee by Mail Votes,Gregory W. Edwards (I) (Dem)_Provisional Votes,Gregory W. Edwards (I) (Dem)_Choice Total,Total,calc_participation
-Palmyra Methodist,Dougherty,2761.0,434.0,487.0,348.0,8.0,1277.0,1277.0,46.3
-Sherwood Elementary,Dougherty,3205.0,550.0,685.0,428.0,1.0,1664.0,1664.0,51.9
-Covenant Church,Dougherty,2334.0,453.0,439.0,295.0,2.0,1189.0,1189.0,50.9
-Greenbriar Church,Dougherty,3885.0,523.0,1125.0,777.0,7.0,2432.0,2432.0,62.6
-Westover High School,Dougherty,3394.0,546.0,974.0,587.0,0.0,2107.0,2107.0,62.1
-Merry Acres Middle,Dougherty,2432.0,425.0,529.0,352.0,10.0,1316.0,1316.0,54.1
-Darton College,Dougherty,4289.0,567.0,1081.0,683.0,7.0,2338.0,2338.0,54.5
-Westtown Elementary,Dougherty,3265.0,522.0,633.0,678.0,1.0,1834.0,1834.0,56.2
-2nd Mt Zion Church,Dougherty,1465.0,292.0,248.0,236.0,2.0,778.0,778.0,53.1
-Mt Zion Center,Dougherty,3638.0,561.0,559.0,629.0,2.0,1751.0,1751.0,48.1
-Alice Coachman Elementary,Dougherty,750.0,129.0,164.0,207.0,0.0,500.0,500.0,66.7
-Carver Teen Center,Dougherty,1667.0,234.0,149.0,231.0,2.0,616.0,616.0,37.0
-Shiloh Baptist Church,Dougherty,1510.0,265.0,183.0,216.0,0.0,664.0,664.0,44.0
-Litman Cathedral,Dougherty,1486.0,241.0,192.0,209.0,23.0,665.0,665.0,44.8
-Phoebe Healthworks,Dougherty,1574.0,209.0,170.0,197.0,1.0,577.0,577.0,36.7
-Turner Elementary,Dougherty,1205.0,114.0,73.0,70.0,6.0,263.0,263.0,21.8
-Jackson Heights Elementary,Dougherty,2549.0,395.0,318.0,361.0,0.0,1074.0,1074.0,42.1
-Bill Miller Center,Dougherty,2404.0,359.0,392.0,299.0,5.0,1055.0,1055.0,43.9
-Radium Middle School,Dougherty,693.0,133.0,129.0,95.0,0.0,357.0,357.0,51.5
-Putney 1st Baptist Church,Dougherty,2819.0,555.0,450.0,386.0,1.0,1392.0,1392.0,49.4
-International Studies,Dougherty,1042.0,153.0,214.0,203.0,1.0,571.0,571.0,54.8
-Phoebe East,Dougherty,2965.0,509.0,400.0,392.0,3.0,1304.0,1304.0,44.0
-Pine Bluff Baptist Church,Dougherty,2221.0,391.0,375.0,367.0,0.0,1133.0,1133.0,51.0
-Albany Middle School,Dougherty,1963.0,350.0,274.0,258.0,4.0,886.0,886.0,45.1
-Christ Church,Dougherty,1879.0,415.0,487.0,325.0,1.0,1228.0,1228.0,65.4
-Lamar Reese Elementary,Dougherty,1098.0,181.0,198.0,267.0,5.0,651.0,651.0,59.3
-1st Christian Church,Dougherty,1505.0,307.0,340.0,232.0,1.0,880.0,880.0,58.5
-Lovett Hall,Dougherty,1174.0,195.0,168.0,33.0,1.0,397.0,397.0,33.8
+Precinct,County,Registered Voters,Gregory W. Edwards (I) (Dem)_Election Day Votes,Gregory W. Edwards (I) (Dem)_Advanced Voting Votes,Gregory W. Edwards (I) (Dem)_Absentee by Mail Votes,Gregory W. Edwards (I) (Dem)_Provisional Votes,Gregory W. Edwards (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Palmyra Methodist,Dougherty,2761.0,434.0,487.0,348.0,8.0,1277.0,1277.0,46.3,1277.0
+Sherwood Elementary,Dougherty,3205.0,550.0,685.0,428.0,1.0,1664.0,1664.0,51.9,1664.0
+Covenant Church,Dougherty,2334.0,453.0,439.0,295.0,2.0,1189.0,1189.0,50.9,1189.0
+Greenbriar Church,Dougherty,3885.0,523.0,1125.0,777.0,7.0,2432.0,2432.0,62.6,2432.0
+Westover High School,Dougherty,3394.0,546.0,974.0,587.0,0.0,2107.0,2107.0,62.1,2107.0
+Merry Acres Middle,Dougherty,2432.0,425.0,529.0,352.0,10.0,1316.0,1316.0,54.1,1316.0
+Darton College,Dougherty,4289.0,567.0,1081.0,683.0,7.0,2338.0,2338.0,54.5,2338.0
+Westtown Elementary,Dougherty,3265.0,522.0,633.0,678.0,1.0,1834.0,1834.0,56.2,1834.0
+2nd Mt Zion Church,Dougherty,1465.0,292.0,248.0,236.0,2.0,778.0,778.0,53.1,778.0
+Mt Zion Center,Dougherty,3638.0,561.0,559.0,629.0,2.0,1751.0,1751.0,48.1,1751.0
+Alice Coachman Elementary,Dougherty,750.0,129.0,164.0,207.0,0.0,500.0,500.0,66.7,500.0
+Carver Teen Center,Dougherty,1667.0,234.0,149.0,231.0,2.0,616.0,616.0,37.0,616.0
+Shiloh Baptist Church,Dougherty,1510.0,265.0,183.0,216.0,0.0,664.0,664.0,44.0,664.0
+Litman Cathedral,Dougherty,1486.0,241.0,192.0,209.0,23.0,665.0,665.0,44.8,665.0
+Phoebe Healthworks,Dougherty,1574.0,209.0,170.0,197.0,1.0,577.0,577.0,36.7,577.0
+Turner Elementary,Dougherty,1205.0,114.0,73.0,70.0,6.0,263.0,263.0,21.8,263.0
+Jackson Heights Elementary,Dougherty,2549.0,395.0,318.0,361.0,0.0,1074.0,1074.0,42.1,1074.0
+Bill Miller Center,Dougherty,2404.0,359.0,392.0,299.0,5.0,1055.0,1055.0,43.9,1055.0
+Radium Middle School,Dougherty,693.0,133.0,129.0,95.0,0.0,357.0,357.0,51.5,357.0
+Putney 1st Baptist Church,Dougherty,2819.0,555.0,450.0,386.0,1.0,1392.0,1392.0,49.4,1392.0
+International Studies,Dougherty,1042.0,153.0,214.0,203.0,1.0,571.0,571.0,54.8,571.0
+Phoebe East,Dougherty,2965.0,509.0,400.0,392.0,3.0,1304.0,1304.0,44.0,1304.0
+Pine Bluff Baptist Church,Dougherty,2221.0,391.0,375.0,367.0,0.0,1133.0,1133.0,51.0,1133.0
+Albany Middle School,Dougherty,1963.0,350.0,274.0,258.0,4.0,886.0,886.0,45.1,886.0
+Christ Church,Dougherty,1879.0,415.0,487.0,325.0,1.0,1228.0,1228.0,65.4,1228.0
+Lamar Reese Elementary,Dougherty,1098.0,181.0,198.0,267.0,5.0,651.0,651.0,59.3,651.0
+1st Christian Church,Dougherty,1505.0,307.0,340.0,232.0,1.0,880.0,880.0,58.5,880.0
+Lovett Hall,Dougherty,1174.0,195.0,168.0,33.0,1.0,397.0,397.0,33.8,397.0

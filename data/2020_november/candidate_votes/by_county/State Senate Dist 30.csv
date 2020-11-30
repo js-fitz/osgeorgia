@@ -1,4 +1,4 @@
-County,Registered Voters,Mike Dugan (I) (Rep)_Election Day Votes,Mike Dugan (I) (Rep)_Advanced Voting Votes,Mike Dugan (I) (Rep)_Absentee by Mail Votes,Mike Dugan (I) (Rep)_Provisional Votes,Mike Dugan (I) (Rep)_Choice Total,Montenia Edwards (Dem)_Election Day Votes,Montenia Edwards (Dem)_Advanced Voting Votes,Montenia Edwards (Dem)_Absentee by Mail Votes,Montenia Edwards (Dem)_Provisional Votes,Montenia Edwards (Dem)_Choice Total,Total,calc_participation
-Carroll,75382.0,9048.0,19217.0,4433.0,22.0,32720.0,2516.0,7268.0,3726.0,14.0,13524.0,46244.0,61.3
-Douglas,27653.0,2364.0,7242.0,2385.0,2.0,11993.0,1109.0,3689.0,2731.0,3.0,7532.0,19525.0,70.6
-Paulding,33960.0,2391.0,9075.0,2115.0,9.0,13590.0,934.0,3703.0,2324.0,6.0,6967.0,20557.0,60.5
+County,Registered Voters,Mike Dugan (I) (Rep)_Election Day Votes,Mike Dugan (I) (Rep)_Advanced Voting Votes,Mike Dugan (I) (Rep)_Absentee by Mail Votes,Mike Dugan (I) (Rep)_Provisional Votes,Mike Dugan (I) (Rep)_Choice Total,Montenia Edwards (Dem)_Election Day Votes,Montenia Edwards (Dem)_Advanced Voting Votes,Montenia Edwards (Dem)_Absentee by Mail Votes,Montenia Edwards (Dem)_Provisional Votes,Montenia Edwards (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Carroll,75382.0,9048.0,19217.0,4433.0,22.0,32720.0,2516.0,7268.0,3726.0,14.0,13524.0,46244.0,61.3,32720.0,13524.0
+Douglas,27653.0,2364.0,7242.0,2385.0,2.0,11993.0,1109.0,3689.0,2731.0,3.0,7532.0,19525.0,70.6,11993.0,7532.0
+Paulding,33960.0,2391.0,9075.0,2115.0,9.0,13590.0,934.0,3703.0,2324.0,6.0,6967.0,20557.0,60.5,13590.0,6967.0

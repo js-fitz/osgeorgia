@@ -1,4 +1,4 @@
-Precinct,County,Registered Voters,Melvin Preston Wynens (I)_Election Day Votes,Melvin Preston Wynens (I)_Advanced Voting Votes,Melvin Preston Wynens (I)_Absentee by Mail Votes,Melvin Preston Wynens (I)_Provisional Votes,Melvin Preston Wynens (I)_Choice Total,Total,calc_participation
-Wyatt,Jasper,1940.0,431.0,464.0,183.0,1.0,1079.0,1079.0,55.6
-Monticello,Jasper,4516.0,331.0,1703.0,554.0,10.0,2598.0,2598.0,57.5
-Martin-Burney,Jasper,3976.0,726.0,1299.0,377.0,1.0,2403.0,2403.0,60.4
+Precinct,County,Registered Voters,Melvin Preston Wynens (I)_Election Day Votes,Melvin Preston Wynens (I)_Advanced Voting Votes,Melvin Preston Wynens (I)_Absentee by Mail Votes,Melvin Preston Wynens (I)_Provisional Votes,Melvin Preston Wynens (I)_Choice Total,Total,calc_participation,Ind_total
+Wyatt,Jasper,1940.0,431.0,464.0,183.0,1.0,1079.0,1079.0,55.6,1079.0
+Monticello,Jasper,4516.0,331.0,1703.0,554.0,10.0,2598.0,2598.0,57.5,2598.0
+Martin-Burney,Jasper,3976.0,726.0,1299.0,377.0,1.0,2403.0,2403.0,60.4,2403.0

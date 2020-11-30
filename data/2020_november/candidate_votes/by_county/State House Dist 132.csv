@@ -1,4 +1,4 @@
-County,Registered Voters,David Jenkins (Rep)_Election Day Votes,David Jenkins (Rep)_Advanced Voting Votes,David Jenkins (Rep)_Absentee by Mail Votes,David Jenkins (Rep)_Provisional Votes,David Jenkins (Rep)_Choice Total,"Bob Trammell, Jr. (I) (Dem)_Election Day Votes","Bob Trammell, Jr. (I) (Dem)_Advanced Voting Votes","Bob Trammell, Jr. (I) (Dem)_Absentee by Mail Votes","Bob Trammell, Jr. (I) (Dem)_Provisional Votes","Bob Trammell, Jr. (I) (Dem)_Choice Total",Total,calc_participation
-Coweta,11621.0,1766.0,1386.0,667.0,1.0,3820.0,898.0,930.0,939.0,2.0,2769.0,6589.0,56.7
-Meriwether,5847.0,799.0,1290.0,336.0,1.0,2426.0,433.0,606.0,602.0,3.0,1644.0,4070.0,69.6
-Troup,26512.0,1099.0,3247.0,865.0,1.0,5212.0,1554.0,3023.0,1796.0,6.0,6379.0,11591.0,43.7
+County,Registered Voters,David Jenkins (Rep)_Election Day Votes,David Jenkins (Rep)_Advanced Voting Votes,David Jenkins (Rep)_Absentee by Mail Votes,David Jenkins (Rep)_Provisional Votes,David Jenkins (Rep)_Choice Total,"Bob Trammell, Jr. (I) (Dem)_Election Day Votes","Bob Trammell, Jr. (I) (Dem)_Advanced Voting Votes","Bob Trammell, Jr. (I) (Dem)_Absentee by Mail Votes","Bob Trammell, Jr. (I) (Dem)_Provisional Votes","Bob Trammell, Jr. (I) (Dem)_Choice Total",Total,calc_participation,Rep_total,Dem_total
+Coweta,11621.0,1766.0,1386.0,667.0,1.0,3820.0,898.0,930.0,939.0,2.0,2769.0,6589.0,56.7,3820.0,2769.0
+Meriwether,5847.0,799.0,1290.0,336.0,1.0,2426.0,433.0,606.0,602.0,3.0,1644.0,4070.0,69.6,2426.0,1644.0
+Troup,26512.0,1099.0,3247.0,865.0,1.0,5212.0,1554.0,3023.0,1796.0,6.0,6379.0,11591.0,43.7,5212.0,6379.0

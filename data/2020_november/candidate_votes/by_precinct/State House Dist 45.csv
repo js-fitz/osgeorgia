@@ -1,15 +1,15 @@
-Precinct,County,Registered Voters,Matt Dollar (I) (Rep)_Election Day Votes,Matt Dollar (I) (Rep)_Advanced Voting Votes,Matt Dollar (I) (Rep)_Absentee by Mail Votes,Matt Dollar (I) (Rep)_Provisional Votes,Matt Dollar (I) (Rep)_Choice Total,Sara Tindall Ghazal (Dem)_Election Day Votes,Sara Tindall Ghazal (Dem)_Advanced Voting Votes,Sara Tindall Ghazal (Dem)_Absentee by Mail Votes,Sara Tindall Ghazal (Dem)_Provisional Votes,Sara Tindall Ghazal (Dem)_Choice Total,Total,calc_participation
-SS19A,Fulton,3299.0,75.0,361.0,109.0,6.0,551.0,137.0,939.0,367.0,8.0,1451.0,2002.0,60.7
-SS22,Fulton,2834.0,107.0,394.0,225.0,0.0,726.0,111.0,515.0,368.0,3.0,997.0,1723.0,60.8
-Chestnut Ridge 01,Cobb,3162.0,340.0,635.0,630.0,0.0,1605.0,111.0,346.0,595.0,0.0,1052.0,2657.0,84.0
-Dickerson 01,Cobb,2828.0,274.0,567.0,484.0,2.0,1327.0,81.0,346.0,591.0,0.0,1018.0,2345.0,82.9
-Dodgen 01,Cobb,2100.0,256.0,379.0,380.0,1.0,1016.0,94.0,258.0,373.0,1.0,726.0,1742.0,83.0
-Hightower 01,Cobb,4262.0,410.0,761.0,873.0,0.0,2044.0,100.0,481.0,877.0,0.0,1458.0,3502.0,82.2
-Murdock 01,Cobb,4059.0,449.0,696.0,748.0,0.0,1893.0,153.0,480.0,800.0,0.0,1433.0,3326.0,81.9
-Mt Bethel 01,Cobb,4125.0,415.0,779.0,781.0,4.0,1979.0,108.0,438.0,871.0,2.0,1419.0,3398.0,82.4
-Mt Bethel 03,Cobb,3294.0,230.0,707.0,530.0,0.0,1467.0,79.0,420.0,658.0,0.0,1157.0,2624.0,79.7
-Pope 01,Cobb,3153.0,98.0,248.0,189.0,0.0,535.0,33.0,131.0,222.0,0.0,386.0,921.0,29.2
-Roswell 01,Cobb,5374.0,516.0,1069.0,1006.0,0.0,2591.0,162.0,578.0,1184.0,0.0,1924.0,4515.0,84.0
-Roswell 02,Cobb,3701.0,403.0,679.0,672.0,2.0,1756.0,132.0,388.0,787.0,0.0,1307.0,3063.0,82.8
-Sewell Mill 01,Cobb,3493.0,231.0,359.0,327.0,0.0,917.0,91.0,276.0,409.0,0.0,776.0,1693.0,48.5
-Timber Ridge 01,Cobb,2448.0,269.0,469.0,404.0,0.0,1142.0,81.0,285.0,535.0,1.0,902.0,2044.0,83.5
+Precinct,County,Registered Voters,Matt Dollar (I) (Rep)_Election Day Votes,Matt Dollar (I) (Rep)_Advanced Voting Votes,Matt Dollar (I) (Rep)_Absentee by Mail Votes,Matt Dollar (I) (Rep)_Provisional Votes,Matt Dollar (I) (Rep)_Choice Total,Sara Tindall Ghazal (Dem)_Election Day Votes,Sara Tindall Ghazal (Dem)_Advanced Voting Votes,Sara Tindall Ghazal (Dem)_Absentee by Mail Votes,Sara Tindall Ghazal (Dem)_Provisional Votes,Sara Tindall Ghazal (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+SS19A,Fulton,3299.0,75.0,361.0,109.0,6.0,551.0,137.0,939.0,367.0,8.0,1451.0,2002.0,60.7,551.0,1451.0
+SS22,Fulton,2834.0,107.0,394.0,225.0,0.0,726.0,111.0,515.0,368.0,3.0,997.0,1723.0,60.8,726.0,997.0
+Chestnut Ridge 01,Cobb,3162.0,340.0,635.0,630.0,0.0,1605.0,111.0,346.0,595.0,0.0,1052.0,2657.0,84.0,1605.0,1052.0
+Dickerson 01,Cobb,2828.0,274.0,567.0,484.0,2.0,1327.0,81.0,346.0,591.0,0.0,1018.0,2345.0,82.9,1327.0,1018.0
+Dodgen 01,Cobb,2100.0,256.0,379.0,380.0,1.0,1016.0,94.0,258.0,373.0,1.0,726.0,1742.0,83.0,1016.0,726.0
+Hightower 01,Cobb,4262.0,410.0,761.0,873.0,0.0,2044.0,100.0,481.0,877.0,0.0,1458.0,3502.0,82.2,2044.0,1458.0
+Murdock 01,Cobb,4059.0,449.0,696.0,748.0,0.0,1893.0,153.0,480.0,800.0,0.0,1433.0,3326.0,81.9,1893.0,1433.0
+Mt Bethel 01,Cobb,4125.0,415.0,779.0,781.0,4.0,1979.0,108.0,438.0,871.0,2.0,1419.0,3398.0,82.4,1979.0,1419.0
+Mt Bethel 03,Cobb,3294.0,230.0,707.0,530.0,0.0,1467.0,79.0,420.0,658.0,0.0,1157.0,2624.0,79.7,1467.0,1157.0
+Pope 01,Cobb,3153.0,98.0,248.0,189.0,0.0,535.0,33.0,131.0,222.0,0.0,386.0,921.0,29.2,535.0,386.0
+Roswell 01,Cobb,5374.0,516.0,1069.0,1006.0,0.0,2591.0,162.0,578.0,1184.0,0.0,1924.0,4515.0,84.0,2591.0,1924.0
+Roswell 02,Cobb,3701.0,403.0,679.0,672.0,2.0,1756.0,132.0,388.0,787.0,0.0,1307.0,3063.0,82.8,1756.0,1307.0
+Sewell Mill 01,Cobb,3493.0,231.0,359.0,327.0,0.0,917.0,91.0,276.0,409.0,0.0,776.0,1693.0,48.5,917.0,776.0
+Timber Ridge 01,Cobb,2448.0,269.0,469.0,404.0,0.0,1142.0,81.0,285.0,535.0,1.0,902.0,2044.0,83.5,1142.0,902.0

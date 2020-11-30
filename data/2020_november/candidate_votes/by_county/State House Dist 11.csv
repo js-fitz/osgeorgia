@@ -1,4 +1,4 @@
-County,Registered Voters,Rick Jasperse (I) (Rep)_Election Day Votes,Rick Jasperse (I) (Rep)_Advanced Voting Votes,Rick Jasperse (I) (Rep)_Absentee by Mail Votes,Rick Jasperse (I) (Rep)_Provisional Votes,Rick Jasperse (I) (Rep)_Choice Total,Kayla Hollifield (Dem)_Election Day Votes,Kayla Hollifield (Dem)_Advanced Voting Votes,Kayla Hollifield (Dem)_Absentee by Mail Votes,Kayla Hollifield (Dem)_Provisional Votes,Kayla Hollifield (Dem)_Choice Total,Total,calc_participation
-Gordon,11775.0,1566.0,1277.0,440.0,1.0,3284.0,145.0,168.0,172.0,0.0,485.0,3769.0,32.0
-Murray,11482.0,1335.0,3244.0,620.0,0.0,5199.0,231.0,562.0,326.0,0.0,1119.0,6318.0,55.0
-Pickens,23766.0,5949.0,6273.0,1922.0,6.0,14150.0,699.0,1011.0,957.0,1.0,2668.0,16818.0,70.8
+County,Registered Voters,Rick Jasperse (I) (Rep)_Election Day Votes,Rick Jasperse (I) (Rep)_Advanced Voting Votes,Rick Jasperse (I) (Rep)_Absentee by Mail Votes,Rick Jasperse (I) (Rep)_Provisional Votes,Rick Jasperse (I) (Rep)_Choice Total,Kayla Hollifield (Dem)_Election Day Votes,Kayla Hollifield (Dem)_Advanced Voting Votes,Kayla Hollifield (Dem)_Absentee by Mail Votes,Kayla Hollifield (Dem)_Provisional Votes,Kayla Hollifield (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Gordon,11775.0,1566.0,1277.0,440.0,1.0,3284.0,145.0,168.0,172.0,0.0,485.0,3769.0,32.0,3284.0,485.0
+Murray,11482.0,1335.0,3244.0,620.0,0.0,5199.0,231.0,562.0,326.0,0.0,1119.0,6318.0,55.0,5199.0,1119.0
+Pickens,23766.0,5949.0,6273.0,1922.0,6.0,14150.0,699.0,1011.0,957.0,1.0,2668.0,16818.0,70.8,14150.0,2668.0

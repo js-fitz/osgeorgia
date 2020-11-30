@@ -1,10 +1,10 @@
-Precinct,County,Registered Voters,Micah Gravley (I) (Rep)_Election Day Votes,Micah Gravley (I) (Rep)_Advanced Voting Votes,Micah Gravley (I) (Rep)_Absentee by Mail Votes,Micah Gravley (I) (Rep)_Provisional Votes,Micah Gravley (I) (Rep)_Choice Total,Angela Mayfield (Dem)_Election Day Votes,Angela Mayfield (Dem)_Advanced Voting Votes,Angela Mayfield (Dem)_Absentee by Mail Votes,Angela Mayfield (Dem)_Provisional Votes,Angela Mayfield (Dem)_Choice Total,Total,calc_participation
-Mirror Lake Elementary,Douglas,6745.0,435.0,1135.0,471.0,1.0,2042.0,419.0,1183.0,895.0,3.0,2500.0,4542.0,67.3
-Winston,Douglas,1911.0,104.0,316.0,120.0,1.0,541.0,150.0,397.0,174.0,1.0,722.0,1263.0,66.1
-Ephesus Baptist Church,Douglas,3930.0,565.0,1357.0,423.0,0.0,2345.0,104.0,335.0,256.0,0.0,695.0,3040.0,77.4
-Prays Mill Gym,Douglas,5459.0,369.0,1417.0,468.0,0.0,2254.0,214.0,832.0,569.0,0.0,1615.0,3869.0,70.9
-Bright Star,Douglas,2703.0,253.0,559.0,205.0,1.0,1018.0,135.0,365.0,278.0,1.0,779.0,1797.0,66.5
-Dorsett Shoals,Douglas,3901.0,308.0,782.0,314.0,0.0,1404.0,189.0,481.0,388.0,0.0,1058.0,2462.0,63.1
-D Wright Innovation Ctr,Paulding,7137.0,494.0,2074.0,358.0,2.0,2928.0,248.0,1022.0,544.0,1.0,1815.0,4743.0,66.5
-Nebo Elem School,Paulding,10070.0,704.0,2091.0,493.0,1.0,3289.0,185.0,573.0,410.0,2.0,1170.0,4459.0,44.3
-Mulberry Rock Park,Paulding,5911.0,320.0,1216.0,287.0,4.0,1827.0,63.0,223.0,145.0,0.0,431.0,2258.0,38.2
+Precinct,County,Registered Voters,Micah Gravley (I) (Rep)_Election Day Votes,Micah Gravley (I) (Rep)_Advanced Voting Votes,Micah Gravley (I) (Rep)_Absentee by Mail Votes,Micah Gravley (I) (Rep)_Provisional Votes,Micah Gravley (I) (Rep)_Choice Total,Angela Mayfield (Dem)_Election Day Votes,Angela Mayfield (Dem)_Advanced Voting Votes,Angela Mayfield (Dem)_Absentee by Mail Votes,Angela Mayfield (Dem)_Provisional Votes,Angela Mayfield (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Mirror Lake Elementary,Douglas,6745.0,435.0,1135.0,471.0,1.0,2042.0,419.0,1183.0,895.0,3.0,2500.0,4542.0,67.3,2042.0,2500.0
+Winston,Douglas,1911.0,104.0,316.0,120.0,1.0,541.0,150.0,397.0,174.0,1.0,722.0,1263.0,66.1,541.0,722.0
+Ephesus Baptist Church,Douglas,3930.0,565.0,1357.0,423.0,0.0,2345.0,104.0,335.0,256.0,0.0,695.0,3040.0,77.4,2345.0,695.0
+Prays Mill Gym,Douglas,5459.0,369.0,1417.0,468.0,0.0,2254.0,214.0,832.0,569.0,0.0,1615.0,3869.0,70.9,2254.0,1615.0
+Bright Star,Douglas,2703.0,253.0,559.0,205.0,1.0,1018.0,135.0,365.0,278.0,1.0,779.0,1797.0,66.5,1018.0,779.0
+Dorsett Shoals,Douglas,3901.0,308.0,782.0,314.0,0.0,1404.0,189.0,481.0,388.0,0.0,1058.0,2462.0,63.1,1404.0,1058.0
+D Wright Innovation Ctr,Paulding,7137.0,494.0,2074.0,358.0,2.0,2928.0,248.0,1022.0,544.0,1.0,1815.0,4743.0,66.5,2928.0,1815.0
+Nebo Elem School,Paulding,10070.0,704.0,2091.0,493.0,1.0,3289.0,185.0,573.0,410.0,2.0,1170.0,4459.0,44.3,3289.0,1170.0
+Mulberry Rock Park,Paulding,5911.0,320.0,1216.0,287.0,4.0,1827.0,63.0,223.0,145.0,0.0,431.0,2258.0,38.2,1827.0,431.0

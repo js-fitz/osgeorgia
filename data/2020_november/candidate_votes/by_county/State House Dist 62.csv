@@ -1,3 +1,3 @@
-County,Registered Voters,"William K. Boddie, Jr. (I) (Dem)_Election Day Votes","William K. Boddie, Jr. (I) (Dem)_Advanced Voting Votes","William K. Boddie, Jr. (I) (Dem)_Absentee by Mail Votes","William K. Boddie, Jr. (I) (Dem)_Provisional Votes","William K. Boddie, Jr. (I) (Dem)_Choice Total",Total,calc_participation
-Douglas,20298.0,1146.0,4959.0,2374.0,1.0,8480.0,8480.0,41.8
-Fulton,37576.0,2031.0,14229.0,4653.0,89.0,21002.0,21002.0,55.9
+County,Registered Voters,"William K. Boddie, Jr. (I) (Dem)_Election Day Votes","William K. Boddie, Jr. (I) (Dem)_Advanced Voting Votes","William K. Boddie, Jr. (I) (Dem)_Absentee by Mail Votes","William K. Boddie, Jr. (I) (Dem)_Provisional Votes","William K. Boddie, Jr. (I) (Dem)_Choice Total",Total,calc_participation,Dem_total
+Douglas,20298.0,1146.0,4959.0,2374.0,1.0,8480.0,8480.0,41.8,8480.0
+Fulton,37576.0,2031.0,14229.0,4653.0,89.0,21002.0,21002.0,55.9,21002.0

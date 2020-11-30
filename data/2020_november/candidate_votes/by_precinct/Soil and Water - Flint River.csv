@@ -1,30 +1,30 @@
-Precinct,County,Registered Voters,Ronald Wesley Vann (I)_Election Day Votes,Ronald Wesley Vann (I)_Advanced Voting Votes,Ronald Wesley Vann (I)_Absentee by Mail Votes,Ronald Wesley Vann (I)_Provisional Votes,Ronald Wesley Vann (I)_Choice Total,Total,Keith Cromartie_Election Day Votes,Keith Cromartie_Advanced Voting Votes,Keith Cromartie_Absentee by Mail Votes,Keith Cromartie_Provisional Votes,Keith Cromartie_Choice Total,calc_participation
-Colquitt-Miller,Miller,3912.0,560.0,1270.0,398.0,2.0,2230.0,2230.0,,,,,,57.0
-Palmyra Methodist,Dougherty,2761.0,,,,,,1287.0,450.0,488.0,343.0,6.0,1287.0,46.6
-Sherwood Elementary,Dougherty,3205.0,,,,,,1639.0,548.0,667.0,423.0,1.0,1639.0,51.1
-Covenant Church,Dougherty,2334.0,,,,,,1204.0,483.0,433.0,286.0,2.0,1204.0,51.6
-Greenbriar Church,Dougherty,3885.0,,,,,,2428.0,549.0,1133.0,740.0,6.0,2428.0,62.5
-Westover High School,Dougherty,3394.0,,,,,,2018.0,543.0,922.0,553.0,0.0,2018.0,59.5
-Merry Acres Middle,Dougherty,2432.0,,,,,,1351.0,451.0,552.0,339.0,9.0,1351.0,55.6
-Darton College,Dougherty,4289.0,,,,,,2239.0,546.0,1036.0,651.0,6.0,2239.0,52.2
-Westtown Elementary,Dougherty,3265.0,,,,,,1729.0,498.0,594.0,636.0,1.0,1729.0,53.0
-2nd Mt Zion Church,Dougherty,1465.0,,,,,,796.0,301.0,258.0,235.0,2.0,796.0,54.3
-Mt Zion Center,Dougherty,3638.0,,,,,,1574.0,511.0,495.0,566.0,2.0,1574.0,43.3
-Alice Coachman Elementary,Dougherty,750.0,,,,,,467.0,123.0,155.0,189.0,0.0,467.0,62.3
-Carver Teen Center,Dougherty,1667.0,,,,,,586.0,216.0,142.0,226.0,2.0,586.0,35.2
-Shiloh Baptist Church,Dougherty,1510.0,,,,,,611.0,244.0,164.0,203.0,0.0,611.0,40.5
-Litman Cathedral,Dougherty,1486.0,,,,,,609.0,225.0,172.0,191.0,21.0,609.0,41.0
-Phoebe Healthworks,Dougherty,1574.0,,,,,,544.0,204.0,159.0,180.0,1.0,544.0,34.6
-Turner Elementary,Dougherty,1205.0,,,,,,251.0,113.0,67.0,65.0,6.0,251.0,20.8
-Jackson Heights Elementary,Dougherty,2549.0,,,,,,957.0,348.0,282.0,327.0,0.0,957.0,37.5
-Bill Miller Center,Dougherty,2404.0,,,,,,984.0,341.0,362.0,276.0,5.0,984.0,40.9
-Radium Middle School,Dougherty,693.0,,,,,,352.0,133.0,124.0,95.0,0.0,352.0,50.8
-Putney 1st Baptist Church,Dougherty,2819.0,,,,,,1437.0,605.0,464.0,367.0,1.0,1437.0,51.0
-International Studies,Dougherty,1042.0,,,,,,563.0,156.0,212.0,194.0,1.0,563.0,54.0
-Phoebe East,Dougherty,2965.0,,,,,,1278.0,506.0,391.0,378.0,3.0,1278.0,43.1
-Pine Bluff Baptist Church,Dougherty,2221.0,,,,,,1122.0,394.0,365.0,363.0,0.0,1122.0,50.5
-Albany Middle School,Dougherty,1963.0,,,,,,827.0,332.0,254.0,239.0,2.0,827.0,42.1
-Christ Church,Dougherty,1879.0,,,,,,1237.0,451.0,478.0,307.0,1.0,1237.0,65.8
-Lamar Reese Elementary,Dougherty,1098.0,,,,,,606.0,169.0,189.0,243.0,5.0,606.0,55.2
-1st Christian Church,Dougherty,1505.0,,,,,,863.0,306.0,340.0,216.0,1.0,863.0,57.3
-Lovett Hall,Dougherty,1174.0,,,,,,376.0,186.0,161.0,28.0,1.0,376.0,32.0
+Precinct,County,Registered Voters,Ronald Wesley Vann (I)_Election Day Votes,Ronald Wesley Vann (I)_Advanced Voting Votes,Ronald Wesley Vann (I)_Absentee by Mail Votes,Ronald Wesley Vann (I)_Provisional Votes,Ronald Wesley Vann (I)_Choice Total,Total,Keith Cromartie_Election Day Votes,Keith Cromartie_Advanced Voting Votes,Keith Cromartie_Absentee by Mail Votes,Keith Cromartie_Provisional Votes,Keith Cromartie_Choice Total,calc_participation,Ind_total
+Colquitt-Miller,Miller,3912.0,560.0,1270.0,398.0,2.0,2230.0,2230.0,,,,,,57.0,2230.0
+Palmyra Methodist,Dougherty,2761.0,,,,,,1287.0,450.0,488.0,343.0,6.0,1287.0,46.6,
+Sherwood Elementary,Dougherty,3205.0,,,,,,1639.0,548.0,667.0,423.0,1.0,1639.0,51.1,
+Covenant Church,Dougherty,2334.0,,,,,,1204.0,483.0,433.0,286.0,2.0,1204.0,51.6,
+Greenbriar Church,Dougherty,3885.0,,,,,,2428.0,549.0,1133.0,740.0,6.0,2428.0,62.5,
+Westover High School,Dougherty,3394.0,,,,,,2018.0,543.0,922.0,553.0,0.0,2018.0,59.5,
+Merry Acres Middle,Dougherty,2432.0,,,,,,1351.0,451.0,552.0,339.0,9.0,1351.0,55.6,
+Darton College,Dougherty,4289.0,,,,,,2239.0,546.0,1036.0,651.0,6.0,2239.0,52.2,
+Westtown Elementary,Dougherty,3265.0,,,,,,1729.0,498.0,594.0,636.0,1.0,1729.0,53.0,
+2nd Mt Zion Church,Dougherty,1465.0,,,,,,796.0,301.0,258.0,235.0,2.0,796.0,54.3,
+Mt Zion Center,Dougherty,3638.0,,,,,,1574.0,511.0,495.0,566.0,2.0,1574.0,43.3,
+Alice Coachman Elementary,Dougherty,750.0,,,,,,467.0,123.0,155.0,189.0,0.0,467.0,62.3,
+Carver Teen Center,Dougherty,1667.0,,,,,,586.0,216.0,142.0,226.0,2.0,586.0,35.2,
+Shiloh Baptist Church,Dougherty,1510.0,,,,,,611.0,244.0,164.0,203.0,0.0,611.0,40.5,
+Litman Cathedral,Dougherty,1486.0,,,,,,609.0,225.0,172.0,191.0,21.0,609.0,41.0,
+Phoebe Healthworks,Dougherty,1574.0,,,,,,544.0,204.0,159.0,180.0,1.0,544.0,34.6,
+Turner Elementary,Dougherty,1205.0,,,,,,251.0,113.0,67.0,65.0,6.0,251.0,20.8,
+Jackson Heights Elementary,Dougherty,2549.0,,,,,,957.0,348.0,282.0,327.0,0.0,957.0,37.5,
+Bill Miller Center,Dougherty,2404.0,,,,,,984.0,341.0,362.0,276.0,5.0,984.0,40.9,
+Radium Middle School,Dougherty,693.0,,,,,,352.0,133.0,124.0,95.0,0.0,352.0,50.8,
+Putney 1st Baptist Church,Dougherty,2819.0,,,,,,1437.0,605.0,464.0,367.0,1.0,1437.0,51.0,
+International Studies,Dougherty,1042.0,,,,,,563.0,156.0,212.0,194.0,1.0,563.0,54.0,
+Phoebe East,Dougherty,2965.0,,,,,,1278.0,506.0,391.0,378.0,3.0,1278.0,43.1,
+Pine Bluff Baptist Church,Dougherty,2221.0,,,,,,1122.0,394.0,365.0,363.0,0.0,1122.0,50.5,
+Albany Middle School,Dougherty,1963.0,,,,,,827.0,332.0,254.0,239.0,2.0,827.0,42.1,
+Christ Church,Dougherty,1879.0,,,,,,1237.0,451.0,478.0,307.0,1.0,1237.0,65.8,
+Lamar Reese Elementary,Dougherty,1098.0,,,,,,606.0,169.0,189.0,243.0,5.0,606.0,55.2,
+1st Christian Church,Dougherty,1505.0,,,,,,863.0,306.0,340.0,216.0,1.0,863.0,57.3,
+Lovett Hall,Dougherty,1174.0,,,,,,376.0,186.0,161.0,28.0,1.0,376.0,32.0,

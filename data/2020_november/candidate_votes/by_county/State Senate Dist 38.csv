@@ -1,3 +1,3 @@
-County,Registered Voters,Horacena Tate (I) (Dem)_Election Day Votes,Horacena Tate (I) (Dem)_Advanced Voting Votes,Horacena Tate (I) (Dem)_Absentee by Mail Votes,Horacena Tate (I) (Dem)_Provisional Votes,Horacena Tate (I) (Dem)_Choice Total,Total,calc_participation
-Cobb,73115.0,4242.0,14380.0,11719.0,20.0,30361.0,30361.0,41.5
-Fulton,93749.0,6080.0,29656.0,13252.0,399.0,49387.0,49387.0,52.7
+County,Registered Voters,Horacena Tate (I) (Dem)_Election Day Votes,Horacena Tate (I) (Dem)_Advanced Voting Votes,Horacena Tate (I) (Dem)_Absentee by Mail Votes,Horacena Tate (I) (Dem)_Provisional Votes,Horacena Tate (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Cobb,73115.0,4242.0,14380.0,11719.0,20.0,30361.0,30361.0,41.5,30361.0
+Fulton,93749.0,6080.0,29656.0,13252.0,399.0,49387.0,49387.0,52.7,49387.0

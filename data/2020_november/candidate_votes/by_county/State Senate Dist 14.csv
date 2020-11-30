@@ -1,4 +1,4 @@
-County,Registered Voters,Bruce Thompson (I) (Rep)_Election Day Votes,Bruce Thompson (I) (Rep)_Advanced Voting Votes,Bruce Thompson (I) (Rep)_Absentee by Mail Votes,Bruce Thompson (I) (Rep)_Provisional Votes,Bruce Thompson (I) (Rep)_Choice Total,Travis Johnson (Dem)_Election Day Votes,Travis Johnson (Dem)_Advanced Voting Votes,Travis Johnson (Dem)_Absentee by Mail Votes,Travis Johnson (Dem)_Provisional Votes,Travis Johnson (Dem)_Choice Total,Total,calc_participation
-Bartow,57707.0,5709.0,12351.0,3508.0,10.0,21578.0,1363.0,3212.0,2592.0,5.0,7172.0,28750.0,49.8
-Cherokee,83295.0,9864.0,21062.0,7743.0,3.0,38672.0,2731.0,6982.0,6132.0,4.0,15849.0,54521.0,65.5
-Cobb,19673.0,1724.0,2779.0,1779.0,2.0,6284.0,865.0,2310.0,2306.0,3.0,5484.0,11768.0,59.8
+County,Registered Voters,Bruce Thompson (I) (Rep)_Election Day Votes,Bruce Thompson (I) (Rep)_Advanced Voting Votes,Bruce Thompson (I) (Rep)_Absentee by Mail Votes,Bruce Thompson (I) (Rep)_Provisional Votes,Bruce Thompson (I) (Rep)_Choice Total,Travis Johnson (Dem)_Election Day Votes,Travis Johnson (Dem)_Advanced Voting Votes,Travis Johnson (Dem)_Absentee by Mail Votes,Travis Johnson (Dem)_Provisional Votes,Travis Johnson (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Bartow,57707.0,5709.0,12351.0,3508.0,10.0,21578.0,1363.0,3212.0,2592.0,5.0,7172.0,28750.0,49.8,21578.0,7172.0
+Cherokee,83295.0,9864.0,21062.0,7743.0,3.0,38672.0,2731.0,6982.0,6132.0,4.0,15849.0,54521.0,65.5,38672.0,15849.0
+Cobb,19673.0,1724.0,2779.0,1779.0,2.0,6284.0,865.0,2310.0,2306.0,3.0,5484.0,11768.0,59.8,6284.0,5484.0

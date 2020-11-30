@@ -1,31 +1,31 @@
-Precinct,County,Registered Voters,Bill Doupe (I) (Dem)_Election Day Votes,Bill Doupe (I) (Dem)_Advanced Voting Votes,Bill Doupe (I) (Dem)_Absentee by Mail Votes,Bill Doupe (I) (Dem)_Provisional Votes,Bill Doupe (I) (Dem)_Choice Total,Total,calc_participation
-Midway,Lincoln,587.0,95.0,131.0,83.0,0.0,309.0,309.0,52.6
-Lincoln Club House,Lincoln,799.0,95.0,184.0,146.0,2.0,427.0,427.0,53.4
-Lincoln Center,Lincoln,1489.0,163.0,464.0,146.0,0.0,773.0,773.0,51.9
-Faith Temple of Lincoln,Lincoln,489.0,71.0,122.0,66.0,0.0,259.0,259.0,53.0
-Tabernacle,Lincoln,1003.0,140.0,236.0,150.0,0.0,526.0,526.0,52.4
-Bethany Church,Lincoln,575.0,81.0,145.0,54.0,0.0,280.0,280.0,48.7
-Martins Crossroad,Lincoln,1234.0,179.0,325.0,121.0,1.0,626.0,626.0,50.7
-Senior Citizen Center,Wilkes,1552.0,173.0,474.0,245.0,5.0,897.0,897.0,57.8
-Young Farmers Bldg,Wilkes,1173.0,124.0,431.0,162.0,1.0,718.0,718.0,61.2
-Metasville Fire Sta,Wilkes,610.0,103.0,152.0,95.0,0.0,350.0,350.0,57.4
-Edward B Pope Center,Wilkes,1017.0,159.0,283.0,133.0,0.0,575.0,575.0,56.5
-Rayle City Hall,Wilkes,570.0,129.0,119.0,77.0,1.0,326.0,326.0,57.2
-Courthouse,Wilkes,1001.0,102.0,364.0,146.0,0.0,612.0,612.0,61.1
-Tignal Sch Lunch Rm,Wilkes,896.0,198.0,219.0,154.0,0.0,571.0,571.0,63.7
-Sharon,Taliaferro,253.0,53.0,47.0,39.0,0.0,139.0,139.0,54.9
-Crawfordville,Taliaferro,992.0,98.0,251.0,184.0,0.0,533.0,533.0,53.7
-Edgehill,Glascock,136.0,25.0,27.0,3.0,0.0,55.0,55.0,40.4
-Gibson,Glascock,677.0,75.0,138.0,33.0,0.0,246.0,246.0,36.3
-Mill,Glascock,778.0,95.0,183.0,41.0,0.0,319.0,319.0,41.0
-Mitchell,Glascock,448.0,79.0,72.0,39.0,0.0,190.0,190.0,42.4
-131,McDuffie,1172.0,98.0,344.0,225.0,0.0,667.0,667.0,56.9
-132,McDuffie,1507.0,92.0,620.0,152.0,0.0,864.0,864.0,57.3
-133A,McDuffie,1278.0,114.0,397.0,140.0,0.0,651.0,651.0,50.9
-133B,McDuffie,1959.0,186.0,732.0,189.0,0.0,1107.0,1107.0,56.5
-134,McDuffie,1908.0,154.0,625.0,376.0,0.0,1155.0,1155.0,60.5
-135,McDuffie,3089.0,213.0,1184.0,378.0,0.0,1775.0,1775.0,57.5
-136,McDuffie,1940.0,179.0,458.0,328.0,0.0,965.0,965.0,49.7
-137,McDuffie,1202.0,74.0,508.0,138.0,0.0,720.0,720.0,59.9
-139,McDuffie,978.0,83.0,358.0,142.0,0.0,583.0,583.0,59.6
-Warrenton,Warren,3785.0,403.0,1109.0,630.0,0.0,2142.0,2142.0,56.6
+Precinct,County,Registered Voters,Bill Doupe (I) (Dem)_Election Day Votes,Bill Doupe (I) (Dem)_Advanced Voting Votes,Bill Doupe (I) (Dem)_Absentee by Mail Votes,Bill Doupe (I) (Dem)_Provisional Votes,Bill Doupe (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Midway,Lincoln,587.0,95.0,131.0,83.0,0.0,309.0,309.0,52.6,309.0
+Lincoln Club House,Lincoln,799.0,95.0,184.0,146.0,2.0,427.0,427.0,53.4,427.0
+Lincoln Center,Lincoln,1489.0,163.0,464.0,146.0,0.0,773.0,773.0,51.9,773.0
+Faith Temple of Lincoln,Lincoln,489.0,71.0,122.0,66.0,0.0,259.0,259.0,53.0,259.0
+Tabernacle,Lincoln,1003.0,140.0,236.0,150.0,0.0,526.0,526.0,52.4,526.0
+Bethany Church,Lincoln,575.0,81.0,145.0,54.0,0.0,280.0,280.0,48.7,280.0
+Martins Crossroad,Lincoln,1234.0,179.0,325.0,121.0,1.0,626.0,626.0,50.7,626.0
+Senior Citizen Center,Wilkes,1552.0,173.0,474.0,245.0,5.0,897.0,897.0,57.8,897.0
+Young Farmers Bldg,Wilkes,1173.0,124.0,431.0,162.0,1.0,718.0,718.0,61.2,718.0
+Metasville Fire Sta,Wilkes,610.0,103.0,152.0,95.0,0.0,350.0,350.0,57.4,350.0
+Edward B Pope Center,Wilkes,1017.0,159.0,283.0,133.0,0.0,575.0,575.0,56.5,575.0
+Rayle City Hall,Wilkes,570.0,129.0,119.0,77.0,1.0,326.0,326.0,57.2,326.0
+Courthouse,Wilkes,1001.0,102.0,364.0,146.0,0.0,612.0,612.0,61.1,612.0
+Tignal Sch Lunch Rm,Wilkes,896.0,198.0,219.0,154.0,0.0,571.0,571.0,63.7,571.0
+Sharon,Taliaferro,253.0,53.0,47.0,39.0,0.0,139.0,139.0,54.9,139.0
+Crawfordville,Taliaferro,992.0,98.0,251.0,184.0,0.0,533.0,533.0,53.7,533.0
+Edgehill,Glascock,136.0,25.0,27.0,3.0,0.0,55.0,55.0,40.4,55.0
+Gibson,Glascock,677.0,75.0,138.0,33.0,0.0,246.0,246.0,36.3,246.0
+Mill,Glascock,778.0,95.0,183.0,41.0,0.0,319.0,319.0,41.0,319.0
+Mitchell,Glascock,448.0,79.0,72.0,39.0,0.0,190.0,190.0,42.4,190.0
+131,McDuffie,1172.0,98.0,344.0,225.0,0.0,667.0,667.0,56.9,667.0
+132,McDuffie,1507.0,92.0,620.0,152.0,0.0,864.0,864.0,57.3,864.0
+133A,McDuffie,1278.0,114.0,397.0,140.0,0.0,651.0,651.0,50.9,651.0
+133B,McDuffie,1959.0,186.0,732.0,189.0,0.0,1107.0,1107.0,56.5,1107.0
+134,McDuffie,1908.0,154.0,625.0,376.0,0.0,1155.0,1155.0,60.5,1155.0
+135,McDuffie,3089.0,213.0,1184.0,378.0,0.0,1775.0,1775.0,57.5,1775.0
+136,McDuffie,1940.0,179.0,458.0,328.0,0.0,965.0,965.0,49.7,965.0
+137,McDuffie,1202.0,74.0,508.0,138.0,0.0,720.0,720.0,59.9,720.0
+139,McDuffie,978.0,83.0,358.0,142.0,0.0,583.0,583.0,59.6,583.0
+Warrenton,Warren,3785.0,403.0,1109.0,630.0,0.0,2142.0,2142.0,56.6,2142.0

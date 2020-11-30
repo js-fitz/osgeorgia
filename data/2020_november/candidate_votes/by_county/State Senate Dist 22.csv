@@ -1,2 +1,2 @@
-County,Registered Voters,"Harold V. Jones, II (I) (Dem)_Election Day Votes","Harold V. Jones, II (I) (Dem)_Advanced Voting Votes","Harold V. Jones, II (I) (Dem)_Absentee by Mail Votes","Harold V. Jones, II (I) (Dem)_Provisional Votes","Harold V. Jones, II (I) (Dem)_Choice Total",Total,calc_participation
-Richmond,113944.0,13653.0,26663.0,20517.0,133.0,60966.0,60966.0,53.5
+County,Registered Voters,"Harold V. Jones, II (I) (Dem)_Election Day Votes","Harold V. Jones, II (I) (Dem)_Advanced Voting Votes","Harold V. Jones, II (I) (Dem)_Absentee by Mail Votes","Harold V. Jones, II (I) (Dem)_Provisional Votes","Harold V. Jones, II (I) (Dem)_Choice Total",Total,calc_participation,Dem_total
+Richmond,113944.0,13653.0,26663.0,20517.0,133.0,60966.0,60966.0,53.5,60966.0

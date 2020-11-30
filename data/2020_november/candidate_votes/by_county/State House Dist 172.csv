@@ -1,4 +1,4 @@
-County,Registered Voters,Sam Watson (I) (Rep)_Election Day Votes,Sam Watson (I) (Rep)_Advanced Voting Votes,Sam Watson (I) (Rep)_Absentee by Mail Votes,Sam Watson (I) (Rep)_Provisional Votes,Sam Watson (I) (Rep)_Choice Total,Total,calc_participation
-Colquitt,18794.0,2959.0,5133.0,1426.0,5.0,9523.0,9523.0,50.7
-Thomas,4855.0,999.0,1676.0,336.0,1.0,3012.0,3012.0,62.0
-Tift,8437.0,1014.0,1617.0,385.0,5.0,3021.0,3021.0,35.8
+County,Registered Voters,Sam Watson (I) (Rep)_Election Day Votes,Sam Watson (I) (Rep)_Advanced Voting Votes,Sam Watson (I) (Rep)_Absentee by Mail Votes,Sam Watson (I) (Rep)_Provisional Votes,Sam Watson (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Colquitt,18794.0,2959.0,5133.0,1426.0,5.0,9523.0,9523.0,50.7,9523.0
+Thomas,4855.0,999.0,1676.0,336.0,1.0,3012.0,3012.0,62.0,3012.0
+Tift,8437.0,1014.0,1617.0,385.0,5.0,3021.0,3021.0,35.8,3021.0

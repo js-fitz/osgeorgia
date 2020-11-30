@@ -1,2 +1,2 @@
-County,Registered Voters,"Michael """"Mike"""" Thurmond (I) (Dem)_Election Day Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Advanced Voting Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Absentee by Mail Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Provisional Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Choice Total",Total,calc_participation
-DeKalb,546711.0,39374.0,173091.0,111131.0,1223.0,324819.0,324819.0,59.4
+County,Registered Voters,"Michael """"Mike"""" Thurmond (I) (Dem)_Election Day Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Advanced Voting Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Absentee by Mail Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Provisional Votes","Michael """"Mike"""" Thurmond (I) (Dem)_Choice Total",Total,calc_participation,Dem_total
+DeKalb,546711.0,39374.0,173091.0,111131.0,1223.0,324819.0,324819.0,59.4,324819.0

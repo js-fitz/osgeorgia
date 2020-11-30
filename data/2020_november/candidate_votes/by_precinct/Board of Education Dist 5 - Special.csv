@@ -1,3 +1,3 @@
-Precinct,County,Registered Voters,Harry F. Proctor (I)_Election Day Votes,Harry F. Proctor (I)_Advanced Voting Votes,Harry F. Proctor (I)_Absentee by Mail Votes,Harry F. Proctor (I)_Provisional Votes,Harry F. Proctor (I)_Choice Total,Total,calc_participation
-Ellerslie,Harris,4211.0,690.0,1070.0,436.0,0.0,2196.0,2196.0,52.1
-Waverly Hall,Harris,2853.0,409.0,529.0,287.0,1.0,1226.0,1226.0,43.0
+Precinct,County,Registered Voters,Harry F. Proctor (I)_Election Day Votes,Harry F. Proctor (I)_Advanced Voting Votes,Harry F. Proctor (I)_Absentee by Mail Votes,Harry F. Proctor (I)_Provisional Votes,Harry F. Proctor (I)_Choice Total,Total,calc_participation,Ind_total
+Ellerslie,Harris,4211.0,690.0,1070.0,436.0,0.0,2196.0,2196.0,52.1,2196.0
+Waverly Hall,Harris,2853.0,409.0,529.0,287.0,1.0,1226.0,1226.0,43.0,1226.0

@@ -1,10 +1,10 @@
-County,Registered Voters,Carden H. Summers (I) (Rep)_Election Day Votes,Carden H. Summers (I) (Rep)_Advanced Voting Votes,Carden H. Summers (I) (Rep)_Absentee by Mail Votes,Carden H. Summers (I) (Rep)_Provisional Votes,Carden H. Summers (I) (Rep)_Choice Total,Mary Egler (Dem)_Election Day Votes,Mary Egler (Dem)_Advanced Voting Votes,Mary Egler (Dem)_Absentee by Mail Votes,Mary Egler (Dem)_Provisional Votes,Mary Egler (Dem)_Choice Total,Total,calc_participation
-Crisp,12554.0,982.0,3277.0,860.0,3.0,5122.0,519.0,1351.0,769.0,1.0,2640.0,7762.0,61.8
-Dodge,11439.0,2242.0,2704.0,717.0,5.0,5668.0,513.0,929.0,517.0,0.0,1959.0,7627.0,66.7
-Dooly,5949.0,459.0,1392.0,255.0,2.0,2108.0,430.0,872.0,456.0,2.0,1760.0,3868.0,65.0
-Lee,22897.0,2992.0,7665.0,1265.0,4.0,11926.0,876.0,2319.0,1128.0,2.0,4325.0,16251.0,71.0
-Sumter,7881.0,711.0,1227.0,277.0,1.0,2216.0,291.0,729.0,517.0,2.0,1539.0,3755.0,47.6
-Tift,24449.0,2692.0,6813.0,1299.0,13.0,10817.0,1039.0,2448.0,1324.0,14.0,4825.0,15642.0,64.0
-Turner,5582.0,367.0,1712.0,231.0,1.0,2311.0,316.0,731.0,284.0,1.0,1332.0,3643.0,65.3
-Wilcox,3538.0,479.0,583.0,180.0,0.0,1242.0,218.0,220.0,130.0,0.0,568.0,1810.0,51.2
-Worth,14469.0,2725.0,3229.0,789.0,0.0,6743.0,539.0,924.0,767.0,0.0,2230.0,8973.0,62.0
+County,Registered Voters,Carden H. Summers (I) (Rep)_Election Day Votes,Carden H. Summers (I) (Rep)_Advanced Voting Votes,Carden H. Summers (I) (Rep)_Absentee by Mail Votes,Carden H. Summers (I) (Rep)_Provisional Votes,Carden H. Summers (I) (Rep)_Choice Total,Mary Egler (Dem)_Election Day Votes,Mary Egler (Dem)_Advanced Voting Votes,Mary Egler (Dem)_Absentee by Mail Votes,Mary Egler (Dem)_Provisional Votes,Mary Egler (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Crisp,12554.0,982.0,3277.0,860.0,3.0,5122.0,519.0,1351.0,769.0,1.0,2640.0,7762.0,61.8,5122.0,2640.0
+Dodge,11439.0,2242.0,2704.0,717.0,5.0,5668.0,513.0,929.0,517.0,0.0,1959.0,7627.0,66.7,5668.0,1959.0
+Dooly,5949.0,459.0,1392.0,255.0,2.0,2108.0,430.0,872.0,456.0,2.0,1760.0,3868.0,65.0,2108.0,1760.0
+Lee,22897.0,2992.0,7665.0,1265.0,4.0,11926.0,876.0,2319.0,1128.0,2.0,4325.0,16251.0,71.0,11926.0,4325.0
+Sumter,7881.0,711.0,1227.0,277.0,1.0,2216.0,291.0,729.0,517.0,2.0,1539.0,3755.0,47.6,2216.0,1539.0
+Tift,24449.0,2692.0,6813.0,1299.0,13.0,10817.0,1039.0,2448.0,1324.0,14.0,4825.0,15642.0,64.0,10817.0,4825.0
+Turner,5582.0,367.0,1712.0,231.0,1.0,2311.0,316.0,731.0,284.0,1.0,1332.0,3643.0,65.3,2311.0,1332.0
+Wilcox,3538.0,479.0,583.0,180.0,0.0,1242.0,218.0,220.0,130.0,0.0,568.0,1810.0,51.2,1242.0,568.0
+Worth,14469.0,2725.0,3229.0,789.0,0.0,6743.0,539.0,924.0,767.0,0.0,2230.0,8973.0,62.0,6743.0,2230.0

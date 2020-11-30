@@ -1,4 +1,4 @@
-County,Registered Voters,John LaHood (I) (Rep)_Election Day Votes,John LaHood (I) (Rep)_Advanced Voting Votes,John LaHood (I) (Rep)_Absentee by Mail Votes,John LaHood (I) (Rep)_Provisional Votes,John LaHood (I) (Rep)_Choice Total,Total,calc_participation
-Brooks,11154.0,1670.0,2761.0,872.0,2.0,5305.0,5305.0,47.6
-Lowndes,48525.0,1615.0,7503.0,1711.0,50.0,10879.0,10879.0,22.4
-Thomas,14416.0,1241.0,4298.0,1022.0,0.0,6561.0,6561.0,45.5
+County,Registered Voters,John LaHood (I) (Rep)_Election Day Votes,John LaHood (I) (Rep)_Advanced Voting Votes,John LaHood (I) (Rep)_Absentee by Mail Votes,John LaHood (I) (Rep)_Provisional Votes,John LaHood (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Brooks,11154.0,1670.0,2761.0,872.0,2.0,5305.0,5305.0,47.6,5305.0
+Lowndes,48525.0,1615.0,7503.0,1711.0,50.0,10879.0,10879.0,22.4,10879.0
+Thomas,14416.0,1241.0,4298.0,1022.0,0.0,6561.0,6561.0,45.5,6561.0

@@ -1,5 +1,5 @@
-County,Registered Voters,Butch Parrish (I) (Rep)_Election Day Votes,Butch Parrish (I) (Rep)_Advanced Voting Votes,Butch Parrish (I) (Rep)_Absentee by Mail Votes,Butch Parrish (I) (Rep)_Provisional Votes,Butch Parrish (I) (Rep)_Choice Total,Ann P.D. Gleason (Dem)_Election Day Votes,Ann P.D. Gleason (Dem)_Advanced Voting Votes,Ann P.D. Gleason (Dem)_Absentee by Mail Votes,Ann P.D. Gleason (Dem)_Provisional Votes,Ann P.D. Gleason (Dem)_Choice Total,Total,calc_participation
-Bulloch,9016.0,923.0,1527.0,568.0,5.0,3023.0,502.0,1046.0,718.0,8.0,2274.0,5297.0,58.8
-Candler,6300.0,451.0,2357.0,422.0,0.0,3230.0,163.0,612.0,320.0,1.0,1096.0,4326.0,68.7
-Emanuel,13715.0,2638.0,3310.0,1029.0,1.0,6978.0,667.0,944.0,627.0,1.0,2239.0,9217.0,67.2
-Jenkins,5066.0,564.0,1230.0,351.0,3.0,2148.0,286.0,498.0,379.0,1.0,1164.0,3312.0,65.4
+County,Registered Voters,Butch Parrish (I) (Rep)_Election Day Votes,Butch Parrish (I) (Rep)_Advanced Voting Votes,Butch Parrish (I) (Rep)_Absentee by Mail Votes,Butch Parrish (I) (Rep)_Provisional Votes,Butch Parrish (I) (Rep)_Choice Total,Ann P.D. Gleason (Dem)_Election Day Votes,Ann P.D. Gleason (Dem)_Advanced Voting Votes,Ann P.D. Gleason (Dem)_Absentee by Mail Votes,Ann P.D. Gleason (Dem)_Provisional Votes,Ann P.D. Gleason (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Bulloch,9016.0,923.0,1527.0,568.0,5.0,3023.0,502.0,1046.0,718.0,8.0,2274.0,5297.0,58.8,3023.0,2274.0
+Candler,6300.0,451.0,2357.0,422.0,0.0,3230.0,163.0,612.0,320.0,1.0,1096.0,4326.0,68.7,3230.0,1096.0
+Emanuel,13715.0,2638.0,3310.0,1029.0,1.0,6978.0,667.0,944.0,627.0,1.0,2239.0,9217.0,67.2,6978.0,2239.0
+Jenkins,5066.0,564.0,1230.0,351.0,3.0,2148.0,286.0,498.0,379.0,1.0,1164.0,3312.0,65.4,2148.0,1164.0

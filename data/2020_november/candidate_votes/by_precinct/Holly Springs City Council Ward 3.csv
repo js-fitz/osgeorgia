@@ -1,10 +1,10 @@
-Precinct,County,Registered Voters,Michael Zenchuk (I)_Election Day Votes,Michael Zenchuk (I)_Advanced Voting Votes,Michael Zenchuk (I)_Absentee by Mail Votes,Michael Zenchuk (I)_Provisional Votes,Michael Zenchuk (I)_Choice Total,Total,calc_participation
-Avery,Cherokee,3592.0,14.0,26.0,13.0,0.0,53.0,53.0,1.5
-Bradshaw,Cherokee,4491.0,27.0,133.0,58.0,0.0,218.0,218.0,4.9
-Hickory Flat,Cherokee,7334.0,490.0,1781.0,597.0,0.0,2868.0,2868.0,39.1
-Holly Springs,Cherokee,3262.0,400.0,730.0,252.0,0.0,1382.0,1382.0,42.4
-Liberty,Cherokee,8350.0,186.0,512.0,205.0,0.0,903.0,903.0,10.8
-Sixes,Cherokee,3101.0,0.0,2.0,0.0,0.0,2.0,2.0,0.1
-Toonigh,Cherokee,6641.0,154.0,481.0,185.0,0.0,820.0,820.0,12.3
-Univeter,Cherokee,5434.0,10.0,68.0,13.0,0.0,91.0,91.0,1.7
-Wildcat,Cherokee,3215.0,190.0,317.0,108.0,0.0,615.0,615.0,19.1
+Precinct,County,Registered Voters,Michael Zenchuk (I)_Election Day Votes,Michael Zenchuk (I)_Advanced Voting Votes,Michael Zenchuk (I)_Absentee by Mail Votes,Michael Zenchuk (I)_Provisional Votes,Michael Zenchuk (I)_Choice Total,Total,calc_participation,Ind_total
+Avery,Cherokee,3592.0,14.0,26.0,13.0,0.0,53.0,53.0,1.5,53.0
+Bradshaw,Cherokee,4491.0,27.0,133.0,58.0,0.0,218.0,218.0,4.9,218.0
+Hickory Flat,Cherokee,7334.0,490.0,1781.0,597.0,0.0,2868.0,2868.0,39.1,2868.0
+Holly Springs,Cherokee,3262.0,400.0,730.0,252.0,0.0,1382.0,1382.0,42.4,1382.0
+Liberty,Cherokee,8350.0,186.0,512.0,205.0,0.0,903.0,903.0,10.8,903.0
+Sixes,Cherokee,3101.0,0.0,2.0,0.0,0.0,2.0,2.0,0.1,2.0
+Toonigh,Cherokee,6641.0,154.0,481.0,185.0,0.0,820.0,820.0,12.3,820.0
+Univeter,Cherokee,5434.0,10.0,68.0,13.0,0.0,91.0,91.0,1.7,91.0
+Wildcat,Cherokee,3215.0,190.0,317.0,108.0,0.0,615.0,615.0,19.1,615.0

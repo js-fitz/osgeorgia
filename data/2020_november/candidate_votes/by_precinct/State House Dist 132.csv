@@ -1,17 +1,17 @@
-Precinct,County,Registered Voters,David Jenkins (Rep)_Election Day Votes,David Jenkins (Rep)_Advanced Voting Votes,David Jenkins (Rep)_Absentee by Mail Votes,David Jenkins (Rep)_Provisional Votes,David Jenkins (Rep)_Choice Total,"Bob Trammell, Jr. (I) (Dem)_Election Day Votes","Bob Trammell, Jr. (I) (Dem)_Advanced Voting Votes","Bob Trammell, Jr. (I) (Dem)_Absentee by Mail Votes","Bob Trammell, Jr. (I) (Dem)_Provisional Votes","Bob Trammell, Jr. (I) (Dem)_Choice Total",Total,calc_participation
-Odessadale,Meriwether,296.0,34.0,82.0,23.0,0.0,139.0,31.0,17.0,41.0,1.0,90.0,229.0,77.4
-Lone Oak,Meriwether,1263.0,156.0,265.0,59.0,0.0,480.0,94.0,159.0,172.0,0.0,425.0,905.0,71.7
-Luthersville,Meriwether,2760.0,367.0,598.0,140.0,0.0,1105.0,186.0,299.0,260.0,0.0,745.0,1850.0,67.0
-Alvaton,Meriwether,1528.0,242.0,345.0,114.0,1.0,702.0,122.0,131.0,129.0,2.0,384.0,1086.0,71.1
-Administration Bldg,Troup,3907.0,108.0,243.0,79.0,0.0,430.0,304.0,465.0,345.0,1.0,1115.0,1545.0,39.5
-Hammett Rd,Troup,4354.0,258.0,548.0,207.0,1.0,1014.0,426.0,819.0,444.0,3.0,1692.0,2706.0,62.1
-Griggs Center,Troup,2457.0,21.0,45.0,22.0,0.0,88.0,362.0,420.0,346.0,1.0,1129.0,1217.0,49.5
-Hogansville,Troup,3806.0,313.0,1236.0,237.0,0.0,1786.0,150.0,475.0,239.0,0.0,864.0,2650.0,69.6
-Rosemont,Troup,3893.0,42.0,121.0,35.0,0.0,198.0,15.0,44.0,37.0,0.0,96.0,294.0,7.6
-McClendon,Troup,3533.0,4.0,23.0,1.0,0.0,28.0,1.0,2.0,3.0,0.0,6.0,34.0,1.0
-Gardner Newman,Troup,2876.0,240.0,730.0,200.0,0.0,1170.0,186.0,491.0,212.0,1.0,890.0,2060.0,71.6
-Highland,Troup,1686.0,113.0,301.0,84.0,0.0,498.0,110.0,307.0,170.0,0.0,587.0,1085.0,64.4
-Pine Road,Coweta,2095.0,544.0,496.0,228.0,0.0,1268.0,57.0,102.0,104.0,0.0,263.0,1531.0,73.1
-Grantville,Coweta,2572.0,663.0,360.0,169.0,1.0,1193.0,221.0,148.0,185.0,0.0,554.0,1747.0,67.9
-Smokey Road,Coweta,2559.0,402.0,336.0,178.0,0.0,916.0,243.0,261.0,277.0,1.0,782.0,1698.0,66.4
-Central,Coweta,4395.0,157.0,194.0,92.0,0.0,443.0,377.0,419.0,373.0,1.0,1170.0,1613.0,36.7
+Precinct,County,Registered Voters,David Jenkins (Rep)_Election Day Votes,David Jenkins (Rep)_Advanced Voting Votes,David Jenkins (Rep)_Absentee by Mail Votes,David Jenkins (Rep)_Provisional Votes,David Jenkins (Rep)_Choice Total,"Bob Trammell, Jr. (I) (Dem)_Election Day Votes","Bob Trammell, Jr. (I) (Dem)_Advanced Voting Votes","Bob Trammell, Jr. (I) (Dem)_Absentee by Mail Votes","Bob Trammell, Jr. (I) (Dem)_Provisional Votes","Bob Trammell, Jr. (I) (Dem)_Choice Total",Total,calc_participation,Rep_total,Dem_total
+Odessadale,Meriwether,296.0,34.0,82.0,23.0,0.0,139.0,31.0,17.0,41.0,1.0,90.0,229.0,77.4,139.0,90.0
+Lone Oak,Meriwether,1263.0,156.0,265.0,59.0,0.0,480.0,94.0,159.0,172.0,0.0,425.0,905.0,71.7,480.0,425.0
+Luthersville,Meriwether,2760.0,367.0,598.0,140.0,0.0,1105.0,186.0,299.0,260.0,0.0,745.0,1850.0,67.0,1105.0,745.0
+Alvaton,Meriwether,1528.0,242.0,345.0,114.0,1.0,702.0,122.0,131.0,129.0,2.0,384.0,1086.0,71.1,702.0,384.0
+Administration Bldg,Troup,3907.0,108.0,243.0,79.0,0.0,430.0,304.0,465.0,345.0,1.0,1115.0,1545.0,39.5,430.0,1115.0
+Hammett Rd,Troup,4354.0,258.0,548.0,207.0,1.0,1014.0,426.0,819.0,444.0,3.0,1692.0,2706.0,62.1,1014.0,1692.0
+Griggs Center,Troup,2457.0,21.0,45.0,22.0,0.0,88.0,362.0,420.0,346.0,1.0,1129.0,1217.0,49.5,88.0,1129.0
+Hogansville,Troup,3806.0,313.0,1236.0,237.0,0.0,1786.0,150.0,475.0,239.0,0.0,864.0,2650.0,69.6,1786.0,864.0
+Rosemont,Troup,3893.0,42.0,121.0,35.0,0.0,198.0,15.0,44.0,37.0,0.0,96.0,294.0,7.6,198.0,96.0
+McClendon,Troup,3533.0,4.0,23.0,1.0,0.0,28.0,1.0,2.0,3.0,0.0,6.0,34.0,1.0,28.0,6.0
+Gardner Newman,Troup,2876.0,240.0,730.0,200.0,0.0,1170.0,186.0,491.0,212.0,1.0,890.0,2060.0,71.6,1170.0,890.0
+Highland,Troup,1686.0,113.0,301.0,84.0,0.0,498.0,110.0,307.0,170.0,0.0,587.0,1085.0,64.4,498.0,587.0
+Pine Road,Coweta,2095.0,544.0,496.0,228.0,0.0,1268.0,57.0,102.0,104.0,0.0,263.0,1531.0,73.1,1268.0,263.0
+Grantville,Coweta,2572.0,663.0,360.0,169.0,1.0,1193.0,221.0,148.0,185.0,0.0,554.0,1747.0,67.9,1193.0,554.0
+Smokey Road,Coweta,2559.0,402.0,336.0,178.0,0.0,916.0,243.0,261.0,277.0,1.0,782.0,1698.0,66.4,916.0,782.0
+Central,Coweta,4395.0,157.0,194.0,92.0,0.0,443.0,377.0,419.0,373.0,1.0,1170.0,1613.0,36.7,443.0,1170.0

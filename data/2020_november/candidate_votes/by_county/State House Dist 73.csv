@@ -1,4 +1,4 @@
-County,Registered Voters,Karen Mathiak (I) (Rep)_Election Day Votes,Karen Mathiak (I) (Rep)_Advanced Voting Votes,Karen Mathiak (I) (Rep)_Absentee by Mail Votes,Karen Mathiak (I) (Rep)_Provisional Votes,Karen Mathiak (I) (Rep)_Choice Total,William Harris (Dem)_Election Day Votes,William Harris (Dem)_Advanced Voting Votes,William Harris (Dem)_Absentee by Mail Votes,William Harris (Dem)_Provisional Votes,William Harris (Dem)_Choice Total,Total,calc_participation
-Fayette,9368.0,893.0,2654.0,1087.0,5.0,4639.0,306.0,1369.0,928.0,2.0,2605.0,7244.0,77.3
-Henry,17967.0,490.0,2840.0,603.0,1.0,3934.0,692.0,3695.0,1710.0,0.0,6097.0,10031.0,55.8
-Spalding,21479.0,2519.0,3605.0,1428.0,138.0,7690.0,963.0,1683.0,1362.0,86.0,4094.0,11784.0,54.9
+County,Registered Voters,Karen Mathiak (I) (Rep)_Election Day Votes,Karen Mathiak (I) (Rep)_Advanced Voting Votes,Karen Mathiak (I) (Rep)_Absentee by Mail Votes,Karen Mathiak (I) (Rep)_Provisional Votes,Karen Mathiak (I) (Rep)_Choice Total,William Harris (Dem)_Election Day Votes,William Harris (Dem)_Advanced Voting Votes,William Harris (Dem)_Absentee by Mail Votes,William Harris (Dem)_Provisional Votes,William Harris (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Fayette,9368.0,893.0,2654.0,1087.0,5.0,4639.0,306.0,1369.0,928.0,2.0,2605.0,7244.0,77.3,4639.0,2605.0
+Henry,17967.0,490.0,2840.0,603.0,1.0,3934.0,692.0,3695.0,1710.0,0.0,6097.0,10031.0,55.8,3934.0,6097.0
+Spalding,21479.0,2519.0,3605.0,1428.0,138.0,7690.0,963.0,1683.0,1362.0,86.0,4094.0,11784.0,54.9,7690.0,4094.0

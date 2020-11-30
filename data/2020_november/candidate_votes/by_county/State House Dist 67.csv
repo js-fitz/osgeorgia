@@ -1,3 +1,3 @@
-County,Registered Voters,Micah Gravley (I) (Rep)_Election Day Votes,Micah Gravley (I) (Rep)_Advanced Voting Votes,Micah Gravley (I) (Rep)_Absentee by Mail Votes,Micah Gravley (I) (Rep)_Provisional Votes,Micah Gravley (I) (Rep)_Choice Total,Angela Mayfield (Dem)_Election Day Votes,Angela Mayfield (Dem)_Advanced Voting Votes,Angela Mayfield (Dem)_Absentee by Mail Votes,Angela Mayfield (Dem)_Provisional Votes,Angela Mayfield (Dem)_Choice Total,Total,calc_participation
-Douglas,24649.0,2034.0,5566.0,2001.0,3.0,9604.0,1211.0,3593.0,2560.0,5.0,7369.0,16973.0,68.9
-Paulding,23118.0,1518.0,5381.0,1138.0,7.0,8044.0,496.0,1818.0,1099.0,3.0,3416.0,11460.0,49.6
+County,Registered Voters,Micah Gravley (I) (Rep)_Election Day Votes,Micah Gravley (I) (Rep)_Advanced Voting Votes,Micah Gravley (I) (Rep)_Absentee by Mail Votes,Micah Gravley (I) (Rep)_Provisional Votes,Micah Gravley (I) (Rep)_Choice Total,Angela Mayfield (Dem)_Election Day Votes,Angela Mayfield (Dem)_Advanced Voting Votes,Angela Mayfield (Dem)_Absentee by Mail Votes,Angela Mayfield (Dem)_Provisional Votes,Angela Mayfield (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Douglas,24649.0,2034.0,5566.0,2001.0,3.0,9604.0,1211.0,3593.0,2560.0,5.0,7369.0,16973.0,68.9,9604.0,7369.0
+Paulding,23118.0,1518.0,5381.0,1138.0,7.0,8044.0,496.0,1818.0,1099.0,3.0,3416.0,11460.0,49.6,8044.0,3416.0

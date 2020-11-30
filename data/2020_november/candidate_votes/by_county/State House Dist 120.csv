@@ -1,6 +1,6 @@
-County,Registered Voters,Trey Rhodes (I) (Rep)_Election Day Votes,Trey Rhodes (I) (Rep)_Advanced Voting Votes,Trey Rhodes (I) (Rep)_Absentee by Mail Votes,Trey Rhodes (I) (Rep)_Provisional Votes,Trey Rhodes (I) (Rep)_Choice Total,Total,calc_participation
-Greene,14171.0,1226.0,6069.0,2017.0,6.0,9318.0,9318.0,65.8
-Oglethorpe,10844.0,1251.0,4010.0,1225.0,2.0,6488.0,6488.0,59.8
-Putnam,11710.0,1150.0,3797.0,1523.0,0.0,6470.0,6470.0,55.3
-Taliaferro,1245.0,139.0,269.0,103.0,0.0,511.0,511.0,41.0
-Wilkes,5036.0,671.0,1319.0,464.0,6.0,2460.0,2460.0,48.8
+County,Registered Voters,Trey Rhodes (I) (Rep)_Election Day Votes,Trey Rhodes (I) (Rep)_Advanced Voting Votes,Trey Rhodes (I) (Rep)_Absentee by Mail Votes,Trey Rhodes (I) (Rep)_Provisional Votes,Trey Rhodes (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Greene,14171.0,1226.0,6069.0,2017.0,6.0,9318.0,9318.0,65.8,9318.0
+Oglethorpe,10844.0,1251.0,4010.0,1225.0,2.0,6488.0,6488.0,59.8,6488.0
+Putnam,11710.0,1150.0,3797.0,1523.0,0.0,6470.0,6470.0,55.3,6470.0
+Taliaferro,1245.0,139.0,269.0,103.0,0.0,511.0,511.0,41.0,511.0
+Wilkes,5036.0,671.0,1319.0,464.0,6.0,2460.0,2460.0,48.8,2460.0

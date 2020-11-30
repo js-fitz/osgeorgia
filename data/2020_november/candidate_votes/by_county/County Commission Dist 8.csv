@@ -1,3 +1,3 @@
-County,Registered Voters,Kenneth Adams (Dem)_Election Day Votes,Kenneth Adams (Dem)_Advanced Voting Votes,Kenneth Adams (Dem)_Absentee by Mail Votes,Kenneth Adams (Dem)_Provisional Votes,Kenneth Adams (Dem)_Choice Total,Total,Zippy Vonier (Rep)_Election Day Votes,Zippy Vonier (Rep)_Advanced Voting Votes,Zippy Vonier (Rep)_Absentee by Mail Votes,Zippy Vonier (Rep)_Provisional Votes,Zippy Vonier (Rep)_Choice Total,calc_participation
-Chatham,30144.0,4094.0,5627.0,4098.0,25.0,13844.0,13844.0,0.0,0.0,0.0,0.0,0.0,45.9
-Thomas,12428.0,0.0,0.0,0.0,0.0,0.0,2702.0,369.0,1905.0,428.0,0.0,2702.0,21.7
+County,Registered Voters,Kenneth Adams (Dem)_Election Day Votes,Kenneth Adams (Dem)_Advanced Voting Votes,Kenneth Adams (Dem)_Absentee by Mail Votes,Kenneth Adams (Dem)_Provisional Votes,Kenneth Adams (Dem)_Choice Total,Total,Zippy Vonier (Rep)_Election Day Votes,Zippy Vonier (Rep)_Advanced Voting Votes,Zippy Vonier (Rep)_Absentee by Mail Votes,Zippy Vonier (Rep)_Provisional Votes,Zippy Vonier (Rep)_Choice Total,calc_participation,Dem_total,Rep_total
+Chatham,30144.0,4094.0,5627.0,4098.0,25.0,13844.0,13844.0,0.0,0.0,0.0,0.0,0.0,45.9,13844.0,0.0
+Thomas,12428.0,0.0,0.0,0.0,0.0,0.0,2702.0,369.0,1905.0,428.0,0.0,2702.0,21.7,0.0,2702.0

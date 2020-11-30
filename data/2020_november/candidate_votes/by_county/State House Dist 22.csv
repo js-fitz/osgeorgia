@@ -1,4 +1,4 @@
-County,Registered Voters,Wes Cantrell (I) (Rep)_Election Day Votes,Wes Cantrell (I) (Rep)_Advanced Voting Votes,Wes Cantrell (I) (Rep)_Absentee by Mail Votes,Wes Cantrell (I) (Rep)_Provisional Votes,Wes Cantrell (I) (Rep)_Choice Total,Charles Ravenscraft (Dem)_Election Day Votes,Charles Ravenscraft (Dem)_Advanced Voting Votes,Charles Ravenscraft (Dem)_Absentee by Mail Votes,Charles Ravenscraft (Dem)_Provisional Votes,Charles Ravenscraft (Dem)_Choice Total,Total,calc_participation
-Cherokee,44144.0,4631.0,13267.0,4213.0,2.0,22113.0,628.0,2258.0,2129.0,0.0,5015.0,27128.0,61.5
-Forsyth,43540.0,1093.0,5075.0,1652.0,2.0,7822.0,546.0,2702.0,1967.0,2.0,5217.0,13039.0,29.9
-Fulton,3416.0,382.0,1212.0,367.0,2.0,1963.0,69.0,376.0,285.0,0.0,730.0,2693.0,78.8
+County,Registered Voters,Wes Cantrell (I) (Rep)_Election Day Votes,Wes Cantrell (I) (Rep)_Advanced Voting Votes,Wes Cantrell (I) (Rep)_Absentee by Mail Votes,Wes Cantrell (I) (Rep)_Provisional Votes,Wes Cantrell (I) (Rep)_Choice Total,Charles Ravenscraft (Dem)_Election Day Votes,Charles Ravenscraft (Dem)_Advanced Voting Votes,Charles Ravenscraft (Dem)_Absentee by Mail Votes,Charles Ravenscraft (Dem)_Provisional Votes,Charles Ravenscraft (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Cherokee,44144.0,4631.0,13267.0,4213.0,2.0,22113.0,628.0,2258.0,2129.0,0.0,5015.0,27128.0,61.5,22113.0,5015.0
+Forsyth,43540.0,1093.0,5075.0,1652.0,2.0,7822.0,546.0,2702.0,1967.0,2.0,5217.0,13039.0,29.9,7822.0,5217.0
+Fulton,3416.0,382.0,1212.0,367.0,2.0,1963.0,69.0,376.0,285.0,0.0,730.0,2693.0,78.8,1963.0,730.0

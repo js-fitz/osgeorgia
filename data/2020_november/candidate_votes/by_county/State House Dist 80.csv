@@ -1,3 +1,3 @@
-County,Registered Voters,Alan Cole (Rep)_Election Day Votes,Alan Cole (Rep)_Advanced Voting Votes,Alan Cole (Rep)_Absentee by Mail Votes,Alan Cole (Rep)_Provisional Votes,Alan Cole (Rep)_Choice Total,Matthew Wilson (I) (Dem)_Election Day Votes,Matthew Wilson (I) (Dem)_Advanced Voting Votes,Matthew Wilson (I) (Dem)_Absentee by Mail Votes,Matthew Wilson (I) (Dem)_Provisional Votes,Matthew Wilson (I) (Dem)_Choice Total,Total,calc_participation
-DeKalb,36286.0,1509.0,5104.0,2065.0,13.0,8691.0,931.0,6557.0,4988.0,21.0,12497.0,21188.0,58.4
-Fulton,11767.0,492.0,2117.0,852.0,21.0,3482.0,375.0,2851.0,1598.0,26.0,4850.0,8332.0,70.8
+County,Registered Voters,Alan Cole (Rep)_Election Day Votes,Alan Cole (Rep)_Advanced Voting Votes,Alan Cole (Rep)_Absentee by Mail Votes,Alan Cole (Rep)_Provisional Votes,Alan Cole (Rep)_Choice Total,Matthew Wilson (I) (Dem)_Election Day Votes,Matthew Wilson (I) (Dem)_Advanced Voting Votes,Matthew Wilson (I) (Dem)_Absentee by Mail Votes,Matthew Wilson (I) (Dem)_Provisional Votes,Matthew Wilson (I) (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+DeKalb,36286.0,1509.0,5104.0,2065.0,13.0,8691.0,931.0,6557.0,4988.0,21.0,12497.0,21188.0,58.4,8691.0,12497.0
+Fulton,11767.0,492.0,2117.0,852.0,21.0,3482.0,375.0,2851.0,1598.0,26.0,4850.0,8332.0,70.8,3482.0,4850.0

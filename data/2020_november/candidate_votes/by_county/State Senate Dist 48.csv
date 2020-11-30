@@ -1,3 +1,3 @@
-County,Registered Voters,Matt Reeves (Rep)_Election Day Votes,Matt Reeves (Rep)_Advanced Voting Votes,Matt Reeves (Rep)_Absentee by Mail Votes,Matt Reeves (Rep)_Provisional Votes,Matt Reeves (Rep)_Choice Total,Michelle Au (Dem)_Election Day Votes,Michelle Au (Dem)_Advanced Voting Votes,Michelle Au (Dem)_Absentee by Mail Votes,Michelle Au (Dem)_Provisional Votes,Michelle Au (Dem)_Choice Total,Total,calc_participation
-Fulton,42057.0,1795.0,9376.0,3146.0,67.0,14384.0,1120.0,9621.0,6233.0,56.0,17030.0,31414.0,74.7
-Gwinnett,81449.0,5172.0,12000.0,6779.0,23.0,23974.0,4656.0,15228.0,12224.0,46.0,32154.0,56128.0,68.9
+County,Registered Voters,Matt Reeves (Rep)_Election Day Votes,Matt Reeves (Rep)_Advanced Voting Votes,Matt Reeves (Rep)_Absentee by Mail Votes,Matt Reeves (Rep)_Provisional Votes,Matt Reeves (Rep)_Choice Total,Michelle Au (Dem)_Election Day Votes,Michelle Au (Dem)_Advanced Voting Votes,Michelle Au (Dem)_Absentee by Mail Votes,Michelle Au (Dem)_Provisional Votes,Michelle Au (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Fulton,42057.0,1795.0,9376.0,3146.0,67.0,14384.0,1120.0,9621.0,6233.0,56.0,17030.0,31414.0,74.7,14384.0,17030.0
+Gwinnett,81449.0,5172.0,12000.0,6779.0,23.0,23974.0,4656.0,15228.0,12224.0,46.0,32154.0,56128.0,68.9,23974.0,32154.0

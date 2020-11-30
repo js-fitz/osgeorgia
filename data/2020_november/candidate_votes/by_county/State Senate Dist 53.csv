@@ -1,5 +1,5 @@
-County,Registered Voters,Jeff Mullis (I) (Rep)_Election Day Votes,Jeff Mullis (I) (Rep)_Advanced Voting Votes,Jeff Mullis (I) (Rep)_Absentee by Mail Votes,Jeff Mullis (I) (Rep)_Provisional Votes,Jeff Mullis (I) (Rep)_Choice Total,Total,calc_participation
-Catoosa,45715.0,5623.0,18021.0,3683.0,21.0,27348.0,27348.0,59.8
-Chattooga,12823.0,2301.0,4329.0,1231.0,2.0,7863.0,7863.0,61.3
-Dade,11660.0,2005.0,3367.0,724.0,5.0,6101.0,6101.0,52.3
-Walker,42924.0,5923.0,14563.0,4258.0,8.0,24752.0,24752.0,57.7
+County,Registered Voters,Jeff Mullis (I) (Rep)_Election Day Votes,Jeff Mullis (I) (Rep)_Advanced Voting Votes,Jeff Mullis (I) (Rep)_Absentee by Mail Votes,Jeff Mullis (I) (Rep)_Provisional Votes,Jeff Mullis (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Catoosa,45715.0,5623.0,18021.0,3683.0,21.0,27348.0,27348.0,59.8,27348.0
+Chattooga,12823.0,2301.0,4329.0,1231.0,2.0,7863.0,7863.0,61.3,7863.0
+Dade,11660.0,2005.0,3367.0,724.0,5.0,6101.0,6101.0,52.3,6101.0
+Walker,42924.0,5923.0,14563.0,4258.0,8.0,24752.0,24752.0,57.7,24752.0

@@ -1,4 +1,4 @@
-County,Registered Voters,David Callahan (Rep)_Election Day Votes,David Callahan (Rep)_Advanced Voting Votes,David Callahan (Rep)_Absentee by Mail Votes,David Callahan (Rep)_Provisional Votes,David Callahan (Rep)_Choice Total,Debra Bazemore (I) (Dem)_Election Day Votes,Debra Bazemore (I) (Dem)_Advanced Voting Votes,Debra Bazemore (I) (Dem)_Absentee by Mail Votes,Debra Bazemore (I) (Dem)_Provisional Votes,Debra Bazemore (I) (Dem)_Choice Total,Total,calc_participation
-Clayton,6277.0,129.0,370.0,169.0,1.0,669.0,502.0,2156.0,1031.0,4.0,3693.0,4362.0,69.5
-Fayette,24386.0,868.0,2959.0,1333.0,13.0,5173.0,1044.0,5481.0,3319.0,30.0,9874.0,15047.0,61.7
-Fulton,19401.0,127.0,195.0,80.0,3.0,405.0,1536.0,5396.0,2646.0,46.0,9624.0,10029.0,51.7
+County,Registered Voters,David Callahan (Rep)_Election Day Votes,David Callahan (Rep)_Advanced Voting Votes,David Callahan (Rep)_Absentee by Mail Votes,David Callahan (Rep)_Provisional Votes,David Callahan (Rep)_Choice Total,Debra Bazemore (I) (Dem)_Election Day Votes,Debra Bazemore (I) (Dem)_Advanced Voting Votes,Debra Bazemore (I) (Dem)_Absentee by Mail Votes,Debra Bazemore (I) (Dem)_Provisional Votes,Debra Bazemore (I) (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Clayton,6277.0,129.0,370.0,169.0,1.0,669.0,502.0,2156.0,1031.0,4.0,3693.0,4362.0,69.5,669.0,3693.0
+Fayette,24386.0,868.0,2959.0,1333.0,13.0,5173.0,1044.0,5481.0,3319.0,30.0,9874.0,15047.0,61.7,5173.0,9874.0
+Fulton,19401.0,127.0,195.0,80.0,3.0,405.0,1536.0,5396.0,2646.0,46.0,9624.0,10029.0,51.7,405.0,9624.0

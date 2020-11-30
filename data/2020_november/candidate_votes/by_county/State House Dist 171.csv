@@ -1,4 +1,4 @@
-County,Registered Voters,Joe Campbell (I) (Rep)_Election Day Votes,Joe Campbell (I) (Rep)_Advanced Voting Votes,Joe Campbell (I) (Rep)_Absentee by Mail Votes,Joe Campbell (I) (Rep)_Provisional Votes,Joe Campbell (I) (Rep)_Choice Total,Total,calc_participation
-Colquitt,6260.0,1788.0,1829.0,462.0,6.0,4085.0,4085.0,65.3
-Decatur,12587.0,1083.0,4049.0,958.0,3.0,6093.0,6093.0,48.4
-Mitchell,13474.0,2007.0,3545.0,1360.0,6.0,6918.0,6918.0,51.3
+County,Registered Voters,Joe Campbell (I) (Rep)_Election Day Votes,Joe Campbell (I) (Rep)_Advanced Voting Votes,Joe Campbell (I) (Rep)_Absentee by Mail Votes,Joe Campbell (I) (Rep)_Provisional Votes,Joe Campbell (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Colquitt,6260.0,1788.0,1829.0,462.0,6.0,4085.0,4085.0,65.3,4085.0
+Decatur,12587.0,1083.0,4049.0,958.0,3.0,6093.0,6093.0,48.4,6093.0
+Mitchell,13474.0,2007.0,3545.0,1360.0,6.0,6918.0,6918.0,51.3,6918.0

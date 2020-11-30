@@ -1,15 +1,15 @@
-Precinct,County,Registered Voters,Mitchell Scoggins (I) (Rep)_Election Day Votes,Mitchell Scoggins (I) (Rep)_Advanced Voting Votes,Mitchell Scoggins (I) (Rep)_Absentee by Mail Votes,Mitchell Scoggins (I) (Rep)_Provisional Votes,Mitchell Scoggins (I) (Rep)_Choice Total,Total,calc_participation
-Barkers,Floyd,2355.0,420.0,985.0,214.0,6.0,1625.0,1625.0,69.0
-Chulio,Floyd,1155.0,299.0,362.0,112.0,10.0,783.0,783.0,67.8
-Etowah,Floyd,4946.0,640.0,2096.0,532.0,6.0,3274.0,3274.0,66.2
-Howell,Floyd,1492.0,432.0,439.0,136.0,1.0,1008.0,1008.0,67.6
-North Rome,Floyd,3369.0,14.0,125.0,29.0,4.0,172.0,172.0,5.1
-Adairsville,Bartow,6995.0,908.0,2706.0,655.0,1.0,4270.0,4270.0,61.0
-Cartersville East,Bartow,6805.0,9.0,29.0,8.0,0.0,46.0,46.0,0.7
-Cassville,Bartow,4588.0,509.0,1489.0,794.0,2.0,2794.0,2794.0,60.9
-Center,Bartow,4007.0,228.0,357.0,86.0,1.0,672.0,672.0,16.8
-Folsom,Bartow,1448.0,428.0,383.0,137.0,0.0,948.0,948.0,65.5
-Hamilton Crossing,Bartow,6598.0,799.0,2430.0,479.0,0.0,3708.0,3708.0,56.2
-Kingston,Bartow,2674.0,695.0,734.0,283.0,0.0,1712.0,1712.0,64.0
-Pine Log,Bartow,2132.0,687.0,564.0,229.0,1.0,1481.0,1481.0,69.5
-White,Bartow,2723.0,703.0,793.0,289.0,1.0,1786.0,1786.0,65.6
+Precinct,County,Registered Voters,Mitchell Scoggins (I) (Rep)_Election Day Votes,Mitchell Scoggins (I) (Rep)_Advanced Voting Votes,Mitchell Scoggins (I) (Rep)_Absentee by Mail Votes,Mitchell Scoggins (I) (Rep)_Provisional Votes,Mitchell Scoggins (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Barkers,Floyd,2355.0,420.0,985.0,214.0,6.0,1625.0,1625.0,69.0,1625.0
+Chulio,Floyd,1155.0,299.0,362.0,112.0,10.0,783.0,783.0,67.8,783.0
+Etowah,Floyd,4946.0,640.0,2096.0,532.0,6.0,3274.0,3274.0,66.2,3274.0
+Howell,Floyd,1492.0,432.0,439.0,136.0,1.0,1008.0,1008.0,67.6,1008.0
+North Rome,Floyd,3369.0,14.0,125.0,29.0,4.0,172.0,172.0,5.1,172.0
+Adairsville,Bartow,6995.0,908.0,2706.0,655.0,1.0,4270.0,4270.0,61.0,4270.0
+Cartersville East,Bartow,6805.0,9.0,29.0,8.0,0.0,46.0,46.0,0.7,46.0
+Cassville,Bartow,4588.0,509.0,1489.0,794.0,2.0,2794.0,2794.0,60.9,2794.0
+Center,Bartow,4007.0,228.0,357.0,86.0,1.0,672.0,672.0,16.8,672.0
+Folsom,Bartow,1448.0,428.0,383.0,137.0,0.0,948.0,948.0,65.5,948.0
+Hamilton Crossing,Bartow,6598.0,799.0,2430.0,479.0,0.0,3708.0,3708.0,56.2,3708.0
+Kingston,Bartow,2674.0,695.0,734.0,283.0,0.0,1712.0,1712.0,64.0,1712.0
+Pine Log,Bartow,2132.0,687.0,564.0,229.0,1.0,1481.0,1481.0,69.5,1481.0
+White,Bartow,2723.0,703.0,793.0,289.0,1.0,1786.0,1786.0,65.6,1786.0

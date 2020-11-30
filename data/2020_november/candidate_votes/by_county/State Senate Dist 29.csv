@@ -1,5 +1,5 @@
-County,Registered Voters,Randy Robertson (I) (Rep)_Election Day Votes,Randy Robertson (I) (Rep)_Advanced Voting Votes,Randy Robertson (I) (Rep)_Absentee by Mail Votes,Randy Robertson (I) (Rep)_Provisional Votes,Randy Robertson (I) (Rep)_Choice Total,Total,calc_participation
-Harris,25626.0,6177.0,7497.0,2908.0,17.0,16599.0,16599.0,64.8
-Meriwether,15337.0,2732.0,3941.0,1536.0,6.0,8215.0,8215.0,53.6
-Muscogee,66042.0,6134.0,17508.0,7337.0,13.0,30992.0,30992.0,46.9
-Troup,29632.0,3957.0,7595.0,2772.0,31.0,14355.0,14355.0,48.4
+County,Registered Voters,Randy Robertson (I) (Rep)_Election Day Votes,Randy Robertson (I) (Rep)_Advanced Voting Votes,Randy Robertson (I) (Rep)_Absentee by Mail Votes,Randy Robertson (I) (Rep)_Provisional Votes,Randy Robertson (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Harris,25626.0,6177.0,7497.0,2908.0,17.0,16599.0,16599.0,64.8,16599.0
+Meriwether,15337.0,2732.0,3941.0,1536.0,6.0,8215.0,8215.0,53.6,8215.0
+Muscogee,66042.0,6134.0,17508.0,7337.0,13.0,30992.0,30992.0,46.9,30992.0
+Troup,29632.0,3957.0,7595.0,2772.0,31.0,14355.0,14355.0,48.4,14355.0

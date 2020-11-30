@@ -1,4 +1,4 @@
-County,Registered Voters,Bill Cowsert (I) (Rep)_Election Day Votes,Bill Cowsert (I) (Rep)_Advanced Voting Votes,Bill Cowsert (I) (Rep)_Absentee by Mail Votes,Bill Cowsert (I) (Rep)_Provisional Votes,Bill Cowsert (I) (Rep)_Choice Total,Zachary Perry (Dem)_Election Day Votes,Zachary Perry (Dem)_Advanced Voting Votes,Zachary Perry (Dem)_Absentee by Mail Votes,Zachary Perry (Dem)_Provisional Votes,Zachary Perry (Dem)_Choice Total,Total,calc_participation
-Clarke,45724.0,2099.0,4868.0,2835.0,7.0,9809.0,2799.0,9724.0,7775.0,18.0,20316.0,30125.0,65.9
-Oconee,30071.0,2812.0,11820.0,3104.0,2.0,17738.0,633.0,3855.0,2581.0,2.0,7071.0,24809.0,82.5
-Walton,59517.0,7127.0,19240.0,5354.0,10.0,31731.0,1755.0,5349.0,3423.0,10.0,10537.0,42268.0,71.0
+County,Registered Voters,Bill Cowsert (I) (Rep)_Election Day Votes,Bill Cowsert (I) (Rep)_Advanced Voting Votes,Bill Cowsert (I) (Rep)_Absentee by Mail Votes,Bill Cowsert (I) (Rep)_Provisional Votes,Bill Cowsert (I) (Rep)_Choice Total,Zachary Perry (Dem)_Election Day Votes,Zachary Perry (Dem)_Advanced Voting Votes,Zachary Perry (Dem)_Absentee by Mail Votes,Zachary Perry (Dem)_Provisional Votes,Zachary Perry (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Clarke,45724.0,2099.0,4868.0,2835.0,7.0,9809.0,2799.0,9724.0,7775.0,18.0,20316.0,30125.0,65.9,9809.0,20316.0
+Oconee,30071.0,2812.0,11820.0,3104.0,2.0,17738.0,633.0,3855.0,2581.0,2.0,7071.0,24809.0,82.5,17738.0,7071.0
+Walton,59517.0,7127.0,19240.0,5354.0,10.0,31731.0,1755.0,5349.0,3423.0,10.0,10537.0,42268.0,71.0,31731.0,10537.0

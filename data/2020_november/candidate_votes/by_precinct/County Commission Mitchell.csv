@@ -1,5 +1,5 @@
-Precinct,County,Registered Voters,Scott V. Lamb (Rep)_Election Day Votes,Scott V. Lamb (Rep)_Advanced Voting Votes,Scott V. Lamb (Rep)_Absentee by Mail Votes,Scott V. Lamb (Rep)_Provisional Votes,Scott V. Lamb (Rep)_Choice Total,Total,calc_participation
-Edgehill,Glascock,136.0,47.0,47.0,8.0,0.0,102.0,102.0,75.0
-Gibson,Glascock,677.0,108.0,240.0,63.0,0.0,411.0,411.0,60.7
-Mill,Glascock,778.0,135.0,298.0,53.0,0.0,486.0,486.0,62.5
-Mitchell,Glascock,448.0,102.0,133.0,61.0,0.0,296.0,296.0,66.1
+Precinct,County,Registered Voters,Scott V. Lamb (Rep)_Election Day Votes,Scott V. Lamb (Rep)_Advanced Voting Votes,Scott V. Lamb (Rep)_Absentee by Mail Votes,Scott V. Lamb (Rep)_Provisional Votes,Scott V. Lamb (Rep)_Choice Total,Total,calc_participation,Rep_total
+Edgehill,Glascock,136.0,47.0,47.0,8.0,0.0,102.0,102.0,75.0,102.0
+Gibson,Glascock,677.0,108.0,240.0,63.0,0.0,411.0,411.0,60.7,411.0
+Mill,Glascock,778.0,135.0,298.0,53.0,0.0,486.0,486.0,62.5,486.0
+Mitchell,Glascock,448.0,102.0,133.0,61.0,0.0,296.0,296.0,66.1,296.0

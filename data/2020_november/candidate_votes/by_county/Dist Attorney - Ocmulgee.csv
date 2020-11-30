@@ -1,9 +1,9 @@
-County,Registered Voters,T. Wright Barksdale (Rep)_Election Day Votes,T. Wright Barksdale (Rep)_Advanced Voting Votes,T. Wright Barksdale (Rep)_Absentee by Mail Votes,T. Wright Barksdale (Rep)_Provisional Votes,T. Wright Barksdale (Rep)_Choice Total,Total,calc_participation
-Baldwin,26721.0,2764.0,8077.0,2371.0,2.0,13214.0,13214.0,49.5
-Greene,14171.0,1191.0,5980.0,1949.0,5.0,9125.0,9125.0,64.4
-Hancock,5827.0,599.0,1111.0,648.0,2.0,2360.0,2360.0,40.5
-Jasper,10432.0,1684.0,3843.0,1108.0,12.0,6647.0,6647.0,63.7
-Jones,0.0,3452.0,6777.0,2047.0,5.0,12281.0,12281.0,0.0
-Morgan,14824.0,2176.0,6312.0,1387.0,4.0,9879.0,9879.0,66.6
-Putnam,16003.0,1821.0,5702.0,2415.0,0.0,9938.0,9938.0,62.1
-Wilkinson,6470.0,1501.0,1487.0,430.0,6.0,3424.0,3424.0,52.9
+County,Registered Voters,T. Wright Barksdale (Rep)_Election Day Votes,T. Wright Barksdale (Rep)_Advanced Voting Votes,T. Wright Barksdale (Rep)_Absentee by Mail Votes,T. Wright Barksdale (Rep)_Provisional Votes,T. Wright Barksdale (Rep)_Choice Total,Total,calc_participation,Rep_total
+Baldwin,26721.0,2764.0,8077.0,2371.0,2.0,13214.0,13214.0,49.5,13214.0
+Greene,14171.0,1191.0,5980.0,1949.0,5.0,9125.0,9125.0,64.4,9125.0
+Hancock,5827.0,599.0,1111.0,648.0,2.0,2360.0,2360.0,40.5,2360.0
+Jasper,10432.0,1684.0,3843.0,1108.0,12.0,6647.0,6647.0,63.7,6647.0
+Jones,0.0,3452.0,6777.0,2047.0,5.0,12281.0,12281.0,0.0,12281.0
+Morgan,14824.0,2176.0,6312.0,1387.0,4.0,9879.0,9879.0,66.6,9879.0
+Putnam,16003.0,1821.0,5702.0,2415.0,0.0,9938.0,9938.0,62.1,9938.0
+Wilkinson,6470.0,1501.0,1487.0,430.0,6.0,3424.0,3424.0,52.9,3424.0

@@ -1,8 +1,8 @@
-County,Registered Voters,Danny Mathis (I) (Rep)_Election Day Votes,Danny Mathis (I) (Rep)_Advanced Voting Votes,Danny Mathis (I) (Rep)_Absentee by Mail Votes,Danny Mathis (I) (Rep)_Provisional Votes,Danny Mathis (I) (Rep)_Choice Total,Mary Whipple-Lue (Dem)_Election Day Votes,Mary Whipple-Lue (Dem)_Advanced Voting Votes,Mary Whipple-Lue (Dem)_Absentee by Mail Votes,Mary Whipple-Lue (Dem)_Provisional Votes,Mary Whipple-Lue (Dem)_Choice Total,Total,Mary_Election Day Votes,Mary_Advanced Voting Votes,Mary_Absentee by Mail Votes,Mary_Provisional Votes,Mary_Choice Total,calc_participation
-Bibb,3409.0,687.0,657.0,257.0,2.0,1603.0,170.0,413.0,219.0,3.0,805.0,2408.0,0.0,0.0,0.0,0.0,0.0,70.6
-Bleckley,0.0,1038.0,2973.0,715.0,2.0,4728.0,196.0,401.0,314.0,0.0,911.0,5639.0,0.0,0.0,0.0,0.0,0.0,0.0
-Houston,9536.0,916.0,1624.0,648.0,0.0,3188.0,0.0,0.0,0.0,0.0,0.0,4628.0,218.0,672.0,550.0,0.0,1440.0,48.5
-Jones,0.0,918.0,1260.0,344.0,2.0,2524.0,196.0,412.0,250.0,1.0,859.0,3383.0,0.0,0.0,0.0,0.0,0.0,0.0
-Laurens,2496.0,488.0,664.0,206.0,0.0,1358.0,0.0,0.0,0.0,0.0,0.0,1920.0,143.0,227.0,192.0,0.0,562.0,76.9
-Twiggs,6304.0,833.0,1225.0,348.0,0.0,2406.0,0.0,0.0,0.0,0.0,0.0,4306.0,402.0,816.0,678.0,4.0,1900.0,68.3
-Wilkinson,6470.0,1317.0,1155.0,277.0,4.0,2753.0,462.0,830.0,535.0,2.0,1829.0,4582.0,0.0,0.0,0.0,0.0,0.0,70.8
+County,Registered Voters,Danny Mathis (I) (Rep)_Election Day Votes,Danny Mathis (I) (Rep)_Advanced Voting Votes,Danny Mathis (I) (Rep)_Absentee by Mail Votes,Danny Mathis (I) (Rep)_Provisional Votes,Danny Mathis (I) (Rep)_Choice Total,Mary Whipple-Lue (Dem)_Election Day Votes,Mary Whipple-Lue (Dem)_Advanced Voting Votes,Mary Whipple-Lue (Dem)_Absentee by Mail Votes,Mary Whipple-Lue (Dem)_Provisional Votes,Mary Whipple-Lue (Dem)_Choice Total,Total,Mary_Election Day Votes,Mary_Advanced Voting Votes,Mary_Absentee by Mail Votes,Mary_Provisional Votes,Mary_Choice Total,calc_participation,Rep_total,Dem_total
+Bibb,3409.0,687.0,657.0,257.0,2.0,1603.0,170.0,413.0,219.0,3.0,805.0,2408.0,0.0,0.0,0.0,0.0,0.0,70.6,1603.0,805.0
+Bleckley,0.0,1038.0,2973.0,715.0,2.0,4728.0,196.0,401.0,314.0,0.0,911.0,5639.0,0.0,0.0,0.0,0.0,0.0,0.0,4728.0,911.0
+Houston,9536.0,916.0,1624.0,648.0,0.0,3188.0,0.0,0.0,0.0,0.0,0.0,4628.0,218.0,672.0,550.0,0.0,1440.0,48.5,3188.0,0.0
+Jones,0.0,918.0,1260.0,344.0,2.0,2524.0,196.0,412.0,250.0,1.0,859.0,3383.0,0.0,0.0,0.0,0.0,0.0,0.0,2524.0,859.0
+Laurens,2496.0,488.0,664.0,206.0,0.0,1358.0,0.0,0.0,0.0,0.0,0.0,1920.0,143.0,227.0,192.0,0.0,562.0,76.9,1358.0,0.0
+Twiggs,6304.0,833.0,1225.0,348.0,0.0,2406.0,0.0,0.0,0.0,0.0,0.0,4306.0,402.0,816.0,678.0,4.0,1900.0,68.3,2406.0,0.0
+Wilkinson,6470.0,1317.0,1155.0,277.0,4.0,2753.0,462.0,830.0,535.0,2.0,1829.0,4582.0,0.0,0.0,0.0,0.0,0.0,70.8,2753.0,1829.0

@@ -1,7 +1,7 @@
-Precinct,County,Registered Voters,Harold Herndon (Rep)_Election Day Votes,Harold Herndon (Rep)_Advanced Voting Votes,Harold Herndon (Rep)_Absentee by Mail Votes,Harold Herndon (Rep)_Provisional Votes,Harold Herndon (Rep)_Choice Total,Total,Stanley Corbett (I) (Rep)_Election Day Votes,Stanley Corbett (I) (Rep)_Advanced Voting Votes,Stanley Corbett (I) (Rep)_Absentee by Mail Votes,Stanley Corbett (I) (Rep)_Provisional Votes,Stanley Corbett (I) (Rep)_Choice Total,Debbie Whitlock (I) (Rep)_Election Day Votes,Debbie Whitlock (I) (Rep)_Advanced Voting Votes,Debbie Whitlock (I) (Rep)_Absentee by Mail Votes,Debbie Whitlock (I) (Rep)_Provisional Votes,Debbie Whitlock (I) (Rep)_Choice Total,Tom Garrison (Rep)_Election Day Votes,Tom Garrison (Rep)_Advanced Voting Votes,Tom Garrison (Rep)_Absentee by Mail Votes,Tom Garrison (Rep)_Provisional Votes,Tom Garrison (Rep)_Choice Total,calc_participation
-Hoboken,Brantley,3394.0,612.0,1229.0,240.0,0.0,2081.0,2081.0,,,,,,,,,,,,,,,,61.3
-Nahunta,Brantley,4208.0,502.0,1570.0,250.0,5.0,2327.0,2327.0,,,,,,,,,,,,,,,,55.3
-Waynesville,Brantley,4286.0,790.0,1235.0,221.0,3.0,2249.0,2249.0,,,,,,,,,,,,,,,,52.5
-Statenville,Echols,2156.0,,,,,,1303.0,233.0,935.0,135.0,0.0,1303.0,,,,,,,,,,,60.4
-Senior Center,Stephens,0.0,,,,,,10243.0,,,,,,1399.0,7176.0,1664.0,4.0,10243.0,,,,,,
-Rabun County,Rabun,13072.0,,,,,,8321.0,,,,,,,,,,,1320.0,4974.0,2027.0,0.0,8321.0,63.7
+Precinct,County,Registered Voters,Harold Herndon (Rep)_Election Day Votes,Harold Herndon (Rep)_Advanced Voting Votes,Harold Herndon (Rep)_Absentee by Mail Votes,Harold Herndon (Rep)_Provisional Votes,Harold Herndon (Rep)_Choice Total,Total,Stanley Corbett (I) (Rep)_Election Day Votes,Stanley Corbett (I) (Rep)_Advanced Voting Votes,Stanley Corbett (I) (Rep)_Absentee by Mail Votes,Stanley Corbett (I) (Rep)_Provisional Votes,Stanley Corbett (I) (Rep)_Choice Total,Debbie Whitlock (I) (Rep)_Election Day Votes,Debbie Whitlock (I) (Rep)_Advanced Voting Votes,Debbie Whitlock (I) (Rep)_Absentee by Mail Votes,Debbie Whitlock (I) (Rep)_Provisional Votes,Debbie Whitlock (I) (Rep)_Choice Total,Tom Garrison (Rep)_Election Day Votes,Tom Garrison (Rep)_Advanced Voting Votes,Tom Garrison (Rep)_Absentee by Mail Votes,Tom Garrison (Rep)_Provisional Votes,Tom Garrison (Rep)_Choice Total,calc_participation,Rep_total,Rep_steal
+Hoboken,Brantley,3394.0,612.0,1229.0,240.0,0.0,2081.0,2081.0,,,,,,,,,,,,,,,,61.3,,
+Nahunta,Brantley,4208.0,502.0,1570.0,250.0,5.0,2327.0,2327.0,,,,,,,,,,,,,,,,55.3,,
+Waynesville,Brantley,4286.0,790.0,1235.0,221.0,3.0,2249.0,2249.0,,,,,,,,,,,,,,,,52.5,,
+Statenville,Echols,2156.0,,,,,,1303.0,233.0,935.0,135.0,0.0,1303.0,,,,,,,,,,,60.4,,
+Senior Center,Stephens,0.0,,,,,,10243.0,,,,,,1399.0,7176.0,1664.0,4.0,10243.0,,,,,,,,
+Rabun County,Rabun,13072.0,,,,,,8321.0,,,,,,,,,,,1320.0,4974.0,2027.0,0.0,8321.0,63.7,,

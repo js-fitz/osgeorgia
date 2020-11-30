@@ -1,4 +1,4 @@
-County,Registered Voters,Ron Stephens (I) (Rep)_Election Day Votes,Ron Stephens (I) (Rep)_Advanced Voting Votes,Ron Stephens (I) (Rep)_Absentee by Mail Votes,Ron Stephens (I) (Rep)_Provisional Votes,Ron Stephens (I) (Rep)_Choice Total,Marcus Thompson (Dem)_Election Day Votes,Marcus Thompson (Dem)_Advanced Voting Votes,Marcus Thompson (Dem)_Absentee by Mail Votes,Marcus Thompson (Dem)_Provisional Votes,Marcus Thompson (Dem)_Choice Total,Total,calc_participation
-Bryan,18349.0,946.0,3951.0,699.0,2.0,5598.0,421.0,1816.0,1037.0,3.0,3277.0,8875.0,48.4
-Chatham,26212.0,2201.0,4041.0,1754.0,18.0,8014.0,1611.0,4104.0,3161.0,18.0,8894.0,16908.0,64.5
-Liberty,2304.0,78.0,97.0,42.0,0.0,217.0,72.0,138.0,103.0,0.0,313.0,530.0,23.0
+County,Registered Voters,Ron Stephens (I) (Rep)_Election Day Votes,Ron Stephens (I) (Rep)_Advanced Voting Votes,Ron Stephens (I) (Rep)_Absentee by Mail Votes,Ron Stephens (I) (Rep)_Provisional Votes,Ron Stephens (I) (Rep)_Choice Total,Marcus Thompson (Dem)_Election Day Votes,Marcus Thompson (Dem)_Advanced Voting Votes,Marcus Thompson (Dem)_Absentee by Mail Votes,Marcus Thompson (Dem)_Provisional Votes,Marcus Thompson (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Bryan,18349.0,946.0,3951.0,699.0,2.0,5598.0,421.0,1816.0,1037.0,3.0,3277.0,8875.0,48.4,5598.0,3277.0
+Chatham,26212.0,2201.0,4041.0,1754.0,18.0,8014.0,1611.0,4104.0,3161.0,18.0,8894.0,16908.0,64.5,8014.0,8894.0
+Liberty,2304.0,78.0,97.0,42.0,0.0,217.0,72.0,138.0,103.0,0.0,313.0,530.0,23.0,217.0,313.0

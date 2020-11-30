@@ -1,6 +1,6 @@
-Precinct,County,Registered Voters,Jerre Brumbelow_Election Day Votes,Jerre Brumbelow_Advanced Voting Votes,Jerre Brumbelow_Absentee by Mail Votes,Jerre Brumbelow_Provisional Votes,Jerre Brumbelow_Choice Total,John F. Morrissey (I)_Election Day Votes,John F. Morrissey (I)_Advanced Voting Votes,John F. Morrissey (I)_Absentee by Mail Votes,John F. Morrissey (I)_Provisional Votes,John F. Morrissey (I)_Choice Total,Total,calc_participation
-North St Marys,Camden,2095.0,93.0,200.0,51.0,0.0,344.0,89.0,174.0,74.0,1.0,338.0,682.0,32.6
-St Marys,Camden,3218.0,226.0,506.0,158.0,0.0,890.0,207.0,506.0,233.0,0.0,946.0,1836.0,57.1
-South St Marys,Camden,2139.0,117.0,438.0,137.0,1.0,693.0,57.0,295.0,195.0,1.0,548.0,1241.0,58.0
-Mush Bluff,Camden,2816.0,142.0,333.0,125.0,0.0,600.0,148.0,427.0,139.0,1.0,715.0,1315.0,46.7
-West St Marys,Camden,3147.0,142.0,697.0,179.0,0.0,1018.0,114.0,778.0,467.0,0.0,1359.0,2377.0,75.5
+Precinct,County,Registered Voters,Jerre Brumbelow_Election Day Votes,Jerre Brumbelow_Advanced Voting Votes,Jerre Brumbelow_Absentee by Mail Votes,Jerre Brumbelow_Provisional Votes,Jerre Brumbelow_Choice Total,John F. Morrissey (I)_Election Day Votes,John F. Morrissey (I)_Advanced Voting Votes,John F. Morrissey (I)_Absentee by Mail Votes,John F. Morrissey (I)_Provisional Votes,John F. Morrissey (I)_Choice Total,Total,calc_participation,Ind_total
+North St Marys,Camden,2095.0,93.0,200.0,51.0,0.0,344.0,89.0,174.0,74.0,1.0,338.0,682.0,32.6,338.0
+St Marys,Camden,3218.0,226.0,506.0,158.0,0.0,890.0,207.0,506.0,233.0,0.0,946.0,1836.0,57.1,946.0
+South St Marys,Camden,2139.0,117.0,438.0,137.0,1.0,693.0,57.0,295.0,195.0,1.0,548.0,1241.0,58.0,548.0
+Mush Bluff,Camden,2816.0,142.0,333.0,125.0,0.0,600.0,148.0,427.0,139.0,1.0,715.0,1315.0,46.7,715.0
+West St Marys,Camden,3147.0,142.0,697.0,179.0,0.0,1018.0,114.0,778.0,467.0,0.0,1359.0,2377.0,75.5,1359.0

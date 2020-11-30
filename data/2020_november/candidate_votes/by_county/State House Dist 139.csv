@@ -1,5 +1,5 @@
-County,Registered Voters,Patty Bentley (I) (Dem)_Election Day Votes,Patty Bentley (I) (Dem)_Advanced Voting Votes,Patty Bentley (I) (Dem)_Absentee by Mail Votes,Patty Bentley (I) (Dem)_Provisional Votes,Patty Bentley (I) (Dem)_Choice Total,Total,calc_participation
-Dooly,5949.0,753.0,1762.0,589.0,2.0,3106.0,3106.0,52.2
-Macon,6991.0,859.0,1965.0,743.0,0.0,3567.0,3567.0,51.0
-Peach,8059.0,658.0,2389.0,1133.0,4.0,4184.0,4184.0,51.9
-Taylor,5400.0,486.0,1691.0,617.0,7.0,2801.0,2801.0,51.9
+County,Registered Voters,Patty Bentley (I) (Dem)_Election Day Votes,Patty Bentley (I) (Dem)_Advanced Voting Votes,Patty Bentley (I) (Dem)_Absentee by Mail Votes,Patty Bentley (I) (Dem)_Provisional Votes,Patty Bentley (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Dooly,5949.0,753.0,1762.0,589.0,2.0,3106.0,3106.0,52.2,3106.0
+Macon,6991.0,859.0,1965.0,743.0,0.0,3567.0,3567.0,51.0,3567.0
+Peach,8059.0,658.0,2389.0,1133.0,4.0,4184.0,4184.0,51.9,4184.0
+Taylor,5400.0,486.0,1691.0,617.0,7.0,2801.0,2801.0,51.9,2801.0

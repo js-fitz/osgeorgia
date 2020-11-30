@@ -1,4 +1,4 @@
-County,Registered Voters,Jon G. Burns (I) (Rep)_Election Day Votes,Jon G. Burns (I) (Rep)_Advanced Voting Votes,Jon G. Burns (I) (Rep)_Absentee by Mail Votes,Jon G. Burns (I) (Rep)_Provisional Votes,Jon G. Burns (I) (Rep)_Choice Total,Total,calc_participation
-Bulloch,10863.0,1669.0,2484.0,1065.0,7.0,5225.0,5225.0,48.1
-Effingham,19592.0,3459.0,6667.0,1492.0,6.0,11624.0,11624.0,59.3
-Screven,0.0,1564.0,2704.0,847.0,12.0,5127.0,5127.0,0.0
+County,Registered Voters,Jon G. Burns (I) (Rep)_Election Day Votes,Jon G. Burns (I) (Rep)_Advanced Voting Votes,Jon G. Burns (I) (Rep)_Absentee by Mail Votes,Jon G. Burns (I) (Rep)_Provisional Votes,Jon G. Burns (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Bulloch,10863.0,1669.0,2484.0,1065.0,7.0,5225.0,5225.0,48.1,5225.0
+Effingham,19592.0,3459.0,6667.0,1492.0,6.0,11624.0,11624.0,59.3,11624.0
+Screven,0.0,1564.0,2704.0,847.0,12.0,5127.0,5127.0,0.0,5127.0

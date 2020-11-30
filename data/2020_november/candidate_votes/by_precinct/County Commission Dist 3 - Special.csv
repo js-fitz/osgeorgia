@@ -1,6 +1,6 @@
-Precinct,County,Registered Voters,Larron D. Copeland (Ind)_Election Day Votes,Larron D. Copeland (Ind)_Advanced Voting Votes,Larron D. Copeland (Ind)_Absentee by Mail Votes,Larron D. Copeland (Ind)_Provisional Votes,Larron D. Copeland (Ind)_Choice Total,Robert Lamar Wills (Ind)_Election Day Votes,Robert Lamar Wills (Ind)_Advanced Voting Votes,Robert Lamar Wills (Ind)_Absentee by Mail Votes,Robert Lamar Wills (Ind)_Provisional Votes,Robert Lamar Wills (Ind)_Choice Total,Total,calc_participation
-Dawson,Terrell,3043.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,6.0,0.0,6.0,8.0,0.3
-Sasser,Terrell,1355.0,13.0,48.0,11.0,0.0,72.0,7.0,14.0,4.0,0.0,25.0,97.0,7.2
-Bronwood,Terrell,885.0,123.0,169.0,93.0,0.0,385.0,50.0,65.0,40.0,0.0,155.0,540.0,61.0
-Parrott,Terrell,412.0,117.0,68.0,26.0,0.0,211.0,29.0,20.0,13.0,0.0,62.0,273.0,66.3
-Graves,Terrell,598.0,63.0,90.0,34.0,0.0,187.0,25.0,30.0,30.0,0.0,85.0,272.0,45.5
+Precinct,County,Registered Voters,Larron D. Copeland (Ind)_Election Day Votes,Larron D. Copeland (Ind)_Advanced Voting Votes,Larron D. Copeland (Ind)_Absentee by Mail Votes,Larron D. Copeland (Ind)_Provisional Votes,Larron D. Copeland (Ind)_Choice Total,Robert Lamar Wills (Ind)_Election Day Votes,Robert Lamar Wills (Ind)_Advanced Voting Votes,Robert Lamar Wills (Ind)_Absentee by Mail Votes,Robert Lamar Wills (Ind)_Provisional Votes,Robert Lamar Wills (Ind)_Choice Total,Total,calc_participation,Ind_total,Ind_steal
+Dawson,Terrell,3043.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,6.0,0.0,6.0,8.0,0.3,8.0,6.0
+Sasser,Terrell,1355.0,13.0,48.0,11.0,0.0,72.0,7.0,14.0,4.0,0.0,25.0,97.0,7.2,97.0,25.0
+Bronwood,Terrell,885.0,123.0,169.0,93.0,0.0,385.0,50.0,65.0,40.0,0.0,155.0,540.0,61.0,540.0,155.0
+Parrott,Terrell,412.0,117.0,68.0,26.0,0.0,211.0,29.0,20.0,13.0,0.0,62.0,273.0,66.3,273.0,62.0
+Graves,Terrell,598.0,63.0,90.0,34.0,0.0,187.0,25.0,30.0,30.0,0.0,85.0,272.0,45.5,272.0,85.0

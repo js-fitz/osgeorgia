@@ -1,8 +1,8 @@
-County,Registered Voters,Mack Jackson (I) (Dem)_Election Day Votes,Mack Jackson (I) (Dem)_Advanced Voting Votes,Mack Jackson (I) (Dem)_Absentee by Mail Votes,Mack Jackson (I) (Dem)_Provisional Votes,Mack Jackson (I) (Dem)_Choice Total,Total,calc_participation
-Glascock,2039.0,270.0,400.0,115.0,0.0,785.0,785.0,38.5
-Hancock,5827.0,721.0,1312.0,1200.0,2.0,3235.0,3235.0,55.5
-Jefferson,2437.0,362.0,506.0,362.0,0.0,1230.0,1230.0,50.5
-Johnson,3903.0,251.0,855.0,309.0,0.0,1415.0,1415.0,36.3
-McDuffie,3080.0,239.0,916.0,540.0,0.0,1695.0,1695.0,55.0
-Warren,3785.0,396.0,1029.0,607.0,0.0,2032.0,2032.0,53.7
-Washington,12990.0,1993.0,3444.0,2215.0,9.0,7661.0,7661.0,59.0
+County,Registered Voters,Mack Jackson (I) (Dem)_Election Day Votes,Mack Jackson (I) (Dem)_Advanced Voting Votes,Mack Jackson (I) (Dem)_Absentee by Mail Votes,Mack Jackson (I) (Dem)_Provisional Votes,Mack Jackson (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Glascock,2039.0,270.0,400.0,115.0,0.0,785.0,785.0,38.5,785.0
+Hancock,5827.0,721.0,1312.0,1200.0,2.0,3235.0,3235.0,55.5,3235.0
+Jefferson,2437.0,362.0,506.0,362.0,0.0,1230.0,1230.0,50.5,1230.0
+Johnson,3903.0,251.0,855.0,309.0,0.0,1415.0,1415.0,36.3,1415.0
+McDuffie,3080.0,239.0,916.0,540.0,0.0,1695.0,1695.0,55.0,1695.0
+Warren,3785.0,396.0,1029.0,607.0,0.0,2032.0,2032.0,53.7,2032.0
+Washington,12990.0,1993.0,3444.0,2215.0,9.0,7661.0,7661.0,59.0,7661.0

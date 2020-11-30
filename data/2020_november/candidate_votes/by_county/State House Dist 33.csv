@@ -1,6 +1,6 @@
-County,Registered Voters,Rob Leverett (Rep)_Election Day Votes,Rob Leverett (Rep)_Advanced Voting Votes,Rob Leverett (Rep)_Absentee by Mail Votes,Rob Leverett (Rep)_Provisional Votes,Rob Leverett (Rep)_Choice Total,Kerry Dornell Hamm (Dem)_Election Day Votes,Kerry Dornell Hamm (Dem)_Advanced Voting Votes,Kerry Dornell Hamm (Dem)_Absentee by Mail Votes,Kerry Dornell Hamm (Dem)_Provisional Votes,Kerry Dornell Hamm (Dem)_Choice Total,Total,calc_participation
-Columbia,1023.0,358.0,305.0,70.0,1.0,734.0,28.0,30.0,25.0,0.0,83.0,817.0,79.9
-Elbert,12305.0,1843.0,3537.0,1107.0,0.0,6487.0,502.0,1088.0,939.0,0.0,2529.0,9016.0,73.3
-Lincoln,6176.0,906.0,1843.0,452.0,1.0,3202.0,239.0,488.0,593.0,2.0,1322.0,4524.0,73.3
-Madison,17237.0,2396.0,4573.0,1330.0,2.0,8301.0,608.0,1201.0,921.0,1.0,2731.0,11032.0,64.0
-Wilkes,1783.0,229.0,615.0,199.0,1.0,1044.0,65.0,122.0,127.0,0.0,314.0,1358.0,76.2
+County,Registered Voters,Rob Leverett (Rep)_Election Day Votes,Rob Leverett (Rep)_Advanced Voting Votes,Rob Leverett (Rep)_Absentee by Mail Votes,Rob Leverett (Rep)_Provisional Votes,Rob Leverett (Rep)_Choice Total,Kerry Dornell Hamm (Dem)_Election Day Votes,Kerry Dornell Hamm (Dem)_Advanced Voting Votes,Kerry Dornell Hamm (Dem)_Absentee by Mail Votes,Kerry Dornell Hamm (Dem)_Provisional Votes,Kerry Dornell Hamm (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Columbia,1023.0,358.0,305.0,70.0,1.0,734.0,28.0,30.0,25.0,0.0,83.0,817.0,79.9,734.0,83.0
+Elbert,12305.0,1843.0,3537.0,1107.0,0.0,6487.0,502.0,1088.0,939.0,0.0,2529.0,9016.0,73.3,6487.0,2529.0
+Lincoln,6176.0,906.0,1843.0,452.0,1.0,3202.0,239.0,488.0,593.0,2.0,1322.0,4524.0,73.3,3202.0,1322.0
+Madison,17237.0,2396.0,4573.0,1330.0,2.0,8301.0,608.0,1201.0,921.0,1.0,2731.0,11032.0,64.0,8301.0,2731.0
+Wilkes,1783.0,229.0,615.0,199.0,1.0,1044.0,65.0,122.0,127.0,0.0,314.0,1358.0,76.2,1044.0,314.0

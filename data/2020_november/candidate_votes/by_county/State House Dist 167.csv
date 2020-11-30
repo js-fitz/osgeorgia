@@ -1,4 +1,4 @@
-County,Registered Voters,Buddy Deloach (Rep)_Election Day Votes,Buddy Deloach (Rep)_Advanced Voting Votes,Buddy Deloach (Rep)_Absentee by Mail Votes,Buddy Deloach (Rep)_Provisional Votes,Buddy Deloach (Rep)_Choice Total,Total,calc_participation
-Glynn,20559.0,2184.0,7289.0,2067.0,8.0,11548.0,11548.0,56.2
-Long,10470.0,1342.0,2719.0,502.0,13.0,4576.0,4576.0,43.7
-McIntosh,9292.0,1034.0,2841.0,1135.0,1.0,5011.0,5011.0,53.9
+County,Registered Voters,Buddy Deloach (Rep)_Election Day Votes,Buddy Deloach (Rep)_Advanced Voting Votes,Buddy Deloach (Rep)_Absentee by Mail Votes,Buddy Deloach (Rep)_Provisional Votes,Buddy Deloach (Rep)_Choice Total,Total,calc_participation,Rep_total
+Glynn,20559.0,2184.0,7289.0,2067.0,8.0,11548.0,11548.0,56.2,11548.0
+Long,10470.0,1342.0,2719.0,502.0,13.0,4576.0,4576.0,43.7,4576.0
+McIntosh,9292.0,1034.0,2841.0,1135.0,1.0,5011.0,5011.0,53.9,5011.0

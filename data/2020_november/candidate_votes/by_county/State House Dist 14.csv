@@ -1,3 +1,3 @@
-County,Registered Voters,Mitchell Scoggins (I) (Rep)_Election Day Votes,Mitchell Scoggins (I) (Rep)_Advanced Voting Votes,Mitchell Scoggins (I) (Rep)_Absentee by Mail Votes,Mitchell Scoggins (I) (Rep)_Provisional Votes,Mitchell Scoggins (I) (Rep)_Choice Total,Total,calc_participation
-Bartow,37970.0,4966.0,9485.0,2960.0,6.0,17417.0,17417.0,45.9
-Floyd,13317.0,1805.0,4007.0,1023.0,27.0,6862.0,6862.0,51.5
+County,Registered Voters,Mitchell Scoggins (I) (Rep)_Election Day Votes,Mitchell Scoggins (I) (Rep)_Advanced Voting Votes,Mitchell Scoggins (I) (Rep)_Absentee by Mail Votes,Mitchell Scoggins (I) (Rep)_Provisional Votes,Mitchell Scoggins (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Bartow,37970.0,4966.0,9485.0,2960.0,6.0,17417.0,17417.0,45.9,17417.0
+Floyd,13317.0,1805.0,4007.0,1023.0,27.0,6862.0,6862.0,51.5,6862.0

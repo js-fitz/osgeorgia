@@ -1,2 +1,2 @@
-Precinct,County,Registered Voters,Ronnie Williams (I) (Dem)_Election Day Votes,Ronnie Williams (I) (Dem)_Advanced Voting Votes,Ronnie Williams (I) (Dem)_Absentee by Mail Votes,Ronnie Williams (I) (Dem)_Provisional Votes,Ronnie Williams (I) (Dem)_Choice Total,Total,calc_participation
-Edison-Arlington,Calhoun,594.0,101.0,157.0,87.0,0.0,345.0,345.0,58.1
+Precinct,County,Registered Voters,Ronnie Williams (I) (Dem)_Election Day Votes,Ronnie Williams (I) (Dem)_Advanced Voting Votes,Ronnie Williams (I) (Dem)_Absentee by Mail Votes,Ronnie Williams (I) (Dem)_Provisional Votes,Ronnie Williams (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Edison-Arlington,Calhoun,594.0,101.0,157.0,87.0,0.0,345.0,345.0,58.1,345.0

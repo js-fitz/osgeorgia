@@ -1,7 +1,7 @@
-County,Registered Voters,John F. Kennedy (I) (Rep)_Election Day Votes,John F. Kennedy (I) (Rep)_Advanced Voting Votes,John F. Kennedy (I) (Rep)_Absentee by Mail Votes,John F. Kennedy (I) (Rep)_Provisional Votes,John F. Kennedy (I) (Rep)_Choice Total,Total,calc_participation
-Bibb,47597.0,6929.0,12084.0,5282.0,32.0,24327.0,24327.0,51.1
-Crawford,8512.0,1296.0,3034.0,775.0,2.0,5107.0,5107.0,60.0
-Houston,34409.0,2494.0,4244.0,2322.0,0.0,9060.0,9060.0,26.3
-Monroe,21138.0,3428.0,7922.0,1630.0,7.0,12987.0,12987.0,61.4
-Peach,17996.0,1425.0,6291.0,1442.0,13.0,9171.0,9171.0,51.0
-Upson,18175.0,1720.0,6945.0,1888.0,4.0,10557.0,10557.0,58.1
+County,Registered Voters,John F. Kennedy (I) (Rep)_Election Day Votes,John F. Kennedy (I) (Rep)_Advanced Voting Votes,John F. Kennedy (I) (Rep)_Absentee by Mail Votes,John F. Kennedy (I) (Rep)_Provisional Votes,John F. Kennedy (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Bibb,47597.0,6929.0,12084.0,5282.0,32.0,24327.0,24327.0,51.1,24327.0
+Crawford,8512.0,1296.0,3034.0,775.0,2.0,5107.0,5107.0,60.0,5107.0
+Houston,34409.0,2494.0,4244.0,2322.0,0.0,9060.0,9060.0,26.3,9060.0
+Monroe,21138.0,3428.0,7922.0,1630.0,7.0,12987.0,12987.0,61.4,12987.0
+Peach,17996.0,1425.0,6291.0,1442.0,13.0,9171.0,9171.0,51.0,9171.0
+Upson,18175.0,1720.0,6945.0,1888.0,4.0,10557.0,10557.0,58.1,10557.0

@@ -1,9 +1,9 @@
-County,Registered Voters,Dean Burke (I) (Rep)_Election Day Votes,Dean Burke (I) (Rep)_Advanced Voting Votes,Dean Burke (I) (Rep)_Absentee by Mail Votes,Dean Burke (I) (Rep)_Provisional Votes,Dean Burke (I) (Rep)_Choice Total,Total,calc_participation
-Colquitt,25054.0,4651.0,6777.0,1835.0,11.0,13274.0,13274.0,53.0
-Decatur,16618.0,1893.0,5617.0,1521.0,11.0,9042.0,9042.0,54.4
-Early,7320.0,1052.0,1932.0,674.0,3.0,3661.0,3661.0,50.0
-Grady,15442.0,2328.0,4634.0,1487.0,13.0,8462.0,8462.0,54.8
-Miller,3912.0,577.0,1361.0,348.0,2.0,2288.0,2288.0,58.5
-Mitchell,6874.0,1379.0,1629.0,613.0,2.0,3623.0,3623.0,52.7
-Seminole,5936.0,1060.0,1706.0,389.0,0.0,3155.0,3155.0,53.2
-Thomas,25024.0,2615.0,8748.0,2147.0,3.0,13513.0,13513.0,54.0
+County,Registered Voters,Dean Burke (I) (Rep)_Election Day Votes,Dean Burke (I) (Rep)_Advanced Voting Votes,Dean Burke (I) (Rep)_Absentee by Mail Votes,Dean Burke (I) (Rep)_Provisional Votes,Dean Burke (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Colquitt,25054.0,4651.0,6777.0,1835.0,11.0,13274.0,13274.0,53.0,13274.0
+Decatur,16618.0,1893.0,5617.0,1521.0,11.0,9042.0,9042.0,54.4,9042.0
+Early,7320.0,1052.0,1932.0,674.0,3.0,3661.0,3661.0,50.0,3661.0
+Grady,15442.0,2328.0,4634.0,1487.0,13.0,8462.0,8462.0,54.8,8462.0
+Miller,3912.0,577.0,1361.0,348.0,2.0,2288.0,2288.0,58.5,2288.0
+Mitchell,6874.0,1379.0,1629.0,613.0,2.0,3623.0,3623.0,52.7,3623.0
+Seminole,5936.0,1060.0,1706.0,389.0,0.0,3155.0,3155.0,53.2,3155.0
+Thomas,25024.0,2615.0,8748.0,2147.0,3.0,13513.0,13513.0,54.0,13513.0

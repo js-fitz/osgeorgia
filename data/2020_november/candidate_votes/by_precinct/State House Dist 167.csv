@@ -1,20 +1,20 @@
-Precinct,County,Registered Voters,Buddy Deloach (Rep)_Election Day Votes,Buddy Deloach (Rep)_Advanced Voting Votes,Buddy Deloach (Rep)_Absentee by Mail Votes,Buddy Deloach (Rep)_Provisional Votes,Buddy Deloach (Rep)_Choice Total,Total,calc_participation
-Sterling Elementary,Glynn,4578.0,464.0,1632.0,435.0,1.0,2532.0,2532.0,55.3
-Christian Renewal,Glynn,3699.0,307.0,1590.0,528.0,2.0,2427.0,2427.0,65.6
-Sterling Church of God,Glynn,3925.0,451.0,1301.0,304.0,2.0,2058.0,2058.0,52.4
-SE Baptist Bldg,Glynn,2109.0,253.0,665.0,168.0,1.0,1087.0,1087.0,51.5
-Career Academy,Glynn,2960.0,354.0,985.0,312.0,1.0,1652.0,1652.0,55.8
-C B Greer School,Glynn,3288.0,355.0,1116.0,320.0,1.0,1792.0,1792.0,54.5
-Sapelo Island,McIntosh,53.0,7.0,8.0,7.0,0.0,22.0,22.0,41.5
-Townsend,McIntosh,564.0,83.0,118.0,134.0,0.0,335.0,335.0,59.4
-Crescent,McIntosh,1982.0,211.0,455.0,189.0,0.0,855.0,855.0,43.1
-Darien,McIntosh,2441.0,152.0,828.0,290.0,0.0,1270.0,1270.0,52.0
-South Newport,McIntosh,2095.0,333.0,729.0,328.0,1.0,1391.0,1391.0,66.4
-North Darien,McIntosh,2157.0,248.0,703.0,187.0,0.0,1138.0,1138.0,52.8
-Beards Creek,Long,1539.0,261.0,325.0,87.0,2.0,675.0,675.0,43.9
-Rye Patch/Oak Dale,Long,3131.0,390.0,849.0,151.0,3.0,1393.0,1393.0,44.5
-South Ludowici,Long,1392.0,129.0,293.0,64.0,2.0,488.0,488.0,35.1
-North Ludowici,Long,2281.0,224.0,578.0,112.0,3.0,917.0,917.0,40.2
-Tibet,Long,920.0,166.0,290.0,34.0,0.0,490.0,490.0,53.3
-Alma Flournoy,Long,298.0,68.0,101.0,15.0,2.0,186.0,186.0,62.4
-Faith Baptist Annex,Long,909.0,104.0,283.0,39.0,1.0,427.0,427.0,47.0
+Precinct,County,Registered Voters,Buddy Deloach (Rep)_Election Day Votes,Buddy Deloach (Rep)_Advanced Voting Votes,Buddy Deloach (Rep)_Absentee by Mail Votes,Buddy Deloach (Rep)_Provisional Votes,Buddy Deloach (Rep)_Choice Total,Total,calc_participation,Rep_total
+Sterling Elementary,Glynn,4578.0,464.0,1632.0,435.0,1.0,2532.0,2532.0,55.3,2532.0
+Christian Renewal,Glynn,3699.0,307.0,1590.0,528.0,2.0,2427.0,2427.0,65.6,2427.0
+Sterling Church of God,Glynn,3925.0,451.0,1301.0,304.0,2.0,2058.0,2058.0,52.4,2058.0
+SE Baptist Bldg,Glynn,2109.0,253.0,665.0,168.0,1.0,1087.0,1087.0,51.5,1087.0
+Career Academy,Glynn,2960.0,354.0,985.0,312.0,1.0,1652.0,1652.0,55.8,1652.0
+C B Greer School,Glynn,3288.0,355.0,1116.0,320.0,1.0,1792.0,1792.0,54.5,1792.0
+Sapelo Island,McIntosh,53.0,7.0,8.0,7.0,0.0,22.0,22.0,41.5,22.0
+Townsend,McIntosh,564.0,83.0,118.0,134.0,0.0,335.0,335.0,59.4,335.0
+Crescent,McIntosh,1982.0,211.0,455.0,189.0,0.0,855.0,855.0,43.1,855.0
+Darien,McIntosh,2441.0,152.0,828.0,290.0,0.0,1270.0,1270.0,52.0,1270.0
+South Newport,McIntosh,2095.0,333.0,729.0,328.0,1.0,1391.0,1391.0,66.4,1391.0
+North Darien,McIntosh,2157.0,248.0,703.0,187.0,0.0,1138.0,1138.0,52.8,1138.0
+Beards Creek,Long,1539.0,261.0,325.0,87.0,2.0,675.0,675.0,43.9,675.0
+Rye Patch/Oak Dale,Long,3131.0,390.0,849.0,151.0,3.0,1393.0,1393.0,44.5,1393.0
+South Ludowici,Long,1392.0,129.0,293.0,64.0,2.0,488.0,488.0,35.1,488.0
+North Ludowici,Long,2281.0,224.0,578.0,112.0,3.0,917.0,917.0,40.2,917.0
+Tibet,Long,920.0,166.0,290.0,34.0,0.0,490.0,490.0,53.3,490.0
+Alma Flournoy,Long,298.0,68.0,101.0,15.0,2.0,186.0,186.0,62.4,186.0
+Faith Baptist Annex,Long,909.0,104.0,283.0,39.0,1.0,427.0,427.0,47.0,427.0

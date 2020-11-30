@@ -1,4 +1,4 @@
-County,Registered Voters,Alan Powell (I) (Rep)_Election Day Votes,Alan Powell (I) (Rep)_Advanced Voting Votes,Alan Powell (I) (Rep)_Absentee by Mail Votes,Alan Powell (I) (Rep)_Provisional Votes,Alan Powell (I) (Rep)_Choice Total,Alisha Allen (Dem)_Election Day Votes,Alisha Allen (Dem)_Advanced Voting Votes,Alisha Allen (Dem)_Absentee by Mail Votes,Alisha Allen (Dem)_Provisional Votes,Alisha Allen (Dem)_Choice Total,Total,calc_participation
-Franklin,15146.0,2299.0,5415.0,1511.0,2.0,9227.0,314.0,558.0,471.0,0.0,1343.0,10570.0,69.8
-Hart,16929.0,2431.0,5911.0,1625.0,3.0,9970.0,438.0,1109.0,869.0,1.0,2417.0,12387.0,73.2
-Madison,5129.0,1096.0,1515.0,451.0,0.0,3062.0,104.0,160.0,156.0,0.0,420.0,3482.0,67.9
+County,Registered Voters,Alan Powell (I) (Rep)_Election Day Votes,Alan Powell (I) (Rep)_Advanced Voting Votes,Alan Powell (I) (Rep)_Absentee by Mail Votes,Alan Powell (I) (Rep)_Provisional Votes,Alan Powell (I) (Rep)_Choice Total,Alisha Allen (Dem)_Election Day Votes,Alisha Allen (Dem)_Advanced Voting Votes,Alisha Allen (Dem)_Absentee by Mail Votes,Alisha Allen (Dem)_Provisional Votes,Alisha Allen (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Franklin,15146.0,2299.0,5415.0,1511.0,2.0,9227.0,314.0,558.0,471.0,0.0,1343.0,10570.0,69.8,9227.0,1343.0
+Hart,16929.0,2431.0,5911.0,1625.0,3.0,9970.0,438.0,1109.0,869.0,1.0,2417.0,12387.0,73.2,9970.0,2417.0
+Madison,5129.0,1096.0,1515.0,451.0,0.0,3062.0,104.0,160.0,156.0,0.0,420.0,3482.0,67.9,3062.0,420.0

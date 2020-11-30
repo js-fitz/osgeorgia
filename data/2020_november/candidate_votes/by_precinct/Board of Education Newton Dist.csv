@@ -1,6 +1,6 @@
-Precinct,County,Registered Voters,Malcolm Parker (I) (Dem)_Election Day Votes,Malcolm Parker (I) (Dem)_Advanced Voting Votes,Malcolm Parker (I) (Dem)_Absentee by Mail Votes,Malcolm Parker (I) (Dem)_Provisional Votes,Malcolm Parker (I) (Dem)_Choice Total,Total,calc_participation
-Anna,Baker,166.0,46.0,17.0,14.0,1.0,78.0,78.0,47.0
-Elmodel,Baker,401.0,65.0,103.0,70.0,1.0,239.0,239.0,59.6
-Hoggards Mill,Baker,351.0,65.0,70.0,47.0,0.0,182.0,182.0,51.9
-Milford,Baker,270.0,61.0,52.0,33.0,0.0,146.0,146.0,54.1
-Newton,Baker,1070.0,101.0,322.0,142.0,0.0,565.0,565.0,52.8
+Precinct,County,Registered Voters,Malcolm Parker (I) (Dem)_Election Day Votes,Malcolm Parker (I) (Dem)_Advanced Voting Votes,Malcolm Parker (I) (Dem)_Absentee by Mail Votes,Malcolm Parker (I) (Dem)_Provisional Votes,Malcolm Parker (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Anna,Baker,166.0,46.0,17.0,14.0,1.0,78.0,78.0,47.0,78.0
+Elmodel,Baker,401.0,65.0,103.0,70.0,1.0,239.0,239.0,59.6,239.0
+Hoggards Mill,Baker,351.0,65.0,70.0,47.0,0.0,182.0,182.0,51.9,182.0
+Milford,Baker,270.0,61.0,52.0,33.0,0.0,146.0,146.0,54.1,146.0
+Newton,Baker,1070.0,101.0,322.0,142.0,0.0,565.0,565.0,52.8,565.0

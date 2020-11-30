@@ -1,5 +1,5 @@
-County,Registered Voters,Stan Gunter (Rep)_Election Day Votes,Stan Gunter (Rep)_Advanced Voting Votes,Stan Gunter (Rep)_Absentee by Mail Votes,Stan Gunter (Rep)_Provisional Votes,Stan Gunter (Rep)_Choice Total,Dave Cooper (Dem)_Election Day Votes,Dave Cooper (Dem)_Advanced Voting Votes,Dave Cooper (Dem)_Absentee by Mail Votes,Dave Cooper (Dem)_Provisional Votes,Dave Cooper (Dem)_Choice Total,Total,calc_participation
-Rabun,13072.0,1152.0,4566.0,1694.0,0.0,7412.0,220.0,841.0,819.0,0.0,1880.0,9292.0,71.1
-Towns,10693.0,953.0,4117.0,1261.0,7.0,6338.0,136.0,670.0,627.0,0.0,1433.0,7771.0,72.7
-Union,19201.0,3322.0,7032.0,2292.0,10.0,12656.0,305.0,1076.0,1157.0,0.0,2538.0,15194.0,79.1
-White,4769.0,872.0,1422.0,493.0,2.0,2789.0,112.0,240.0,204.0,0.0,556.0,3345.0,70.1
+County,Registered Voters,Stan Gunter (Rep)_Election Day Votes,Stan Gunter (Rep)_Advanced Voting Votes,Stan Gunter (Rep)_Absentee by Mail Votes,Stan Gunter (Rep)_Provisional Votes,Stan Gunter (Rep)_Choice Total,Dave Cooper (Dem)_Election Day Votes,Dave Cooper (Dem)_Advanced Voting Votes,Dave Cooper (Dem)_Absentee by Mail Votes,Dave Cooper (Dem)_Provisional Votes,Dave Cooper (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Rabun,13072.0,1152.0,4566.0,1694.0,0.0,7412.0,220.0,841.0,819.0,0.0,1880.0,9292.0,71.1,7412.0,1880.0
+Towns,10693.0,953.0,4117.0,1261.0,7.0,6338.0,136.0,670.0,627.0,0.0,1433.0,7771.0,72.7,6338.0,1433.0
+Union,19201.0,3322.0,7032.0,2292.0,10.0,12656.0,305.0,1076.0,1157.0,0.0,2538.0,15194.0,79.1,12656.0,2538.0
+White,4769.0,872.0,1422.0,493.0,2.0,2789.0,112.0,240.0,204.0,0.0,556.0,3345.0,70.1,2789.0,556.0

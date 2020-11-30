@@ -1,5 +1,5 @@
-County,Registered Voters,Mike Cheokas (I) (Rep)_Election Day Votes,Mike Cheokas (I) (Rep)_Advanced Voting Votes,Mike Cheokas (I) (Rep)_Absentee by Mail Votes,Mike Cheokas (I) (Rep)_Provisional Votes,Mike Cheokas (I) (Rep)_Choice Total,Marc Arnett (Dem)_Election Day Votes,Marc Arnett (Dem)_Advanced Voting Votes,Marc Arnett (Dem)_Absentee by Mail Votes,Marc Arnett (Dem)_Provisional Votes,Marc Arnett (Dem)_Choice Total,Total,calc_participation
-Chattahoochee,0.0,280.0,452.0,124.0,2.0,858.0,154.0,327.0,164.0,1.0,646.0,1504.0,0.0
-Marion,4913.0,746.0,1243.0,315.0,0.0,2304.0,229.0,578.0,452.0,0.0,1259.0,3563.0,72.5
-Schley,2882.0,290.0,1317.0,173.0,1.0,1781.0,75.0,251.0,142.0,0.0,468.0,2249.0,78.0
-Sumter,15401.0,1060.0,2814.0,713.0,12.0,4599.0,1046.0,2943.0,1811.0,4.0,5804.0,10403.0,67.5
+County,Registered Voters,Mike Cheokas (I) (Rep)_Election Day Votes,Mike Cheokas (I) (Rep)_Advanced Voting Votes,Mike Cheokas (I) (Rep)_Absentee by Mail Votes,Mike Cheokas (I) (Rep)_Provisional Votes,Mike Cheokas (I) (Rep)_Choice Total,Marc Arnett (Dem)_Election Day Votes,Marc Arnett (Dem)_Advanced Voting Votes,Marc Arnett (Dem)_Absentee by Mail Votes,Marc Arnett (Dem)_Provisional Votes,Marc Arnett (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Chattahoochee,0.0,280.0,452.0,124.0,2.0,858.0,154.0,327.0,164.0,1.0,646.0,1504.0,0.0,858.0,646.0
+Marion,4913.0,746.0,1243.0,315.0,0.0,2304.0,229.0,578.0,452.0,0.0,1259.0,3563.0,72.5,2304.0,1259.0
+Schley,2882.0,290.0,1317.0,173.0,1.0,1781.0,75.0,251.0,142.0,0.0,468.0,2249.0,78.0,1781.0,468.0
+Sumter,15401.0,1060.0,2814.0,713.0,12.0,4599.0,1046.0,2943.0,1811.0,4.0,5804.0,10403.0,67.5,4599.0,5804.0

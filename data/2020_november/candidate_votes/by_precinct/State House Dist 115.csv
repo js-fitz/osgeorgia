@@ -1,17 +1,17 @@
-Precinct,County,Registered Voters,Bruce Williamson (I) (Rep)_Election Day Votes,Bruce Williamson (I) (Rep)_Advanced Voting Votes,Bruce Williamson (I) (Rep)_Absentee by Mail Votes,Bruce Williamson (I) (Rep)_Provisional Votes,Bruce Williamson (I) (Rep)_Choice Total,Debbie Reed (Dem)_Election Day Votes,Debbie Reed (Dem)_Advanced Voting Votes,Debbie Reed (Dem)_Absentee by Mail Votes,Debbie Reed (Dem)_Provisional Votes,Debbie Reed (Dem)_Choice Total,Total,calc_participation
-Whatley,Walton,1254.0,244.0,503.0,137.0,0.0,884.0,23.0,45.0,44.0,0.0,112.0,996.0,79.4
-Walker Park,Walton,3858.0,522.0,1444.0,403.0,0.0,2369.0,94.0,197.0,167.0,0.0,458.0,2827.0,73.3
-Gratis,Walton,1243.0,331.0,442.0,141.0,0.0,914.0,19.0,37.0,53.0,0.0,109.0,1023.0,82.3
-Between,Walton,4925.0,428.0,1590.0,342.0,1.0,2361.0,77.0,265.0,188.0,0.0,530.0,2891.0,58.7
-Walnut Grove,Walton,2661.0,498.0,919.0,209.0,0.0,1626.0,37.0,143.0,99.0,0.0,279.0,1905.0,71.6
-Social Circle,Walton,4604.0,719.0,1292.0,334.0,3.0,2348.0,216.0,379.0,301.0,1.0,897.0,3245.0,70.5
-South Monroe,Walton,3910.0,266.0,1210.0,333.0,0.0,1809.0,103.0,397.0,201.0,0.0,701.0,2510.0,64.2
-North Monroe,Walton,4818.0,315.0,799.0,249.0,1.0,1364.0,277.0,667.0,484.0,3.0,1431.0,2795.0,58.0
-Broken Arrow,Walton,4380.0,580.0,1653.0,401.0,0.0,2634.0,63.0,286.0,213.0,0.0,562.0,3196.0,73.0
-Bay Creek,Walton,3401.0,17.0,63.0,21.0,0.0,101.0,2.0,13.0,9.0,0.0,24.0,125.0,3.7
-E Monroe,Walton,4119.0,345.0,831.0,222.0,1.0,1399.0,208.0,439.0,239.0,4.0,890.0,2289.0,55.6
-W Monroe,Walton,2027.0,238.0,852.0,211.0,0.0,1301.0,46.0,143.0,89.0,0.0,278.0,1579.0,77.9
-Mountain,Walton,1657.0,280.0,587.0,160.0,0.0,1027.0,38.0,79.0,52.0,0.0,169.0,1196.0,72.2
-Jersey,Walton,1970.0,666.0,589.0,173.0,1.0,1429.0,33.0,63.0,49.0,0.0,145.0,1574.0,79.9
-Blasingame,Walton,1115.0,401.0,316.0,98.0,0.0,815.0,30.0,33.0,32.0,1.0,96.0,911.0,81.7
-Good Hope,Walton,2149.0,630.0,640.0,161.0,0.0,1431.0,47.0,95.0,72.0,0.0,214.0,1645.0,76.5
+Precinct,County,Registered Voters,Bruce Williamson (I) (Rep)_Election Day Votes,Bruce Williamson (I) (Rep)_Advanced Voting Votes,Bruce Williamson (I) (Rep)_Absentee by Mail Votes,Bruce Williamson (I) (Rep)_Provisional Votes,Bruce Williamson (I) (Rep)_Choice Total,Debbie Reed (Dem)_Election Day Votes,Debbie Reed (Dem)_Advanced Voting Votes,Debbie Reed (Dem)_Absentee by Mail Votes,Debbie Reed (Dem)_Provisional Votes,Debbie Reed (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Whatley,Walton,1254.0,244.0,503.0,137.0,0.0,884.0,23.0,45.0,44.0,0.0,112.0,996.0,79.4,884.0,112.0
+Walker Park,Walton,3858.0,522.0,1444.0,403.0,0.0,2369.0,94.0,197.0,167.0,0.0,458.0,2827.0,73.3,2369.0,458.0
+Gratis,Walton,1243.0,331.0,442.0,141.0,0.0,914.0,19.0,37.0,53.0,0.0,109.0,1023.0,82.3,914.0,109.0
+Between,Walton,4925.0,428.0,1590.0,342.0,1.0,2361.0,77.0,265.0,188.0,0.0,530.0,2891.0,58.7,2361.0,530.0
+Walnut Grove,Walton,2661.0,498.0,919.0,209.0,0.0,1626.0,37.0,143.0,99.0,0.0,279.0,1905.0,71.6,1626.0,279.0
+Social Circle,Walton,4604.0,719.0,1292.0,334.0,3.0,2348.0,216.0,379.0,301.0,1.0,897.0,3245.0,70.5,2348.0,897.0
+South Monroe,Walton,3910.0,266.0,1210.0,333.0,0.0,1809.0,103.0,397.0,201.0,0.0,701.0,2510.0,64.2,1809.0,701.0
+North Monroe,Walton,4818.0,315.0,799.0,249.0,1.0,1364.0,277.0,667.0,484.0,3.0,1431.0,2795.0,58.0,1364.0,1431.0
+Broken Arrow,Walton,4380.0,580.0,1653.0,401.0,0.0,2634.0,63.0,286.0,213.0,0.0,562.0,3196.0,73.0,2634.0,562.0
+Bay Creek,Walton,3401.0,17.0,63.0,21.0,0.0,101.0,2.0,13.0,9.0,0.0,24.0,125.0,3.7,101.0,24.0
+E Monroe,Walton,4119.0,345.0,831.0,222.0,1.0,1399.0,208.0,439.0,239.0,4.0,890.0,2289.0,55.6,1399.0,890.0
+W Monroe,Walton,2027.0,238.0,852.0,211.0,0.0,1301.0,46.0,143.0,89.0,0.0,278.0,1579.0,77.9,1301.0,278.0
+Mountain,Walton,1657.0,280.0,587.0,160.0,0.0,1027.0,38.0,79.0,52.0,0.0,169.0,1196.0,72.2,1027.0,169.0
+Jersey,Walton,1970.0,666.0,589.0,173.0,1.0,1429.0,33.0,63.0,49.0,0.0,145.0,1574.0,79.9,1429.0,145.0
+Blasingame,Walton,1115.0,401.0,316.0,98.0,0.0,815.0,30.0,33.0,32.0,1.0,96.0,911.0,81.7,815.0,96.0
+Good Hope,Walton,2149.0,630.0,640.0,161.0,0.0,1431.0,47.0,95.0,72.0,0.0,214.0,1645.0,76.5,1431.0,214.0

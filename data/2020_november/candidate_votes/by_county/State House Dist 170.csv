@@ -1,4 +1,4 @@
-County,Registered Voters,Penny Houston (I) (Rep)_Election Day Votes,Penny Houston (I) (Rep)_Advanced Voting Votes,Penny Houston (I) (Rep)_Absentee by Mail Votes,Penny Houston (I) (Rep)_Provisional Votes,Penny Houston (I) (Rep)_Choice Total,Andre Oliver (Dem)_Election Day Votes,Andre Oliver (Dem)_Advanced Voting Votes,Andre Oliver (Dem)_Absentee by Mail Votes,Andre Oliver (Dem)_Provisional Votes,Andre Oliver (Dem)_Choice Total,Total,calc_participation
-Berrien,11275.0,1878.0,3882.0,834.0,9.0,6603.0,270.0,456.0,264.0,0.0,990.0,7593.0,67.3
-Cook,10632.0,1185.0,3369.0,532.0,0.0,5086.0,466.0,895.0,459.0,0.0,1820.0,6906.0,65.0
-Tift,16366.0,764.0,2652.0,513.0,8.0,3937.0,433.0,1161.0,569.0,6.0,2169.0,6106.0,37.3
+County,Registered Voters,Penny Houston (I) (Rep)_Election Day Votes,Penny Houston (I) (Rep)_Advanced Voting Votes,Penny Houston (I) (Rep)_Absentee by Mail Votes,Penny Houston (I) (Rep)_Provisional Votes,Penny Houston (I) (Rep)_Choice Total,Andre Oliver (Dem)_Election Day Votes,Andre Oliver (Dem)_Advanced Voting Votes,Andre Oliver (Dem)_Absentee by Mail Votes,Andre Oliver (Dem)_Provisional Votes,Andre Oliver (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Berrien,11275.0,1878.0,3882.0,834.0,9.0,6603.0,270.0,456.0,264.0,0.0,990.0,7593.0,67.3,6603.0,990.0
+Cook,10632.0,1185.0,3369.0,532.0,0.0,5086.0,466.0,895.0,459.0,0.0,1820.0,6906.0,65.0,5086.0,1820.0
+Tift,16366.0,764.0,2652.0,513.0,8.0,3937.0,433.0,1161.0,569.0,6.0,2169.0,6106.0,37.3,3937.0,2169.0

@@ -1,4 +1,4 @@
-County,Registered Voters,Clint Crowe (Rep)_Election Day Votes,Clint Crowe (Rep)_Advanced Voting Votes,Clint Crowe (Rep)_Absentee by Mail Votes,Clint Crowe (Rep)_Provisional Votes,Clint Crowe (Rep)_Choice Total,Ebony Carter (Dem)_Election Day Votes,Ebony Carter (Dem)_Advanced Voting Votes,Ebony Carter (Dem)_Absentee by Mail Votes,Ebony Carter (Dem)_Provisional Votes,Ebony Carter (Dem)_Choice Total,Total,calc_participation
-Butts,17154.0,455.0,3582.0,597.0,0.0,4634.0,120.0,604.0,301.0,0.0,1025.0,5659.0,33.0
-Henry,24381.0,1697.0,4984.0,1159.0,2.0,7842.0,1211.0,4260.0,2290.0,12.0,7773.0,15615.0,64.0
-Newton,18004.0,1359.0,1280.0,610.0,4.0,3253.0,845.0,1565.0,1248.0,3.0,3661.0,6914.0,38.4
+County,Registered Voters,Clint Crowe (Rep)_Election Day Votes,Clint Crowe (Rep)_Advanced Voting Votes,Clint Crowe (Rep)_Absentee by Mail Votes,Clint Crowe (Rep)_Provisional Votes,Clint Crowe (Rep)_Choice Total,Ebony Carter (Dem)_Election Day Votes,Ebony Carter (Dem)_Advanced Voting Votes,Ebony Carter (Dem)_Absentee by Mail Votes,Ebony Carter (Dem)_Provisional Votes,Ebony Carter (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Butts,17154.0,455.0,3582.0,597.0,0.0,4634.0,120.0,604.0,301.0,0.0,1025.0,5659.0,33.0,4634.0,1025.0
+Henry,24381.0,1697.0,4984.0,1159.0,2.0,7842.0,1211.0,4260.0,2290.0,12.0,7773.0,15615.0,64.0,7842.0,7773.0
+Newton,18004.0,1359.0,1280.0,610.0,4.0,3253.0,845.0,1565.0,1248.0,3.0,3661.0,6914.0,38.4,3253.0,3661.0

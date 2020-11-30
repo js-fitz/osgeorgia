@@ -1,8 +1,8 @@
-County,Registered Voters,Russ Goodman (Rep)_Election Day Votes,Russ Goodman (Rep)_Advanced Voting Votes,Russ Goodman (Rep)_Absentee by Mail Votes,Russ Goodman (Rep)_Provisional Votes,Russ Goodman (Rep)_Choice Total,Treva Gear (Dem)_Election Day Votes,Treva Gear (Dem)_Advanced Voting Votes,Treva Gear (Dem)_Absentee by Mail Votes,Treva Gear (Dem)_Provisional Votes,Treva Gear (Dem)_Choice Total,Total,calc_participation
-Brooks,11154.0,1389.0,2278.0,539.0,3.0,4209.0,499.0,1093.0,1052.0,3.0,2647.0,6856.0,61.5
-Clinch,4345.0,632.0,1303.0,231.0,1.0,2167.0,164.0,265.0,123.0,0.0,552.0,2719.0,62.6
-Cook,10632.0,1081.0,3208.0,490.0,0.0,4779.0,567.0,1027.0,505.0,1.0,2100.0,6879.0,64.7
-Echols,2156.0,210.0,904.0,121.0,0.0,1235.0,32.0,99.0,26.0,0.0,157.0,1392.0,64.6
-Lanier,5462.0,489.0,1766.0,274.0,0.0,2529.0,180.0,489.0,266.0,0.0,935.0,3464.0,63.4
-Lowndes,75356.0,5367.0,16837.0,3499.0,174.0,25877.0,2837.0,10639.0,5632.0,254.0,19362.0,45239.0,60.0
-Thomas,5004.0,669.0,1553.0,306.0,0.0,2528.0,212.0,535.0,319.0,0.0,1066.0,3594.0,71.8
+County,Registered Voters,Russ Goodman (Rep)_Election Day Votes,Russ Goodman (Rep)_Advanced Voting Votes,Russ Goodman (Rep)_Absentee by Mail Votes,Russ Goodman (Rep)_Provisional Votes,Russ Goodman (Rep)_Choice Total,Treva Gear (Dem)_Election Day Votes,Treva Gear (Dem)_Advanced Voting Votes,Treva Gear (Dem)_Absentee by Mail Votes,Treva Gear (Dem)_Provisional Votes,Treva Gear (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Brooks,11154.0,1389.0,2278.0,539.0,3.0,4209.0,499.0,1093.0,1052.0,3.0,2647.0,6856.0,61.5,4209.0,2647.0
+Clinch,4345.0,632.0,1303.0,231.0,1.0,2167.0,164.0,265.0,123.0,0.0,552.0,2719.0,62.6,2167.0,552.0
+Cook,10632.0,1081.0,3208.0,490.0,0.0,4779.0,567.0,1027.0,505.0,1.0,2100.0,6879.0,64.7,4779.0,2100.0
+Echols,2156.0,210.0,904.0,121.0,0.0,1235.0,32.0,99.0,26.0,0.0,157.0,1392.0,64.6,1235.0,157.0
+Lanier,5462.0,489.0,1766.0,274.0,0.0,2529.0,180.0,489.0,266.0,0.0,935.0,3464.0,63.4,2529.0,935.0
+Lowndes,75356.0,5367.0,16837.0,3499.0,174.0,25877.0,2837.0,10639.0,5632.0,254.0,19362.0,45239.0,60.0,25877.0,19362.0
+Thomas,5004.0,669.0,1553.0,306.0,0.0,2528.0,212.0,535.0,319.0,0.0,1066.0,3594.0,71.8,2528.0,1066.0

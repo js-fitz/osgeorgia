@@ -1,21 +1,21 @@
-Precinct,County,Registered Voters,Steven Meeks (I) (Rep)_Election Day Votes,Steven Meeks (I) (Rep)_Advanced Voting Votes,Steven Meeks (I) (Rep)_Absentee by Mail Votes,Steven Meeks (I) (Rep)_Provisional Votes,Steven Meeks (I) (Rep)_Choice Total,Total,calc_participation
-Odum,Wayne,1260.0,309.0,512.0,92.0,0.0,913.0,913.0,72.5
-Screven,Wayne,1849.0,478.0,621.0,151.0,2.0,1252.0,1252.0,67.7
-Empire,Wayne,1106.0,188.0,527.0,100.0,0.0,815.0,815.0,73.7
-Gardi,Wayne,1123.0,294.0,350.0,118.0,2.0,764.0,764.0,68.0
-Pine Street,Wayne,1140.0,27.0,139.0,48.0,0.0,214.0,214.0,18.8
-Rec Center,Wayne,1766.0,214.0,685.0,163.0,0.0,1062.0,1062.0,60.1
-Hacklebarney-Cason,Pierce,3524.0,275.0,1505.0,279.0,0.0,2059.0,2059.0,58.4
-Blackshear,Pierce,3207.0,301.0,1477.0,264.0,0.0,2042.0,2042.0,63.7
-St Johns-Blackshear,Pierce,1611.0,143.0,833.0,144.0,0.0,1120.0,1120.0,69.5
-Otter Creek,Pierce,1397.0,197.0,634.0,117.0,0.0,948.0,948.0,67.9
-Patterson,Pierce,1311.0,216.0,545.0,93.0,0.0,854.0,854.0,65.1
-Mershon,Pierce,478.0,37.0,253.0,51.0,0.0,341.0,341.0,71.3
-Alabaha,Pierce,918.0,74.0,466.0,58.0,0.0,598.0,598.0,65.1
-Sunset-Sweat,Pierce,271.0,27.0,160.0,32.0,0.0,219.0,219.0,80.8
-Hoboken,Brantley,3394.0,628.0,1296.0,253.0,0.0,2177.0,2177.0,64.1
-Nahunta,Brantley,4208.0,529.0,1677.0,259.0,4.0,2469.0,2469.0,58.7
-Waynesville,Brantley,4286.0,812.0,1276.0,226.0,3.0,2317.0,2317.0,54.1
-3C,Appling,1566.0,23.0,100.0,35.0,0.0,158.0,158.0,10.1
-4B,Appling,866.0,245.0,315.0,71.0,0.0,631.0,631.0,72.9
-4D,Appling,1493.0,242.0,628.0,169.0,1.0,1040.0,1040.0,69.7
+Precinct,County,Registered Voters,Steven Meeks (I) (Rep)_Election Day Votes,Steven Meeks (I) (Rep)_Advanced Voting Votes,Steven Meeks (I) (Rep)_Absentee by Mail Votes,Steven Meeks (I) (Rep)_Provisional Votes,Steven Meeks (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Odum,Wayne,1260.0,309.0,512.0,92.0,0.0,913.0,913.0,72.5,913.0
+Screven,Wayne,1849.0,478.0,621.0,151.0,2.0,1252.0,1252.0,67.7,1252.0
+Empire,Wayne,1106.0,188.0,527.0,100.0,0.0,815.0,815.0,73.7,815.0
+Gardi,Wayne,1123.0,294.0,350.0,118.0,2.0,764.0,764.0,68.0,764.0
+Pine Street,Wayne,1140.0,27.0,139.0,48.0,0.0,214.0,214.0,18.8,214.0
+Rec Center,Wayne,1766.0,214.0,685.0,163.0,0.0,1062.0,1062.0,60.1,1062.0
+Hacklebarney-Cason,Pierce,3524.0,275.0,1505.0,279.0,0.0,2059.0,2059.0,58.4,2059.0
+Blackshear,Pierce,3207.0,301.0,1477.0,264.0,0.0,2042.0,2042.0,63.7,2042.0
+St Johns-Blackshear,Pierce,1611.0,143.0,833.0,144.0,0.0,1120.0,1120.0,69.5,1120.0
+Otter Creek,Pierce,1397.0,197.0,634.0,117.0,0.0,948.0,948.0,67.9,948.0
+Patterson,Pierce,1311.0,216.0,545.0,93.0,0.0,854.0,854.0,65.1,854.0
+Mershon,Pierce,478.0,37.0,253.0,51.0,0.0,341.0,341.0,71.3,341.0
+Alabaha,Pierce,918.0,74.0,466.0,58.0,0.0,598.0,598.0,65.1,598.0
+Sunset-Sweat,Pierce,271.0,27.0,160.0,32.0,0.0,219.0,219.0,80.8,219.0
+Hoboken,Brantley,3394.0,628.0,1296.0,253.0,0.0,2177.0,2177.0,64.1,2177.0
+Nahunta,Brantley,4208.0,529.0,1677.0,259.0,4.0,2469.0,2469.0,58.7,2469.0
+Waynesville,Brantley,4286.0,812.0,1276.0,226.0,3.0,2317.0,2317.0,54.1,2317.0
+3C,Appling,1566.0,23.0,100.0,35.0,0.0,158.0,158.0,10.1,158.0
+4B,Appling,866.0,245.0,315.0,71.0,0.0,631.0,631.0,72.9,631.0
+4D,Appling,1493.0,242.0,628.0,169.0,1.0,1040.0,1040.0,69.7,1040.0

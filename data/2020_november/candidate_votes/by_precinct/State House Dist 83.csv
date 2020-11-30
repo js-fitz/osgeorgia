@@ -1,18 +1,18 @@
-Precinct,County,Registered Voters,Becky Evans (I) (Dem)_Election Day Votes,Becky Evans (I) (Dem)_Advanced Voting Votes,Becky Evans (I) (Dem)_Absentee by Mail Votes,Becky Evans (I) (Dem)_Provisional Votes,Becky Evans (I) (Dem)_Choice Total,Total,calc_participation
-Briar Vista Elem,DeKalb,2965.0,197.0,863.0,851.0,1.0,1912.0,1912.0,64.5
-Clifton,DeKalb,1731.0,125.0,529.0,327.0,4.0,985.0,985.0,56.9
-Cedar Grove Middle,DeKalb,1896.0,132.0,501.0,263.0,1.0,897.0,897.0,47.3
-Decatur,DeKalb,1937.0,85.0,896.0,499.0,0.0,1480.0,1480.0,76.4
-East Lake,DeKalb,4139.0,218.0,1506.0,925.0,5.0,2654.0,2654.0,64.1
-Emory South,DeKalb,3241.0,191.0,1061.0,924.0,6.0,2182.0,2182.0,67.3
-Fernbank Elem,DeKalb,2125.0,124.0,721.0,770.0,2.0,1617.0,1617.0,76.1
-Flat Shoals Elem,DeKalb,2409.0,203.0,638.0,414.0,3.0,1258.0,1258.0,52.2
-Flat Shoals,DeKalb,2649.0,189.0,655.0,456.0,4.0,1304.0,1304.0,49.2
-Harris-Narvie J Harris Elem,DeKalb,4031.0,180.0,1613.0,791.0,2.0,2586.0,2586.0,64.2
-Johnson Estates,DeKalb,1600.0,52.0,530.0,556.0,0.0,1138.0,1138.0,71.1
-Kelley Lake Elem,DeKalb,3015.0,281.0,759.0,558.0,1.0,1599.0,1599.0,53.0
-McNair,DeKalb,2794.0,180.0,835.0,595.0,6.0,1616.0,1616.0,57.8
-McNair Academy,DeKalb,1900.0,132.0,624.0,444.0,2.0,1202.0,1202.0,63.3
-Oakhurst,DeKalb,2398.0,113.0,1055.0,719.0,1.0,1888.0,1888.0,78.7
-Oak View Elem,DeKalb,5011.0,358.0,1725.0,745.0,9.0,2837.0,2837.0,56.6
-Ponce de Leon,DeKalb,3766.0,120.0,915.0,846.0,9.0,1890.0,1890.0,50.2
+Precinct,County,Registered Voters,Becky Evans (I) (Dem)_Election Day Votes,Becky Evans (I) (Dem)_Advanced Voting Votes,Becky Evans (I) (Dem)_Absentee by Mail Votes,Becky Evans (I) (Dem)_Provisional Votes,Becky Evans (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Briar Vista Elem,DeKalb,2965.0,197.0,863.0,851.0,1.0,1912.0,1912.0,64.5,1912.0
+Clifton,DeKalb,1731.0,125.0,529.0,327.0,4.0,985.0,985.0,56.9,985.0
+Cedar Grove Middle,DeKalb,1896.0,132.0,501.0,263.0,1.0,897.0,897.0,47.3,897.0
+Decatur,DeKalb,1937.0,85.0,896.0,499.0,0.0,1480.0,1480.0,76.4,1480.0
+East Lake,DeKalb,4139.0,218.0,1506.0,925.0,5.0,2654.0,2654.0,64.1,2654.0
+Emory South,DeKalb,3241.0,191.0,1061.0,924.0,6.0,2182.0,2182.0,67.3,2182.0
+Fernbank Elem,DeKalb,2125.0,124.0,721.0,770.0,2.0,1617.0,1617.0,76.1,1617.0
+Flat Shoals Elem,DeKalb,2409.0,203.0,638.0,414.0,3.0,1258.0,1258.0,52.2,1258.0
+Flat Shoals,DeKalb,2649.0,189.0,655.0,456.0,4.0,1304.0,1304.0,49.2,1304.0
+Harris-Narvie J Harris Elem,DeKalb,4031.0,180.0,1613.0,791.0,2.0,2586.0,2586.0,64.2,2586.0
+Johnson Estates,DeKalb,1600.0,52.0,530.0,556.0,0.0,1138.0,1138.0,71.1,1138.0
+Kelley Lake Elem,DeKalb,3015.0,281.0,759.0,558.0,1.0,1599.0,1599.0,53.0,1599.0
+McNair,DeKalb,2794.0,180.0,835.0,595.0,6.0,1616.0,1616.0,57.8,1616.0
+McNair Academy,DeKalb,1900.0,132.0,624.0,444.0,2.0,1202.0,1202.0,63.3,1202.0
+Oakhurst,DeKalb,2398.0,113.0,1055.0,719.0,1.0,1888.0,1888.0,78.7,1888.0
+Oak View Elem,DeKalb,5011.0,358.0,1725.0,745.0,9.0,2837.0,2837.0,56.6,2837.0
+Ponce de Leon,DeKalb,3766.0,120.0,915.0,846.0,9.0,1890.0,1890.0,50.2,1890.0

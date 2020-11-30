@@ -1,19 +1,19 @@
-Precinct,County,Registered Voters,Roger Bruce (I) (Dem)_Election Day Votes,Roger Bruce (I) (Dem)_Advanced Voting Votes,Roger Bruce (I) (Dem)_Absentee by Mail Votes,Roger Bruce (I) (Dem)_Provisional Votes,Roger Bruce (I) (Dem)_Choice Total,Total,calc_participation
-10A,Fulton,3186.0,236.0,939.0,520.0,4.0,1699.0,1699.0,53.3
-10C,Fulton,2598.0,140.0,680.0,314.0,2.0,1136.0,1136.0,43.7
-11E1,Fulton,1340.0,118.0,387.0,164.0,2.0,671.0,671.0,50.1
-11E3,Fulton,3605.0,268.0,1347.0,338.0,2.0,1955.0,1955.0,54.2
-FC01,Fulton,325.0,21.0,131.0,26.0,2.0,180.0,180.0,55.4
-FC02,Fulton,585.0,14.0,25.0,8.0,2.0,49.0,49.0,8.4
-FC03,Fulton,17.0,1.0,8.0,0.0,6.0,15.0,15.0,88.2
-SC01A,Fulton,41.0,2.0,41.0,7.0,0.0,50.0,50.0,122.0
-SC01B,Fulton,2088.0,122.0,1125.0,300.0,10.0,1557.0,1557.0,74.6
-SC01C,Fulton,2249.0,86.0,1050.0,449.0,2.0,1587.0,1587.0,70.6
-SC14A,Fulton,1030.0,68.0,322.0,100.0,0.0,490.0,490.0,47.6
-SC16A,Fulton,5175.0,288.0,2441.0,856.0,0.0,3585.0,3585.0,69.3
-SC18A,Fulton,570.0,42.0,218.0,118.0,0.0,378.0,378.0,66.3
-Atlanta West Pentecostal,Douglas,4076.0,427.0,1009.0,547.0,1.0,1984.0,1984.0,48.7
-Turner,Douglas,3847.0,397.0,909.0,551.0,0.0,1857.0,1857.0,48.3
-First Baptist Lithia Springs,Douglas,1966.0,200.0,405.0,289.0,5.0,899.0,899.0,45.7
-Lithia Springs High School,Douglas,6033.0,413.0,1992.0,1169.0,1.0,3575.0,3575.0,59.3
-Clarkdale 02,Cobb,5372.0,436.0,1217.0,774.0,1.0,2428.0,2428.0,45.2
+Precinct,County,Registered Voters,Roger Bruce (I) (Dem)_Election Day Votes,Roger Bruce (I) (Dem)_Advanced Voting Votes,Roger Bruce (I) (Dem)_Absentee by Mail Votes,Roger Bruce (I) (Dem)_Provisional Votes,Roger Bruce (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+10A,Fulton,3186.0,236.0,939.0,520.0,4.0,1699.0,1699.0,53.3,1699.0
+10C,Fulton,2598.0,140.0,680.0,314.0,2.0,1136.0,1136.0,43.7,1136.0
+11E1,Fulton,1340.0,118.0,387.0,164.0,2.0,671.0,671.0,50.1,671.0
+11E3,Fulton,3605.0,268.0,1347.0,338.0,2.0,1955.0,1955.0,54.2,1955.0
+FC01,Fulton,325.0,21.0,131.0,26.0,2.0,180.0,180.0,55.4,180.0
+FC02,Fulton,585.0,14.0,25.0,8.0,2.0,49.0,49.0,8.4,49.0
+FC03,Fulton,17.0,1.0,8.0,0.0,6.0,15.0,15.0,88.2,15.0
+SC01A,Fulton,41.0,2.0,41.0,7.0,0.0,50.0,50.0,122.0,50.0
+SC01B,Fulton,2088.0,122.0,1125.0,300.0,10.0,1557.0,1557.0,74.6,1557.0
+SC01C,Fulton,2249.0,86.0,1050.0,449.0,2.0,1587.0,1587.0,70.6,1587.0
+SC14A,Fulton,1030.0,68.0,322.0,100.0,0.0,490.0,490.0,47.6,490.0
+SC16A,Fulton,5175.0,288.0,2441.0,856.0,0.0,3585.0,3585.0,69.3,3585.0
+SC18A,Fulton,570.0,42.0,218.0,118.0,0.0,378.0,378.0,66.3,378.0
+Atlanta West Pentecostal,Douglas,4076.0,427.0,1009.0,547.0,1.0,1984.0,1984.0,48.7,1984.0
+Turner,Douglas,3847.0,397.0,909.0,551.0,0.0,1857.0,1857.0,48.3,1857.0
+First Baptist Lithia Springs,Douglas,1966.0,200.0,405.0,289.0,5.0,899.0,899.0,45.7,899.0
+Lithia Springs High School,Douglas,6033.0,413.0,1992.0,1169.0,1.0,3575.0,3575.0,59.3,3575.0
+Clarkdale 02,Cobb,5372.0,436.0,1217.0,774.0,1.0,2428.0,2428.0,45.2,2428.0

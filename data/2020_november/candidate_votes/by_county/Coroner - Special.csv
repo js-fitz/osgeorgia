@@ -1,2 +1,2 @@
-County,Precinct,Registered Voters,Hollis Harrison (Rep)_Election Day Votes,Hollis Harrison (Rep)_Advanced Voting Votes,Hollis Harrison (Rep)_Absentee by Mail Votes,Hollis Harrison (Rep)_Provisional Votes,Hollis Harrison (Rep)_Choice Total,Total,calc_participation
-Putnam,523.0,16003.0,1834.0,5754.0,2508.0,0.0,10096.0,10096.0,63.1
+County,Precinct,Registered Voters,Hollis Harrison (Rep)_Election Day Votes,Hollis Harrison (Rep)_Advanced Voting Votes,Hollis Harrison (Rep)_Absentee by Mail Votes,Hollis Harrison (Rep)_Provisional Votes,Hollis Harrison (Rep)_Choice Total,Total,calc_participation,Rep_total
+Putnam,523.0,16003.0,1834.0,5754.0,2508.0,0.0,10096.0,10096.0,63.1,10096.0

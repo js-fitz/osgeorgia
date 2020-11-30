@@ -1,5 +1,5 @@
-County,Registered Voters,Chuck Hufstetler (I) (Rep)_Election Day Votes,Chuck Hufstetler (I) (Rep)_Advanced Voting Votes,Chuck Hufstetler (I) (Rep)_Absentee by Mail Votes,Chuck Hufstetler (I) (Rep)_Provisional Votes,Chuck Hufstetler (I) (Rep)_Choice Total,Charles DeYoung (Dem)_Election Day Votes,Charles DeYoung (Dem)_Advanced Voting Votes,Charles DeYoung (Dem)_Absentee by Mail Votes,Charles DeYoung (Dem)_Provisional Votes,Charles DeYoung (Dem)_Choice Total,Total,calc_participation
-Bartow,41753.0,4336.0,8949.0,2569.0,6.0,15860.0,810.0,2005.0,1563.0,1.0,4379.0,20239.0,48.5
-Chattooga,1320.0,272.0,386.0,87.0,1.0,746.0,45.0,76.0,57.0,0.0,178.0,924.0,70.0
-Floyd,60650.0,7875.0,17127.0,5120.0,110.0,30232.0,2091.0,5013.0,3168.0,42.0,10314.0,40546.0,66.9
-Gordon,23583.0,3235.0,5947.0,1594.0,7.0,10783.0,666.0,1321.0,896.0,1.0,2884.0,13667.0,58.0
+County,Registered Voters,Chuck Hufstetler (I) (Rep)_Election Day Votes,Chuck Hufstetler (I) (Rep)_Advanced Voting Votes,Chuck Hufstetler (I) (Rep)_Absentee by Mail Votes,Chuck Hufstetler (I) (Rep)_Provisional Votes,Chuck Hufstetler (I) (Rep)_Choice Total,Charles DeYoung (Dem)_Election Day Votes,Charles DeYoung (Dem)_Advanced Voting Votes,Charles DeYoung (Dem)_Absentee by Mail Votes,Charles DeYoung (Dem)_Provisional Votes,Charles DeYoung (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Bartow,41753.0,4336.0,8949.0,2569.0,6.0,15860.0,810.0,2005.0,1563.0,1.0,4379.0,20239.0,48.5,15860.0,4379.0
+Chattooga,1320.0,272.0,386.0,87.0,1.0,746.0,45.0,76.0,57.0,0.0,178.0,924.0,70.0,746.0,178.0
+Floyd,60650.0,7875.0,17127.0,5120.0,110.0,30232.0,2091.0,5013.0,3168.0,42.0,10314.0,40546.0,66.9,30232.0,10314.0
+Gordon,23583.0,3235.0,5947.0,1594.0,7.0,10783.0,666.0,1321.0,896.0,1.0,2884.0,13667.0,58.0,10783.0,2884.0

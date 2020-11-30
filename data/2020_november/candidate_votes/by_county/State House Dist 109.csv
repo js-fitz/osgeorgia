@@ -1,4 +1,4 @@
-County,Registered Voters,Dale Rutledge (I) (Rep)_Election Day Votes,Dale Rutledge (I) (Rep)_Advanced Voting Votes,Dale Rutledge (I) (Rep)_Absentee by Mail Votes,Dale Rutledge (I) (Rep)_Provisional Votes,Dale Rutledge (I) (Rep)_Choice Total,Regina Lewis-Ward (Dem)_Election Day Votes,Regina Lewis-Ward (Dem)_Advanced Voting Votes,Regina Lewis-Ward (Dem)_Absentee by Mail Votes,Regina Lewis-Ward (Dem)_Provisional Votes,Regina Lewis-Ward (Dem)_Choice Total,Total,calc_participation
-Henry,44340.0,2615.0,8474.0,2189.0,3.0,13281.0,1536.0,8058.0,3787.0,0.0,13381.0,26662.0,60.1
-Newton,6215.0,330.0,377.0,135.0,0.0,842.0,211.0,458.0,337.0,0.0,1006.0,1848.0,29.7
-Rockdale,7983.0,334.0,990.0,378.0,0.0,1702.0,324.0,1532.0,766.0,0.0,2622.0,4324.0,54.2
+County,Registered Voters,Dale Rutledge (I) (Rep)_Election Day Votes,Dale Rutledge (I) (Rep)_Advanced Voting Votes,Dale Rutledge (I) (Rep)_Absentee by Mail Votes,Dale Rutledge (I) (Rep)_Provisional Votes,Dale Rutledge (I) (Rep)_Choice Total,Regina Lewis-Ward (Dem)_Election Day Votes,Regina Lewis-Ward (Dem)_Advanced Voting Votes,Regina Lewis-Ward (Dem)_Absentee by Mail Votes,Regina Lewis-Ward (Dem)_Provisional Votes,Regina Lewis-Ward (Dem)_Choice Total,Total,calc_participation,Rep_total,Dem_total
+Henry,44340.0,2615.0,8474.0,2189.0,3.0,13281.0,1536.0,8058.0,3787.0,0.0,13381.0,26662.0,60.1,13281.0,13381.0
+Newton,6215.0,330.0,377.0,135.0,0.0,842.0,211.0,458.0,337.0,0.0,1006.0,1848.0,29.7,842.0,1006.0
+Rockdale,7983.0,334.0,990.0,378.0,0.0,1702.0,324.0,1532.0,766.0,0.0,2622.0,4324.0,54.2,1702.0,2622.0

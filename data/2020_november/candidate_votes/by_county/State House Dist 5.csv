@@ -1,3 +1,3 @@
-County,Registered Voters,Matt Barton (I) (Rep)_Election Day Votes,Matt Barton (I) (Rep)_Advanced Voting Votes,Matt Barton (I) (Rep)_Absentee by Mail Votes,Matt Barton (I) (Rep)_Provisional Votes,Matt Barton (I) (Rep)_Choice Total,Total,calc_participation
-Gordon,32999.0,5748.0,9321.0,2585.0,10.0,17664.0,17664.0,53.5
-Murray,3215.0,702.0,839.0,216.0,0.0,1757.0,1757.0,54.7
+County,Registered Voters,Matt Barton (I) (Rep)_Election Day Votes,Matt Barton (I) (Rep)_Advanced Voting Votes,Matt Barton (I) (Rep)_Absentee by Mail Votes,Matt Barton (I) (Rep)_Provisional Votes,Matt Barton (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Gordon,32999.0,5748.0,9321.0,2585.0,10.0,17664.0,17664.0,53.5,17664.0
+Murray,3215.0,702.0,839.0,216.0,0.0,1757.0,1757.0,54.7,1757.0

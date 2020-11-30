@@ -1,7 +1,7 @@
-County,Registered Voters,Billy Hickman (I) (Rep)_Election Day Votes,Billy Hickman (I) (Rep)_Advanced Voting Votes,Billy Hickman (I) (Rep)_Absentee by Mail Votes,Billy Hickman (I) (Rep)_Provisional Votes,Billy Hickman (I) (Rep)_Choice Total,Total,calc_participation
-Bulloch,44738.0,7996.0,11598.0,4239.0,40.0,23873.0,23873.0,53.4
-Candler,6300.0,554.0,2627.0,547.0,0.0,3728.0,3728.0,59.2
-Effingham,44273.0,8351.0,14870.0,3522.0,20.0,26763.0,26763.0,60.4
-Emanuel,9493.0,1610.0,2460.0,826.0,1.0,4897.0,4897.0,51.6
-Evans,6135.0,593.0,2231.0,635.0,0.0,3459.0,3459.0,56.4
-Tattnall,5008.0,755.0,1649.0,368.0,0.0,2772.0,2772.0,55.4
+County,Registered Voters,Billy Hickman (I) (Rep)_Election Day Votes,Billy Hickman (I) (Rep)_Advanced Voting Votes,Billy Hickman (I) (Rep)_Absentee by Mail Votes,Billy Hickman (I) (Rep)_Provisional Votes,Billy Hickman (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Bulloch,44738.0,7996.0,11598.0,4239.0,40.0,23873.0,23873.0,53.4,23873.0
+Candler,6300.0,554.0,2627.0,547.0,0.0,3728.0,3728.0,59.2,3728.0
+Effingham,44273.0,8351.0,14870.0,3522.0,20.0,26763.0,26763.0,60.4,26763.0
+Emanuel,9493.0,1610.0,2460.0,826.0,1.0,4897.0,4897.0,51.6,4897.0
+Evans,6135.0,593.0,2231.0,635.0,0.0,3459.0,3459.0,56.4,3459.0
+Tattnall,5008.0,755.0,1649.0,368.0,0.0,2772.0,2772.0,55.4,2772.0

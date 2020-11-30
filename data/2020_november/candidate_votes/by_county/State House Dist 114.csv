@@ -1,5 +1,5 @@
-County,Registered Voters,Tom Kirby (I) (Rep)_Election Day Votes,Tom Kirby (I) (Rep)_Advanced Voting Votes,Tom Kirby (I) (Rep)_Absentee by Mail Votes,Tom Kirby (I) (Rep)_Provisional Votes,Tom Kirby (I) (Rep)_Choice Total,Total,calc_participation
-Barrow,13707.0,1122.0,3030.0,865.0,2.0,5019.0,5019.0,36.6
-Gwinnett,13052.0,604.0,2270.0,849.0,0.0,3723.0,3723.0,28.5
-Rockdale,13657.0,450.0,1095.0,366.0,0.0,1911.0,1911.0,14.0
-Walton,30241.0,3245.0,10185.0,3239.0,9.0,16678.0,16678.0,55.2
+County,Registered Voters,Tom Kirby (I) (Rep)_Election Day Votes,Tom Kirby (I) (Rep)_Advanced Voting Votes,Tom Kirby (I) (Rep)_Absentee by Mail Votes,Tom Kirby (I) (Rep)_Provisional Votes,Tom Kirby (I) (Rep)_Choice Total,Total,calc_participation,Rep_total
+Barrow,13707.0,1122.0,3030.0,865.0,2.0,5019.0,5019.0,36.6,5019.0
+Gwinnett,13052.0,604.0,2270.0,849.0,0.0,3723.0,3723.0,28.5,3723.0
+Rockdale,13657.0,450.0,1095.0,366.0,0.0,1911.0,1911.0,14.0,1911.0
+Walton,30241.0,3245.0,10185.0,3239.0,9.0,16678.0,16678.0,55.2,16678.0

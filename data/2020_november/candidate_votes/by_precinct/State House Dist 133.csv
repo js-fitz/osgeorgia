@@ -1,19 +1,19 @@
-Precinct,County,Registered Voters,"Vance Smith, Jr. (I) (Rep)_Election Day Votes","Vance Smith, Jr. (I) (Rep)_Advanced Voting Votes","Vance Smith, Jr. (I) (Rep)_Absentee by Mail Votes","Vance Smith, Jr. (I) (Rep)_Provisional Votes","Vance Smith, Jr. (I) (Rep)_Choice Total",Total,calc_participation
-Goodman,Harris,1649.0,336.0,412.0,200.0,1.0,949.0,949.0,57.6
-Hamilton,Harris,2739.0,522.0,904.0,276.0,5.0,1707.0,1707.0,62.3
-Lower 19th,Harris,2570.0,698.0,766.0,301.0,2.0,1767.0,1767.0,68.8
-Mulberry Grove,Harris,2908.0,615.0,1097.0,354.0,0.0,2066.0,2066.0,71.0
-Pine Mountain Valley,Harris,1121.0,440.0,229.0,101.0,2.0,772.0,772.0,68.9
-Skinner,Harris,894.0,302.0,135.0,104.0,2.0,543.0,543.0,60.7
-Upper 19th,Harris,1628.0,458.0,549.0,179.0,2.0,1188.0,1188.0,73.0
-Whitesville,Harris,1370.0,460.0,336.0,153.0,0.0,949.0,949.0,69.3
-St Mark/Heiferhorn,Muscogee,6492.0,668.0,2513.0,924.0,8.0,4113.0,4113.0,63.4
-Wynnbrook,Muscogee,2692.0,288.0,990.0,563.0,1.0,1842.0,1842.0,68.4
-Hollis Hand,Troup,3554.0,512.0,1328.0,555.0,0.0,2395.0,2395.0,67.4
-Administration Bldg,Troup,3907.0,85.0,148.0,86.0,1.0,320.0,320.0,8.2
-West Point,Troup,2054.0,299.0,253.0,150.0,4.0,706.0,706.0,34.4
-Rosemont,Troup,3893.0,563.0,1531.0,447.0,3.0,2544.0,2544.0,65.3
-Long Cane,Troup,3249.0,671.0,1071.0,282.0,3.0,2027.0,2027.0,62.4
-Gray Hill,Troup,1878.0,499.0,487.0,128.0,4.0,1118.0,1118.0,59.5
-Highland,Troup,1686.0,0.0,2.0,3.0,0.0,5.0,5.0,0.3
-Northside,Troup,2600.0,35.0,38.0,9.0,1.0,83.0,83.0,3.2
+Precinct,County,Registered Voters,"Vance Smith, Jr. (I) (Rep)_Election Day Votes","Vance Smith, Jr. (I) (Rep)_Advanced Voting Votes","Vance Smith, Jr. (I) (Rep)_Absentee by Mail Votes","Vance Smith, Jr. (I) (Rep)_Provisional Votes","Vance Smith, Jr. (I) (Rep)_Choice Total",Total,calc_participation,Rep_total
+Goodman,Harris,1649.0,336.0,412.0,200.0,1.0,949.0,949.0,57.6,949.0
+Hamilton,Harris,2739.0,522.0,904.0,276.0,5.0,1707.0,1707.0,62.3,1707.0
+Lower 19th,Harris,2570.0,698.0,766.0,301.0,2.0,1767.0,1767.0,68.8,1767.0
+Mulberry Grove,Harris,2908.0,615.0,1097.0,354.0,0.0,2066.0,2066.0,71.0,2066.0
+Pine Mountain Valley,Harris,1121.0,440.0,229.0,101.0,2.0,772.0,772.0,68.9,772.0
+Skinner,Harris,894.0,302.0,135.0,104.0,2.0,543.0,543.0,60.7,543.0
+Upper 19th,Harris,1628.0,458.0,549.0,179.0,2.0,1188.0,1188.0,73.0,1188.0
+Whitesville,Harris,1370.0,460.0,336.0,153.0,0.0,949.0,949.0,69.3,949.0
+St Mark/Heiferhorn,Muscogee,6492.0,668.0,2513.0,924.0,8.0,4113.0,4113.0,63.4,4113.0
+Wynnbrook,Muscogee,2692.0,288.0,990.0,563.0,1.0,1842.0,1842.0,68.4,1842.0
+Hollis Hand,Troup,3554.0,512.0,1328.0,555.0,0.0,2395.0,2395.0,67.4,2395.0
+Administration Bldg,Troup,3907.0,85.0,148.0,86.0,1.0,320.0,320.0,8.2,320.0
+West Point,Troup,2054.0,299.0,253.0,150.0,4.0,706.0,706.0,34.4,706.0
+Rosemont,Troup,3893.0,563.0,1531.0,447.0,3.0,2544.0,2544.0,65.3,2544.0
+Long Cane,Troup,3249.0,671.0,1071.0,282.0,3.0,2027.0,2027.0,62.4,2027.0
+Gray Hill,Troup,1878.0,499.0,487.0,128.0,4.0,1118.0,1118.0,59.5,1118.0
+Highland,Troup,1686.0,0.0,2.0,3.0,0.0,5.0,5.0,0.3,5.0
+Northside,Troup,2600.0,35.0,38.0,9.0,1.0,83.0,83.0,3.2,83.0

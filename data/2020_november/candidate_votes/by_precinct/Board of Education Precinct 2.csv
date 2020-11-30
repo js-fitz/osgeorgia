@@ -1,2 +1,2 @@
-Precinct,County,Registered Voters,Bobby E. Paul (I) (Dem)_Election Day Votes,Bobby E. Paul (I) (Dem)_Advanced Voting Votes,Bobby E. Paul (I) (Dem)_Absentee by Mail Votes,Bobby E. Paul (I) (Dem)_Provisional Votes,Bobby E. Paul (I) (Dem)_Choice Total,Total,calc_participation
-Morgan,Calhoun,662.0,91.0,225.0,111.0,0.0,427.0,427.0,64.5
+Precinct,County,Registered Voters,Bobby E. Paul (I) (Dem)_Election Day Votes,Bobby E. Paul (I) (Dem)_Advanced Voting Votes,Bobby E. Paul (I) (Dem)_Absentee by Mail Votes,Bobby E. Paul (I) (Dem)_Provisional Votes,Bobby E. Paul (I) (Dem)_Choice Total,Total,calc_participation,Dem_total
+Morgan,Calhoun,662.0,91.0,225.0,111.0,0.0,427.0,427.0,64.5,427.0
