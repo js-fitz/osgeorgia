@@ -1,31 +1,7 @@
-,Precinct,County,Registered Voters,Bill Doupe (I) (Dem)_Election Day Votes,Bill Doupe (I) (Dem)_Advanced Voting Votes,Bill Doupe (I) (Dem)_Absentee by Mail Votes,Bill Doupe (I) (Dem)_Provisional Votes,Bill Doupe (I) (Dem)_Choice Total,Total,calc_participation
-19,Mitchell,Glascock,448.0,79.0,72.0,39.0,0.0,190.0,190.0,42.4
-17,Gibson,Glascock,677.0,75.0,138.0,33.0,0.0,246.0,246.0,36.3
-16,Edgehill,Glascock,136.0,25.0,27.0,3.0,0.0,55.0,55.0,40.4
-18,Mill,Glascock,778.0,95.0,183.0,41.0,0.0,319.0,319.0,41.0
-6,Martins Crossroad,Lincoln,1234.0,179.0,325.0,121.0,1.0,626.0,626.0,50.7
-0,Midway,Lincoln,587.0,95.0,131.0,83.0,0.0,309.0,309.0,52.6
-4,Tabernacle,Lincoln,1003.0,140.0,236.0,150.0,0.0,526.0,526.0,52.4
-3,Faith Temple of Lincoln,Lincoln,489.0,71.0,122.0,66.0,0.0,259.0,259.0,53.0
-2,Lincoln Center,Lincoln,1489.0,163.0,464.0,146.0,0.0,773.0,773.0,51.9
-1,Lincoln Club House,Lincoln,799.0,95.0,184.0,146.0,2.0,427.0,427.0,53.4
-5,Bethany Church,Lincoln,575.0,81.0,145.0,54.0,0.0,280.0,280.0,48.7
-27,137,McDuffie,1202.0,74.0,508.0,138.0,0.0,720.0,720.0,59.9
-26,136,McDuffie,1940.0,179.0,458.0,328.0,0.0,965.0,965.0,49.7
-24,134,McDuffie,1908.0,154.0,625.0,376.0,0.0,1155.0,1155.0,60.5
-23,133B,McDuffie,1959.0,186.0,732.0,189.0,0.0,1107.0,1107.0,56.5
-22,133A,McDuffie,1278.0,114.0,397.0,140.0,0.0,651.0,651.0,50.9
-21,132,McDuffie,1507.0,92.0,620.0,152.0,0.0,864.0,864.0,57.3
-28,139,McDuffie,978.0,83.0,358.0,142.0,0.0,583.0,583.0,59.6
-20,131,McDuffie,1172.0,98.0,344.0,225.0,0.0,667.0,667.0,56.9
-25,135,McDuffie,3089.0,213.0,1184.0,378.0,0.0,1775.0,1775.0,57.5
-14,Sharon,Taliaferro,253.0,53.0,47.0,39.0,0.0,139.0,139.0,54.9
-15,Crawfordville,Taliaferro,992.0,98.0,251.0,184.0,0.0,533.0,533.0,53.7
-29,Warrenton,Warren,3785.0,403.0,1109.0,630.0,0.0,2142.0,2142.0,56.6
-13,Tignal Sch Lunch Rm,Wilkes,896.0,198.0,219.0,154.0,0.0,571.0,571.0,63.7
-12,Courthouse,Wilkes,1001.0,102.0,364.0,146.0,0.0,612.0,612.0,61.1
-11,Rayle City Hall,Wilkes,570.0,129.0,119.0,77.0,1.0,326.0,326.0,57.2
-10,Edward B Pope Center,Wilkes,1017.0,159.0,283.0,133.0,0.0,575.0,575.0,56.5
-9,Metasville Fire Sta,Wilkes,610.0,103.0,152.0,95.0,0.0,350.0,350.0,57.4
-8,Young Farmers Bldg,Wilkes,1173.0,124.0,431.0,162.0,1.0,718.0,718.0,61.2
-7,Senior Citizen Center,Wilkes,1552.0,173.0,474.0,245.0,5.0,897.0,897.0,57.8
+County,Registered Voters,Bill Doupe (I) (Dem)_Election Day Votes,Bill Doupe (I) (Dem)_Advanced Voting Votes,Bill Doupe (I) (Dem)_Absentee by Mail Votes,Bill Doupe (I) (Dem)_Provisional Votes,Bill Doupe (I) (Dem)_Choice Total,Total,calc_participation
+Glascock,2039.0,274.0,420.0,116.0,0.0,810.0,810.0,39.7
+Lincoln,6176.0,824.0,1607.0,766.0,3.0,3200.0,3200.0,51.8
+McDuffie,15033.0,1193.0,5226.0,2068.0,0.0,8487.0,8487.0,56.5
+Taliaferro,1245.0,151.0,298.0,223.0,0.0,672.0,672.0,54.0
+Warren,3785.0,403.0,1109.0,630.0,0.0,2142.0,2142.0,56.6
+Wilkes,6819.0,988.0,2042.0,1012.0,7.0,4049.0,4049.0,59.4

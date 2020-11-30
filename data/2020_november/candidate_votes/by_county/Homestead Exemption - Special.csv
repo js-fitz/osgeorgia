@@ -1,13 +1,2 @@
-,Precinct,County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
-0,Bremen,Haralson,6622.0,192.0,486.0,214.0,0.0,892.0,34.0,80.0,32.0,0.0,146.0,1038.0,15.7
-1,Buchanan,Haralson,2365.0,353.0,769.0,243.0,1.0,1366.0,68.0,115.0,35.0,0.0,218.0,1584.0,67.0
-2,Buncombe,Haralson,1075.0,268.0,242.0,95.0,0.0,605.0,47.0,25.0,11.0,0.0,83.0,688.0,64.0
-3,Corinth,Haralson,1682.0,354.0,476.0,151.0,0.0,981.0,45.0,68.0,18.0,0.0,131.0,1112.0,66.1
-4,Twentieth,Haralson,738.0,190.0,182.0,85.0,0.0,457.0,38.0,23.0,6.0,0.0,67.0,524.0,71.0
-5,Felton,Haralson,304.0,97.0,68.0,25.0,0.0,190.0,16.0,6.0,2.0,0.0,24.0,214.0,70.4
-6,Little Creek,Haralson,699.0,233.0,152.0,72.0,0.0,457.0,41.0,18.0,6.0,0.0,65.0,522.0,74.7
-7,Mt View,Haralson,330.0,125.0,61.0,26.0,0.0,212.0,16.0,11.0,4.0,0.0,31.0,243.0,73.6
-8,Seventh,Haralson,1932.0,343.0,551.0,176.0,1.0,1071.0,60.0,80.0,35.0,1.0,176.0,1247.0,64.5
-9,Berea-Steadman,Haralson,665.0,187.0,145.0,53.0,0.0,385.0,33.0,23.0,7.0,0.0,63.0,448.0,67.4
-10,Tallapoosa,Haralson,3072.0,551.0,809.0,349.0,1.0,1710.0,87.0,128.0,39.0,0.0,254.0,1964.0,63.9
-11,Waco,Haralson,1183.0,296.0,274.0,94.0,0.0,664.0,50.0,42.0,13.0,0.0,105.0,769.0,65.0
+County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
+Haralson,20667.0,3189.0,4215.0,1583.0,3.0,8990.0,535.0,619.0,208.0,1.0,1363.0,10353.0,50.1

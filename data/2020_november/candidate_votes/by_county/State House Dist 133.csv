@@ -1,19 +1,4 @@
-,Precinct,County,Registered Voters,"Vance Smith, Jr. (I) (Rep)_Election Day Votes","Vance Smith, Jr. (I) (Rep)_Advanced Voting Votes","Vance Smith, Jr. (I) (Rep)_Absentee by Mail Votes","Vance Smith, Jr. (I) (Rep)_Provisional Votes","Vance Smith, Jr. (I) (Rep)_Choice Total",Total,calc_participation
-0,Goodman,Harris,1649.0,336.0,412.0,200.0,1.0,949.0,949.0,57.6
-1,Hamilton,Harris,2739.0,522.0,904.0,276.0,5.0,1707.0,1707.0,62.3
-2,Lower 19th,Harris,2570.0,698.0,766.0,301.0,2.0,1767.0,1767.0,68.8
-3,Mulberry Grove,Harris,2908.0,615.0,1097.0,354.0,0.0,2066.0,2066.0,71.0
-4,Pine Mountain Valley,Harris,1121.0,440.0,229.0,101.0,2.0,772.0,772.0,68.9
-5,Skinner,Harris,894.0,302.0,135.0,104.0,2.0,543.0,543.0,60.7
-6,Upper 19th,Harris,1628.0,458.0,549.0,179.0,2.0,1188.0,1188.0,73.0
-7,Whitesville,Harris,1370.0,460.0,336.0,153.0,0.0,949.0,949.0,69.3
-9,Wynnbrook,Muscogee,2692.0,288.0,990.0,563.0,1.0,1842.0,1842.0,68.4
-8,St Mark/Heiferhorn,Muscogee,6492.0,668.0,2513.0,924.0,8.0,4113.0,4113.0,63.4
-10,Hollis Hand,Troup,3554.0,512.0,1328.0,555.0,0.0,2395.0,2395.0,67.4
-11,Administration Bldg,Troup,3907.0,85.0,148.0,86.0,1.0,320.0,320.0,8.2
-12,West Point,Troup,2054.0,299.0,253.0,150.0,4.0,706.0,706.0,34.4
-13,Rosemont,Troup,3893.0,563.0,1531.0,447.0,3.0,2544.0,2544.0,65.3
-14,Long Cane,Troup,3249.0,671.0,1071.0,282.0,3.0,2027.0,2027.0,62.4
-15,Gray Hill,Troup,1878.0,499.0,487.0,128.0,4.0,1118.0,1118.0,59.5
-16,Highland,Troup,1686.0,0.0,2.0,3.0,0.0,5.0,5.0,0.3
-17,Northside,Troup,2600.0,35.0,38.0,9.0,1.0,83.0,83.0,3.2
+County,Registered Voters,"Vance Smith, Jr. (I) (Rep)_Election Day Votes","Vance Smith, Jr. (I) (Rep)_Advanced Voting Votes","Vance Smith, Jr. (I) (Rep)_Absentee by Mail Votes","Vance Smith, Jr. (I) (Rep)_Provisional Votes","Vance Smith, Jr. (I) (Rep)_Choice Total",Total,calc_participation
+Harris,14879.0,3831.0,4428.0,1668.0,14.0,9941.0,9941.0,66.8
+Muscogee,9184.0,956.0,3503.0,1487.0,9.0,5955.0,5955.0,64.8
+Troup,22821.0,2664.0,4858.0,1660.0,16.0,9198.0,9198.0,40.3

@@ -1,9 +1,2 @@
-,Precinct,County,Registered Voters,Marvin Lim (Dem)_Election Day Votes,Marvin Lim (Dem)_Advanced Voting Votes,Marvin Lim (Dem)_Absentee by Mail Votes,Marvin Lim (Dem)_Provisional Votes,Marvin Lim (Dem)_Choice Total,Total,calc_participation
-0,PINCKNEYVILLE B,Gwinnett,3485.0,353.0,842.0,436.0,1.0,1632.0,1632.0,46.8
-1,PINCKNEYVILLE D,Gwinnett,2264.0,306.0,490.0,246.0,1.0,1043.0,1043.0,46.1
-2,PINCKNEYVILLE J,Gwinnett,2613.0,315.0,690.0,302.0,2.0,1309.0,1309.0,50.1
-3,PINCKNEYVILLE K,Gwinnett,3754.0,451.0,910.0,493.0,2.0,1856.0,1856.0,49.4
-4,BERKSHIRE H,Gwinnett,1987.0,210.0,412.0,312.0,2.0,936.0,936.0,47.1
-5,PINCKNEYVILLE O,Gwinnett,3359.0,346.0,891.0,408.0,2.0,1647.0,1647.0,49.0
-6,PINCKNEYVILLE V,Gwinnett,1706.0,165.0,409.0,244.0,1.0,819.0,819.0,48.0
-7,PINCKNEYVILLE Y,Gwinnett,3272.0,193.0,334.0,173.0,1.0,701.0,701.0,21.4
+County,Registered Voters,Marvin Lim (Dem)_Election Day Votes,Marvin Lim (Dem)_Advanced Voting Votes,Marvin Lim (Dem)_Absentee by Mail Votes,Marvin Lim (Dem)_Provisional Votes,Marvin Lim (Dem)_Choice Total,Total,calc_participation
+Gwinnett,22440.0,2339.0,4978.0,2614.0,12.0,9943.0,9943.0,44.3

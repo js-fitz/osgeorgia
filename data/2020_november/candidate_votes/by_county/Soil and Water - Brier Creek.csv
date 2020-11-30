@@ -1,22 +1,3 @@
-,Precinct,County,Registered Voters,John B. Gay_Election Day Votes,John B. Gay_Advanced Voting Votes,John B. Gay_Absentee by Mail Votes,John B. Gay_Provisional Votes,John B. Gay_Choice Total,Total,Leonard D. Hill_Election Day Votes,Leonard D. Hill_Advanced Voting Votes,Leonard D. Hill_Absentee by Mail Votes,Leonard D. Hill_Provisional Votes,Leonard D. Hill_Choice Total,calc_participation
-10,Keysville,Burke,476.0,,,,,,176.0,109.0,35.0,32.0,0.0,176.0,37.0
-18,North Waynesboro,Burke,2949.0,,,,,,1317.0,276.0,639.0,402.0,0.0,1317.0,44.7
-17,Vidette,Burke,313.0,,,,,,153.0,81.0,31.0,41.0,0.0,153.0,48.9
-16,St Clair,Burke,442.0,,,,,,241.0,79.0,96.0,66.0,0.0,241.0,54.5
-15,Telfair,Burke,1121.0,,,,,,519.0,171.0,233.0,115.0,0.0,519.0,46.3
-14,Scotts Crossroads,Burke,294.0,,,,,,135.0,55.0,46.0,34.0,0.0,135.0,45.9
-13,Sardis,Burke,1049.0,,,,,,474.0,250.0,152.0,72.0,0.0,474.0,45.2
-12,Munnerlyn,Burke,299.0,,,,,,143.0,65.0,51.0,27.0,0.0,143.0,47.8
-11,Midville,Burke,492.0,,,,,,220.0,134.0,29.0,57.0,0.0,220.0,44.7
-19,South Waynesboro,Burke,3290.0,,,,,,1875.0,369.0,1127.0,379.0,0.0,1875.0,57.0
-20,Blakeney,Burke,681.0,,,,,,314.0,81.0,177.0,56.0,0.0,314.0,46.1
-8,Gough,Burke,434.0,,,,,,240.0,76.0,76.0,88.0,0.0,240.0,55.3
-7,Girard,Burke,733.0,,,,,,335.0,145.0,94.0,96.0,0.0,335.0,45.7
-6,Four Points,Burke,2558.0,,,,,,1235.0,442.0,564.0,229.0,0.0,1235.0,48.3
-5,Alexander,Burke,389.0,,,,,,204.0,92.0,52.0,60.0,0.0,204.0,52.4
-9,Greenscut,Burke,1036.0,,,,,,531.0,180.0,245.0,106.0,0.0,531.0,51.3
-4,Four Points,Jenkins,1058.0,245.0,279.0,119.0,0.0,643.0,643.0,,,,,,60.8
-3,Senior Citizens Center,Jenkins,974.0,140.0,364.0,108.0,0.0,612.0,612.0,,,,,,62.8
-2,Perkins,Jenkins,1021.0,147.0,348.0,127.0,3.0,625.0,625.0,,,,,,61.2
-1,Court House,Jenkins,1039.0,110.0,314.0,141.0,0.0,565.0,565.0,,,,,,54.4
-0,Primary School,Jenkins,974.0,127.0,250.0,130.0,0.0,507.0,507.0,,,,,,52.1
+County,Registered Voters,John B. Gay_Election Day Votes,John B. Gay_Advanced Voting Votes,John B. Gay_Absentee by Mail Votes,John B. Gay_Provisional Votes,John B. Gay_Choice Total,Total,Leonard D. Hill_Election Day Votes,Leonard D. Hill_Advanced Voting Votes,Leonard D. Hill_Absentee by Mail Votes,Leonard D. Hill_Provisional Votes,Leonard D. Hill_Choice Total,calc_participation
+Burke,16556.0,0.0,0.0,0.0,0.0,0.0,8112.0,2605.0,3647.0,1860.0,0.0,8112.0,49.0
+Jenkins,5066.0,769.0,1555.0,625.0,3.0,2952.0,2952.0,0.0,0.0,0.0,0.0,0.0,58.3

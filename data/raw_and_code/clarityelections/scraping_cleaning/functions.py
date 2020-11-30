@@ -77,7 +77,7 @@ def pre_scraper(state, election_id):
 def define_directories():
     
     # use today's date details for scraped_ child directory structure 
-    config.mo_dy = dt.strftime(dt.today(), '%b_%d').lower()
+    config.mo_dy = 'nov_29' #dt.strftime(dt.today(), '%b_%d').lower()
 
     # use election date for parent directory structure
     e_date_dt = dt.strptime(config.race_date, '%B %d, %Y')
@@ -493,10 +493,10 @@ def save(merged, race):
         os.makedirs(f'{target_dir}/{sub_dir}')
     num_cols = merged._get_numeric_data().columns
     counties = merged.groupby('County').sum()
-    merged = get_part_rates(merged)
-    merged = merged.sort_values('County')
+    counties = get_part_rates(counties)
+    counties = counties.sort_values('County')
     
-    merged.to_csv(  # index is county now, so don't drop.
+    counties.to_csv(  # index is county now, so don't drop.
         os.path.join(target_dir, sub_dir, race))
     
     

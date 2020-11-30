@@ -1,13 +1,2 @@
-,Precinct,County,Registered Voters,Terry Bramlett (I) (Rep)_Election Day Votes,Terry Bramlett (I) (Rep)_Advanced Voting Votes,Terry Bramlett (I) (Rep)_Absentee by Mail Votes,Terry Bramlett (I) (Rep)_Provisional Votes,Terry Bramlett (I) (Rep)_Choice Total,Total,calc_participation
-0,Colwell,Fannin,1105.0,289.0,316.0,144.0,0.0,749.0,749.0,67.8
-1,Fairplay,Fannin,1262.0,308.0,330.0,132.0,0.0,770.0,770.0,61.0
-2,Flinthill,Fannin,3202.0,669.0,830.0,390.0,1.0,1890.0,1890.0,59.0
-3,Hemptown,Fannin,1336.0,351.0,358.0,146.0,3.0,858.0,858.0,64.2
-4,Hothouse,Fannin,1290.0,266.0,395.0,160.0,6.0,827.0,827.0,64.1
-5,Mineral Bluff,Fannin,1817.0,338.0,590.0,249.0,0.0,1177.0,1177.0,64.8
-6,Mobile,Fannin,1160.0,308.0,296.0,142.0,0.0,746.0,746.0,64.3
-7,Morganton,Fannin,2067.0,471.0,612.0,266.0,2.0,1351.0,1351.0,65.4
-8,Noontootla,Fannin,839.0,185.0,243.0,156.0,0.0,584.0,584.0,69.6
-9,Skeniah,Fannin,331.0,117.0,65.0,51.0,2.0,235.0,235.0,71.0
-10,Sugar Creek,Fannin,2437.0,395.0,850.0,309.0,1.0,1555.0,1555.0,63.8
-11,Toccoa,Fannin,3553.0,501.0,1194.0,486.0,4.0,2185.0,2185.0,61.5
+County,Registered Voters,Terry Bramlett (I) (Rep)_Election Day Votes,Terry Bramlett (I) (Rep)_Advanced Voting Votes,Terry Bramlett (I) (Rep)_Absentee by Mail Votes,Terry Bramlett (I) (Rep)_Provisional Votes,Terry Bramlett (I) (Rep)_Choice Total,Total,calc_participation
+Fannin,20399.0,4198.0,6079.0,2631.0,19.0,12927.0,12927.0,63.4

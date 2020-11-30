@@ -1,13 +1,2 @@
-,Precinct,County,Registered Voters,Jacob Douylliez (Dem)_Election Day Votes,Jacob Douylliez (Dem)_Advanced Voting Votes,Jacob Douylliez (Dem)_Absentee by Mail Votes,Jacob Douylliez (Dem)_Provisional Votes,Jacob Douylliez (Dem)_Choice Total,Amrey Harden (Rep)_Election Day Votes,Amrey Harden (Rep)_Advanced Voting Votes,Amrey Harden (Rep)_Absentee by Mail Votes,Amrey Harden (Rep)_Provisional Votes,Amrey Harden (Rep)_Choice Total,Aaron W. Nowak (Rep)_Election Day Votes,Aaron W. Nowak (Rep)_Advanced Voting Votes,Aaron W. Nowak (Rep)_Absentee by Mail Votes,Aaron W. Nowak (Rep)_Provisional Votes,Aaron W. Nowak (Rep)_Choice Total,Total,calc_participation
-0,City Hall,Oconee,3910.0,88.0,619.0,305.0,0.0,1012.0,180.0,1042.0,342.0,0.0,1564.0,91.0,405.0,67.0,0.0,563.0,3139.0,80.3
-1,Colham Ferry,Oconee,1847.0,29.0,213.0,126.0,0.0,368.0,136.0,600.0,171.0,0.0,907.0,51.0,189.0,39.0,1.0,280.0,1555.0,84.2
-2,Antioch,Oconee,1397.0,27.0,95.0,81.0,0.0,203.0,192.0,460.0,139.0,0.0,791.0,37.0,84.0,16.0,0.0,137.0,1131.0,81.0
-3,Farmington,Oconee,737.0,16.0,69.0,55.0,0.0,140.0,99.0,171.0,43.0,0.0,313.0,47.0,71.0,9.0,0.0,127.0,580.0,78.7
-4,Bishop,Oconee,1938.0,45.0,216.0,147.0,1.0,409.0,134.0,531.0,129.0,1.0,795.0,71.0,247.0,43.0,0.0,361.0,1565.0,80.8
-5,High Shoals,Oconee,1939.0,31.0,225.0,110.0,0.0,366.0,139.0,631.0,135.0,0.0,905.0,73.0,239.0,41.0,0.0,353.0,1624.0,83.8
-6,North Oconee,Oconee,1244.0,19.0,128.0,70.0,0.0,217.0,103.0,340.0,91.0,0.0,534.0,59.0,167.0,40.0,0.0,266.0,1017.0,81.8
-7,Dark Corner,Oconee,3541.0,57.0,309.0,170.0,1.0,537.0,266.0,1060.0,279.0,0.0,1605.0,147.0,532.0,71.0,0.0,750.0,2892.0,81.7
-8,Bogart,Oconee,2384.0,72.0,241.0,152.0,0.0,465.0,220.0,543.0,179.0,0.0,942.0,80.0,282.0,46.0,0.0,408.0,1815.0,76.1
-9,Marswood Hall,Oconee,4091.0,62.0,462.0,395.0,0.0,919.0,152.0,1032.0,438.0,0.0,1622.0,119.0,539.0,161.0,0.0,819.0,3360.0,82.1
-10,East Oconee,Oconee,2647.0,64.0,344.0,273.0,0.0,681.0,77.0,703.0,209.0,0.0,989.0,41.0,271.0,55.0,0.0,367.0,2037.0,77.0
-11,Civic Center,Oconee,4396.0,76.0,579.0,399.0,0.0,1054.0,161.0,1237.0,397.0,0.0,1795.0,115.0,452.0,100.0,0.0,667.0,3516.0,80.0
+County,Registered Voters,Jacob Douylliez (Dem)_Election Day Votes,Jacob Douylliez (Dem)_Advanced Voting Votes,Jacob Douylliez (Dem)_Absentee by Mail Votes,Jacob Douylliez (Dem)_Provisional Votes,Jacob Douylliez (Dem)_Choice Total,Amrey Harden (Rep)_Election Day Votes,Amrey Harden (Rep)_Advanced Voting Votes,Amrey Harden (Rep)_Absentee by Mail Votes,Amrey Harden (Rep)_Provisional Votes,Amrey Harden (Rep)_Choice Total,Aaron W. Nowak (Rep)_Election Day Votes,Aaron W. Nowak (Rep)_Advanced Voting Votes,Aaron W. Nowak (Rep)_Absentee by Mail Votes,Aaron W. Nowak (Rep)_Provisional Votes,Aaron W. Nowak (Rep)_Choice Total,Total,calc_participation
+Oconee,30071.0,586.0,3500.0,2283.0,2.0,6371.0,1859.0,8350.0,2552.0,1.0,12762.0,931.0,3478.0,688.0,1.0,5098.0,24231.0,80.6

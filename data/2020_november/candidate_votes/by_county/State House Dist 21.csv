@@ -1,12 +1,2 @@
-,Precinct,County,Registered Voters,Brad Thomas (Rep)_Election Day Votes,Brad Thomas (Rep)_Advanced Voting Votes,Brad Thomas (Rep)_Absentee by Mail Votes,Brad Thomas (Rep)_Provisional Votes,Brad Thomas (Rep)_Choice Total,William D. Hughes (Dem)_Election Day Votes,William D. Hughes (Dem)_Advanced Voting Votes,William D. Hughes (Dem)_Absentee by Mail Votes,William D. Hughes (Dem)_Provisional Votes,William D. Hughes (Dem)_Choice Total,Total,calc_participation
-0,Air Acres,Cherokee,3050.0,254.0,418.0,204.0,0.0,876.0,80.0,199.0,212.0,0.0,491.0,1367.0,44.8
-1,Arnold Mill,Cherokee,4884.0,780.0,1495.0,636.0,0.0,2911.0,147.0,392.0,422.0,0.0,961.0,3872.0,79.3
-2,Avery,Cherokee,3592.0,94.0,270.0,106.0,0.0,470.0,9.0,35.0,35.0,0.0,79.0,549.0,15.3
-3,Bridgemill,Cherokee,5113.0,617.0,1847.0,586.0,0.0,3050.0,114.0,451.0,436.0,0.0,1001.0,4051.0,79.2
-4,Hickory Flat,Cherokee,7334.0,662.0,2137.0,648.0,0.0,3447.0,139.0,660.0,476.0,0.0,1275.0,4722.0,64.4
-5,Holly Springs,Cherokee,3262.0,449.0,853.0,272.0,0.0,1574.0,119.0,275.0,178.0,0.0,572.0,2146.0,65.8
-6,Liberty,Cherokee,8350.0,778.0,2420.0,771.0,0.0,3969.0,269.0,909.0,662.0,0.0,1840.0,5809.0,69.6
-7,Mountain Road,Cherokee,3078.0,539.0,915.0,353.0,0.0,1807.0,114.0,251.0,227.0,0.0,592.0,2399.0,77.9
-8,Teasley,Cherokee,7981.0,479.0,1472.0,420.0,0.0,2371.0,133.0,423.0,304.0,0.0,860.0,3231.0,40.5
-9,Toonigh,Cherokee,6641.0,688.0,2155.0,694.0,0.0,3537.0,188.0,737.0,524.0,0.0,1449.0,4986.0,75.1
-10,Wildcat,Cherokee,3215.0,511.0,1010.0,254.0,0.0,1775.0,99.0,276.0,186.0,0.0,561.0,2336.0,72.7
+County,Registered Voters,Brad Thomas (Rep)_Election Day Votes,Brad Thomas (Rep)_Advanced Voting Votes,Brad Thomas (Rep)_Absentee by Mail Votes,Brad Thomas (Rep)_Provisional Votes,Brad Thomas (Rep)_Choice Total,William D. Hughes (Dem)_Election Day Votes,William D. Hughes (Dem)_Advanced Voting Votes,William D. Hughes (Dem)_Absentee by Mail Votes,William D. Hughes (Dem)_Provisional Votes,William D. Hughes (Dem)_Choice Total,Total,calc_participation
+Cherokee,56500.0,5851.0,14992.0,4944.0,0.0,25787.0,1411.0,4608.0,3662.0,0.0,9681.0,35468.0,62.8

@@ -1,15 +1,2 @@
-,Precinct,County,Registered Voters,Betty Price (Rep)_Election Day Votes,Betty Price (Rep)_Advanced Voting Votes,Betty Price (Rep)_Absentee by Mail Votes,Betty Price (Rep)_Provisional Votes,Betty Price (Rep)_Choice Total,Mary Robichaux (I) (Dem)_Election Day Votes,Mary Robichaux (I) (Dem)_Advanced Voting Votes,Mary Robichaux (I) (Dem)_Absentee by Mail Votes,Mary Robichaux (I) (Dem)_Provisional Votes,Mary Robichaux (I) (Dem)_Choice Total,Total,calc_participation
-0,AP02B,Fulton,677.0,26.0,90.0,82.0,4.0,202.0,8.0,128.0,116.0,4.0,256.0,458.0,67.7
-1,AP03,Fulton,775.0,30.0,53.0,12.0,1.0,96.0,71.0,187.0,60.0,5.0,323.0,419.0,54.1
-2,RW01,Fulton,5010.0,196.0,1477.0,668.0,8.0,2349.0,84.0,945.0,751.0,5.0,1785.0,4134.0,82.5
-3,RW02,Fulton,4061.0,234.0,1017.0,373.0,7.0,1631.0,108.0,883.0,621.0,5.0,1617.0,3248.0,80.0
-4,RW03,Fulton,5041.0,241.0,866.0,316.0,5.0,1428.0,203.0,1074.0,631.0,7.0,1915.0,3343.0,66.3
-5,RW05,Fulton,2910.0,114.0,372.0,148.0,2.0,636.0,179.0,643.0,332.0,10.0,1164.0,1800.0,61.9
-6,RW07A,Fulton,1773.0,53.0,80.0,13.0,0.0,146.0,183.0,412.0,153.0,2.0,750.0,896.0,50.5
-7,RW07B,Fulton,449.0,19.0,37.0,13.0,4.0,73.0,46.0,82.0,57.0,15.0,200.0,273.0,60.8
-8,RW08,Fulton,2429.0,146.0,574.0,337.0,5.0,1062.0,62.0,357.0,303.0,4.0,726.0,1788.0,73.6
-9,RW10,Fulton,3653.0,194.0,1089.0,421.0,5.0,1709.0,50.0,677.0,481.0,3.0,1211.0,2920.0,79.9
-10,RW11A,Fulton,2865.0,136.0,585.0,228.0,5.0,954.0,109.0,552.0,408.0,4.0,1073.0,2027.0,70.8
-11,RW13,Fulton,3764.0,217.0,893.0,268.0,1.0,1379.0,136.0,927.0,477.0,3.0,1543.0,2922.0,77.6
-12,RW16,Fulton,2101.0,114.0,586.0,185.0,2.0,887.0,53.0,450.0,256.0,2.0,761.0,1648.0,78.4
-13,RW17,Fulton,3100.0,148.0,509.0,140.0,0.0,797.0,161.0,769.0,379.0,2.0,1311.0,2108.0,68.0
+County,Registered Voters,Betty Price (Rep)_Election Day Votes,Betty Price (Rep)_Advanced Voting Votes,Betty Price (Rep)_Absentee by Mail Votes,Betty Price (Rep)_Provisional Votes,Betty Price (Rep)_Choice Total,Mary Robichaux (I) (Dem)_Election Day Votes,Mary Robichaux (I) (Dem)_Advanced Voting Votes,Mary Robichaux (I) (Dem)_Absentee by Mail Votes,Mary Robichaux (I) (Dem)_Provisional Votes,Mary Robichaux (I) (Dem)_Choice Total,Total,calc_participation
+Fulton,38608.0,1868.0,8228.0,3204.0,49.0,13349.0,1453.0,8086.0,5025.0,71.0,14635.0,27984.0,72.5

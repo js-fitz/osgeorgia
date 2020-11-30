@@ -1,14 +1,2 @@
-,Precinct,County,Registered Voters,El-Mahdi Holly (I) (Dem)_Election Day Votes,El-Mahdi Holly (I) (Dem)_Advanced Voting Votes,El-Mahdi Holly (I) (Dem)_Absentee by Mail Votes,El-Mahdi Holly (I) (Dem)_Provisional Votes,El-Mahdi Holly (I) (Dem)_Choice Total,Total,calc_participation
-0,Tussahaw,Henry,3409.0,67.0,171.0,39.0,0.0,277.0,277.0,8.1
-1,Lowes,Henry,9878.0,698.0,3237.0,1553.0,1.0,5489.0,5489.0,55.6
-2,Mt Carmel,Henry,5335.0,238.0,1390.0,558.0,1.0,2187.0,2187.0,41.0
-3,Wesley Lakes,Henry,6144.0,477.0,2281.0,908.0,2.0,3668.0,3668.0,59.7
-4,McDonough,Henry,2838.0,226.0,962.0,452.0,0.0,1640.0,1640.0,57.8
-5,Hickory Flat,Henry,5122.0,173.0,857.0,372.0,0.0,1402.0,1402.0,27.4
-6,Unity Grove,Henry,4850.0,306.0,1358.0,449.0,0.0,2113.0,2113.0,43.6
-7,Pates Creek,Henry,5214.0,247.0,1585.0,867.0,1.0,2700.0,2700.0,51.8
-8,Oakland,Henry,4508.0,320.0,1426.0,648.0,0.0,2394.0,2394.0,53.1
-9,Flippen,Henry,4430.0,185.0,1195.0,599.0,0.0,1979.0,1979.0,44.7
-10,Dutchtown,Henry,2751.0,192.0,789.0,405.0,0.0,1386.0,1386.0,50.4
-11,Grove Park,Henry,4079.0,325.0,1182.0,411.0,0.0,1918.0,1918.0,47.0
-12,McDonough Central,Henry,4250.0,119.0,512.0,213.0,0.0,844.0,844.0,19.9
+County,Registered Voters,El-Mahdi Holly (I) (Dem)_Election Day Votes,El-Mahdi Holly (I) (Dem)_Advanced Voting Votes,El-Mahdi Holly (I) (Dem)_Absentee by Mail Votes,El-Mahdi Holly (I) (Dem)_Provisional Votes,El-Mahdi Holly (I) (Dem)_Choice Total,Total,calc_participation
+Henry,62808.0,3573.0,16945.0,7474.0,5.0,27997.0,27997.0,44.6

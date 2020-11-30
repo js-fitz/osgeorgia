@@ -1,3 +1,2 @@
-,Precinct,County,Registered Voters,Chip McEver (I)_Election Day Votes,Chip McEver (I)_Advanced Voting Votes,Chip McEver (I)_Absentee by Mail Votes,Chip McEver (I)_Provisional Votes,Chip McEver (I)_Choice Total,Total,calc_participation
-0,Central Jackson,Jackson,16263.0,371.0,1238.0,330.0,0.0,1939.0,1939.0,11.9
-1,West Jackson,Jackson,14977.0,182.0,859.0,229.0,0.0,1270.0,1270.0,8.5
+County,Registered Voters,Chip McEver (I)_Election Day Votes,Chip McEver (I)_Advanced Voting Votes,Chip McEver (I)_Absentee by Mail Votes,Chip McEver (I)_Provisional Votes,Chip McEver (I)_Choice Total,Total,calc_participation
+Jackson,31240.0,553.0,2097.0,559.0,0.0,3209.0,3209.0,10.3

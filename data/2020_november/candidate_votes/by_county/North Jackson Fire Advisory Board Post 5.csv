@@ -1,3 +1,2 @@
-,Precinct,County,Registered Voters,Robert McEver (I)_Election Day Votes,Robert McEver (I)_Advanced Voting Votes,Robert McEver (I)_Absentee by Mail Votes,Robert McEver (I)_Provisional Votes,Robert McEver (I)_Choice Total,Total,calc_participation
-0,Central Jackson,Jackson,16263.0,371.0,1233.0,331.0,0.0,1935.0,1935.0,11.9
-1,West Jackson,Jackson,14977.0,181.0,863.0,228.0,0.0,1272.0,1272.0,8.5
+County,Registered Voters,Robert McEver (I)_Election Day Votes,Robert McEver (I)_Advanced Voting Votes,Robert McEver (I)_Absentee by Mail Votes,Robert McEver (I)_Provisional Votes,Robert McEver (I)_Choice Total,Total,calc_participation
+Jackson,31240.0,552.0,2096.0,559.0,0.0,3207.0,3207.0,10.3

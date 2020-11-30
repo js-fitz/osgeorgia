@@ -1,10 +1,2 @@
-,Precinct,County,Registered Voters,Steve Miller (I)_Election Day Votes,Steve Miller (I)_Advanced Voting Votes,Steve Miller (I)_Absentee by Mail Votes,Steve Miller (I)_Provisional Votes,Steve Miller (I)_Choice Total,Total,calc_participation
-0,Avery,Cherokee,3592.0,13.0,26.0,14.0,0.0,53.0,53.0,1.5
-1,Bradshaw,Cherokee,4491.0,28.0,134.0,59.0,0.0,221.0,221.0,4.9
-2,Hickory Flat,Cherokee,7334.0,496.0,1821.0,619.0,0.0,2936.0,2936.0,40.0
-3,Holly Springs,Cherokee,3262.0,399.0,749.0,257.0,0.0,1405.0,1405.0,43.1
-4,Liberty,Cherokee,8350.0,188.0,515.0,207.0,0.0,910.0,910.0,10.9
-5,Sixes,Cherokee,3101.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
-6,Toonigh,Cherokee,6641.0,158.0,485.0,184.0,0.0,827.0,827.0,12.5
-7,Univeter,Cherokee,5434.0,10.0,68.0,14.0,0.0,92.0,92.0,1.7
-8,Wildcat,Cherokee,3215.0,192.0,320.0,114.0,0.0,626.0,626.0,19.5
+County,Registered Voters,Steve Miller (I)_Election Day Votes,Steve Miller (I)_Advanced Voting Votes,Steve Miller (I)_Absentee by Mail Votes,Steve Miller (I)_Provisional Votes,Steve Miller (I)_Choice Total,Total,calc_participation
+Cherokee,45420.0,1484.0,4119.0,1468.0,0.0,7071.0,7071.0,15.6

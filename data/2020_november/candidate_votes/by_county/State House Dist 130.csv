@@ -1,17 +1,4 @@
-,Precinct,County,Registered Voters,David Knight (I) (Rep)_Election Day Votes,David Knight (I) (Rep)_Advanced Voting Votes,David Knight (I) (Rep)_Absentee by Mail Votes,David Knight (I) (Rep)_Provisional Votes,David Knight (I) (Rep)_Choice Total,Sheila Henley (Dem)_Election Day Votes,Sheila Henley (Dem)_Advanced Voting Votes,Sheila Henley (Dem)_Absentee by Mail Votes,Sheila Henley (Dem)_Provisional Votes,Sheila Henley (Dem)_Choice Total,Total,calc_participation
-3,Locust Grove,Henry,6978.0,218.0,1068.0,252.0,1.0,1539.0,355.0,1995.0,891.0,0.0,3241.0,4780.0,68.5
-0,Chappell Mill V FD,Lamar,1577.0,307.0,572.0,105.0,1.0,985.0,27.0,81.0,94.0,0.0,202.0,1187.0,75.3
-1,Senior Citizen Bldg,Lamar,1337.0,131.0,365.0,81.0,1.0,578.0,69.0,141.0,102.0,0.0,312.0,890.0,66.6
-2,Milner,Lamar,3948.0,682.0,1391.0,294.0,1.0,2368.0,114.0,234.0,150.0,1.0,499.0,2867.0,72.6
-4,1,Spalding,2260.0,53.0,47.0,31.0,10.0,141.0,255.0,281.0,280.0,37.0,853.0,994.0,44.0
-5,2,Spalding,1956.0,37.0,45.0,16.0,9.0,107.0,271.0,271.0,278.0,15.0,835.0,942.0,48.2
-6,3,Spalding,2774.0,260.0,864.0,333.0,158.0,1615.0,57.0,220.0,155.0,47.0,479.0,2094.0,75.5
-7,5,Spalding,3715.0,147.0,393.0,159.0,65.0,764.0,184.0,394.0,267.0,91.0,936.0,1700.0,45.8
-8,6,Spalding,2438.0,56.0,138.0,82.0,10.0,286.0,256.0,369.0,302.0,14.0,941.0,1227.0,50.3
-9,7,Spalding,1705.0,332.0,465.0,192.0,16.0,1005.0,61.0,139.0,89.0,4.0,293.0,1298.0,76.1
-10,9,Spalding,1950.0,372.0,506.0,196.0,25.0,1099.0,43.0,76.0,72.0,7.0,198.0,1297.0,66.5
-11,11,Spalding,2506.0,419.0,600.0,180.0,17.0,1216.0,156.0,240.0,179.0,11.0,586.0,1802.0,71.9
-12,17,Spalding,2011.0,253.0,376.0,91.0,16.0,736.0,109.0,151.0,128.0,8.0,396.0,1132.0,56.3
-13,19,Spalding,2664.0,9.0,31.0,14.0,15.0,69.0,1.0,12.0,4.0,4.0,21.0,90.0,3.4
-14,20,Spalding,2190.0,467.0,589.0,175.0,22.0,1253.0,59.0,85.0,78.0,4.0,226.0,1479.0,67.5
-15,21,Spalding,4716.0,320.0,1192.0,724.0,26.0,2262.0,111.0,493.0,770.0,6.0,1380.0,3642.0,77.2
+County,Registered Voters,David Knight (I) (Rep)_Election Day Votes,David Knight (I) (Rep)_Advanced Voting Votes,David Knight (I) (Rep)_Absentee by Mail Votes,David Knight (I) (Rep)_Provisional Votes,David Knight (I) (Rep)_Choice Total,Sheila Henley (Dem)_Election Day Votes,Sheila Henley (Dem)_Advanced Voting Votes,Sheila Henley (Dem)_Absentee by Mail Votes,Sheila Henley (Dem)_Provisional Votes,Sheila Henley (Dem)_Choice Total,Total,calc_participation
+Henry,6978.0,218.0,1068.0,252.0,1.0,1539.0,355.0,1995.0,891.0,0.0,3241.0,4780.0,68.5
+Lamar,6862.0,1120.0,2328.0,480.0,3.0,3931.0,210.0,456.0,346.0,1.0,1013.0,4944.0,72.0
+Spalding,30885.0,2725.0,5246.0,2193.0,389.0,10553.0,1563.0,2731.0,2602.0,248.0,7144.0,17697.0,57.3

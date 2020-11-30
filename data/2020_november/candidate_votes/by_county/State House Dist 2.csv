@@ -1,12 +1,4 @@
-,Precinct,County,Registered Voters,Steve Tarvin (I) (Rep)_Election Day Votes,Steve Tarvin (I) (Rep)_Advanced Voting Votes,Steve Tarvin (I) (Rep)_Absentee by Mail Votes,Steve Tarvin (I) (Rep)_Provisional Votes,Steve Tarvin (I) (Rep)_Choice Total,Total,calc_participation
-0,Blackstock,Catoosa,1952.0,396.0,624.0,122.0,0.0,1142.0,1142.0,58.5
-1,Chambers,Catoosa,2552.0,353.0,1172.0,223.0,1.0,1749.0,1749.0,68.5
-2,Woodstation,Catoosa,2946.0,570.0,1230.0,204.0,2.0,2006.0,2006.0,68.1
-6,La Fayette,Walker,6547.0,777.0,2158.0,679.0,1.0,3615.0,3615.0,55.2
-7,Walnut Grove,Walker,2212.0,270.0,481.0,104.0,0.0,855.0,855.0,38.7
-8,Rock Spring,Walker,6275.0,695.0,2693.0,617.0,0.0,4005.0,4005.0,63.8
-9,Armuchee Valley,Walker,1453.0,576.0,251.0,102.0,0.0,929.0,929.0,63.9
-10,Chickamauga,Walker,6890.0,454.0,1907.0,438.0,1.0,2800.0,2800.0,40.6
-3,TH,Whitfield,3836.0,744.0,1196.0,331.0,0.0,2271.0,2271.0,59.2
-4,TR,Whitfield,1335.0,353.0,459.0,132.0,0.0,944.0,944.0,70.7
-5,WS,Whitfield,2647.0,526.0,866.0,274.0,1.0,1667.0,1667.0,63.0
+County,Registered Voters,Steve Tarvin (I) (Rep)_Election Day Votes,Steve Tarvin (I) (Rep)_Advanced Voting Votes,Steve Tarvin (I) (Rep)_Absentee by Mail Votes,Steve Tarvin (I) (Rep)_Provisional Votes,Steve Tarvin (I) (Rep)_Choice Total,Total,calc_participation
+Catoosa,7450.0,1319.0,3026.0,549.0,3.0,4897.0,4897.0,65.7
+Walker,23377.0,2772.0,7490.0,1940.0,2.0,12204.0,12204.0,52.2
+Whitfield,7818.0,1623.0,2521.0,737.0,1.0,4882.0,4882.0,62.4

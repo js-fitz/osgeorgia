@@ -1,26 +1,2 @@
-,Precinct,County,Registered Voters,Dalia Racine (Dem)_Election Day Votes,Dalia Racine (Dem)_Advanced Voting Votes,Dalia Racine (Dem)_Absentee by Mail Votes,Dalia Racine (Dem)_Provisional Votes,Dalia Racine (Dem)_Choice Total,Total,calc_participation
-0,Mirror Lake Elementary,Douglas,6745.0,650.0,1669.0,1090.0,4.0,3413.0,3413.0,50.6
-22,First Baptist Douglasville,Douglas,2478.0,156.0,702.0,492.0,0.0,1350.0,1350.0,54.5
-21,Lutheran Church-GS,Douglas,4149.0,293.0,1324.0,763.0,1.0,2381.0,2381.0,57.4
-20,St Julians Episcopal,Douglas,2253.0,218.0,467.0,349.0,0.0,1034.0,1034.0,45.9
-19,Chestnut Log,Douglas,5177.0,356.0,1271.0,679.0,5.0,2311.0,2311.0,44.6
-18,Church At Chapel Hill,Douglas,6353.0,442.0,2172.0,1082.0,0.0,3696.0,3696.0,58.2
-17,Chapel Hill,Douglas,4016.0,324.0,1378.0,745.0,6.0,2453.0,2453.0,61.1
-16,Dorsett Shoals,Douglas,3901.0,363.0,805.0,514.0,1.0,1683.0,1683.0,43.1
-15,Bright Star,Douglas,2703.0,273.0,581.0,371.0,2.0,1227.0,1227.0,45.4
-14,Arbor Station,Douglas,2990.0,314.0,799.0,434.0,9.0,1556.0,1556.0,52.0
-13,Stewart,Douglas,3208.0,349.0,924.0,534.0,1.0,1808.0,1808.0,56.4
-23,Factory Shoals,Douglas,4359.0,271.0,1560.0,780.0,0.0,2611.0,2611.0,59.9
-12,Beulah Baptist Church,Douglas,3500.0,339.0,814.0,451.0,1.0,1605.0,1605.0,45.9
-10,Golden Methodist Church,Douglas,5634.0,483.0,1714.0,984.0,4.0,3185.0,3185.0,56.5
-9,Deer Lick,Douglas,3042.0,207.0,786.0,382.0,1.0,1376.0,1376.0,45.2
-8,Lithia Springs High School,Douglas,6033.0,413.0,1993.0,1174.0,0.0,3580.0,3580.0,59.3
-7,First Baptist Lithia Springs,Douglas,1966.0,198.0,409.0,285.0,5.0,897.0,897.0,45.6
-6,Turner,Douglas,3847.0,396.0,914.0,546.0,0.0,1856.0,1856.0,48.2
-5,Prays Mill Gym,Douglas,5459.0,384.0,1356.0,760.0,0.0,2500.0,2500.0,45.8
-4,Ephesus Baptist Church,Douglas,3930.0,356.0,839.0,405.0,0.0,1600.0,1600.0,40.7
-3,Atlanta West Pentecostal,Douglas,4076.0,426.0,1008.0,555.0,1.0,1990.0,1990.0,48.8
-2,Dog River Library,Douglas,4915.0,281.0,1244.0,567.0,0.0,2092.0,2092.0,42.6
-1,Winston,Douglas,1911.0,193.0,515.0,216.0,1.0,925.0,925.0,48.4
-11,Old Courthouse,Douglas,5675.0,407.0,1363.0,816.0,4.0,2590.0,2590.0,45.6
-24,Boundary Waters,Douglas,4220.0,278.0,1677.0,664.0,1.0,2620.0,2620.0,62.1
+County,Registered Voters,Dalia Racine (Dem)_Election Day Votes,Dalia Racine (Dem)_Advanced Voting Votes,Dalia Racine (Dem)_Absentee by Mail Votes,Dalia Racine (Dem)_Provisional Votes,Dalia Racine (Dem)_Choice Total,Total,calc_participation
+Douglas,102540.0,8370.0,28284.0,15638.0,47.0,52339.0,52339.0,51.0

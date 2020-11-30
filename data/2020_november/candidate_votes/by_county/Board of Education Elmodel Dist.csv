@@ -1,6 +1,2 @@
-,Precinct,County,Registered Voters,Kenneth Deese (Dem)_Election Day Votes,Kenneth Deese (Dem)_Advanced Voting Votes,Kenneth Deese (Dem)_Absentee by Mail Votes,Kenneth Deese (Dem)_Provisional Votes,Kenneth Deese (Dem)_Choice Total,Total,calc_participation
-0,Anna,Baker,166.0,50.0,21.0,15.0,1.0,87.0,87.0,52.4
-1,Elmodel,Baker,401.0,68.0,101.0,61.0,1.0,231.0,231.0,57.6
-2,Hoggards Mill,Baker,351.0,68.0,68.0,45.0,0.0,181.0,181.0,51.6
-3,Milford,Baker,270.0,62.0,52.0,32.0,0.0,146.0,146.0,54.1
-4,Newton,Baker,1070.0,100.0,333.0,141.0,0.0,574.0,574.0,53.6
+County,Registered Voters,Kenneth Deese (Dem)_Election Day Votes,Kenneth Deese (Dem)_Advanced Voting Votes,Kenneth Deese (Dem)_Absentee by Mail Votes,Kenneth Deese (Dem)_Provisional Votes,Kenneth Deese (Dem)_Choice Total,Total,calc_participation
+Baker,2258.0,348.0,575.0,294.0,2.0,1219.0,1219.0,54.0

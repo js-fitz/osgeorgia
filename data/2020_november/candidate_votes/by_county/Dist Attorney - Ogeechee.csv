@@ -1,51 +1,5 @@
-,Precinct,County,Registered Voters,Daphne Jarriel Totten (Rep)_Election Day Votes,Daphne Jarriel Totten (Rep)_Advanced Voting Votes,Daphne Jarriel Totten (Rep)_Absentee by Mail Votes,Daphne Jarriel Totten (Rep)_Provisional Votes,Daphne Jarriel Totten (Rep)_Choice Total,Total,calc_participation
-35,Pittman Park,Bulloch,5279.0,615.0,1105.0,321.0,2.0,2043.0,2043.0,38.7
-33,Fair,Bulloch,6335.0,662.0,2137.0,673.0,7.0,3479.0,3479.0,54.9
-32,Portal,Bulloch,1735.0,475.0,327.0,155.0,0.0,957.0,957.0,55.2
-31,Statesboro,Bulloch,6312.0,624.0,1656.0,661.0,9.0,2950.0,2950.0,46.7
-30,Emit,Bulloch,3360.0,640.0,1032.0,335.0,1.0,2008.0,2008.0,59.8
-29,Lockhart,Bulloch,720.0,255.0,130.0,54.0,1.0,440.0,440.0,61.1
-36,Leefield,Bulloch,1000.0,374.0,224.0,79.0,1.0,678.0,678.0,67.8
-37,Blitch,Bulloch,1947.0,480.0,598.0,203.0,1.0,1282.0,1282.0,65.8
-38,Hagin,Bulloch,2403.0,511.0,569.0,240.0,3.0,1323.0,1323.0,55.1
-39,Brooklet,Bulloch,3351.0,746.0,1091.0,313.0,2.0,2152.0,2152.0,64.2
-40,Stilson,Bulloch,2137.0,638.0,461.0,178.0,1.0,1278.0,1278.0,59.8
-41,Bay,Bulloch,1610.0,560.0,375.0,137.0,0.0,1072.0,1072.0,66.6
-42,Nevils,Bulloch,1299.0,397.0,288.0,126.0,1.0,812.0,812.0,62.5
-43,Sinkhole,Bulloch,488.0,202.0,72.0,47.0,0.0,321.0,321.0,65.8
-44,Register,Bulloch,969.0,243.0,180.0,90.0,1.0,514.0,514.0,53.0
-34,Church,Bulloch,5793.0,593.0,1433.0,644.0,4.0,2674.0,2674.0,46.2
-0,1A,Effingham,1965.0,429.0,704.0,150.0,1.0,1284.0,1284.0,65.3
-15,5B,Effingham,3962.0,603.0,1259.0,313.0,1.0,2176.0,2176.0,54.9
-1,1B,Effingham,3005.0,671.0,990.0,240.0,1.0,1902.0,1902.0,63.3
-2,1C,Effingham,1446.0,468.0,319.0,91.0,0.0,878.0,878.0,60.7
-3,1D,Effingham,2031.0,577.0,595.0,132.0,1.0,1305.0,1305.0,64.3
-4,2A,Effingham,3038.0,687.0,1036.0,277.0,1.0,2001.0,2001.0,65.9
-5,2B,Effingham,3010.0,592.0,892.0,255.0,1.0,1740.0,1740.0,57.8
-6,2C,Effingham,4621.0,754.0,1663.0,425.0,3.0,2845.0,2845.0,61.6
-7,3A,Effingham,1398.0,344.0,451.0,104.0,0.0,899.0,899.0,64.3
-16,5C,Effingham,1684.0,285.0,586.0,155.0,1.0,1027.0,1027.0,61.0
-8,3B,Effingham,1553.0,325.0,452.0,112.0,0.0,889.0,889.0,57.2
-10,3D,Effingham,3125.0,544.0,1124.0,213.0,3.0,1884.0,1884.0,60.3
-11,4A,Effingham,3726.0,540.0,1394.0,291.0,2.0,2227.0,2227.0,59.8
-12,4B,Effingham,1888.0,265.0,593.0,151.0,0.0,1009.0,1009.0,53.4
-13,4C,Effingham,2837.0,469.0,1038.0,238.0,0.0,1745.0,1745.0,61.5
-14,5A,Effingham,2924.0,488.0,1031.0,221.0,2.0,1742.0,1742.0,59.6
-9,3C,Effingham,2060.0,334.0,766.0,142.0,1.0,1243.0,1243.0,60.3
-45,Primary School,Jenkins,974.0,101.0,199.0,88.0,0.0,388.0,388.0,39.8
-46,Court House,Jenkins,1039.0,89.0,252.0,96.0,0.0,437.0,437.0,42.1
-47,Perkins,Jenkins,1021.0,148.0,336.0,108.0,3.0,595.0,595.0,58.3
-49,Four Points,Jenkins,1058.0,238.0,266.0,96.0,0.0,600.0,600.0,56.7
-48,Senior Citizens Center,Jenkins,974.0,140.0,361.0,100.0,0.0,601.0,601.0,61.7
-27,Jackson Fire Station,Screven,0.0,107.0,85.0,31.0,0.0,223.0,223.0,
-26,Sr Citizens Center,Screven,0.0,103.0,288.0,96.0,0.0,487.0,487.0,
-25,Greenhill Church,Screven,0.0,186.0,267.0,63.0,0.0,516.0,516.0,
-23,Hiltonia,Screven,0.0,120.0,246.0,53.0,0.0,419.0,419.0,
-22,Bay Branch,Screven,0.0,202.0,337.0,70.0,1.0,610.0,610.0,
-21,Rocky Ford,Screven,0.0,115.0,152.0,50.0,0.0,317.0,317.0,
-20,Jenk Hill Fire Sta,Screven,0.0,136.0,312.0,92.0,1.0,541.0,541.0,
-19,Newington,Screven,0.0,254.0,255.0,67.0,0.0,576.0,576.0,
-18,Hunters,Screven,0.0,101.0,113.0,45.0,8.0,267.0,267.0,
-17,Sylvania,Screven,0.0,101.0,335.0,143.0,0.0,579.0,579.0,
-28,Cooperville Fire Station,Screven,0.0,29.0,52.0,28.0,1.0,110.0,110.0,
-24,Screven Rec Dept,Screven,0.0,44.0,99.0,38.0,1.0,182.0,182.0,
+County,Registered Voters,Daphne Jarriel Totten (Rep)_Election Day Votes,Daphne Jarriel Totten (Rep)_Advanced Voting Votes,Daphne Jarriel Totten (Rep)_Absentee by Mail Votes,Daphne Jarriel Totten (Rep)_Provisional Votes,Daphne Jarriel Totten (Rep)_Choice Total,Total,calc_participation
+Bulloch,44738.0,8015.0,11678.0,4256.0,34.0,23983.0,23983.0,53.6
+Effingham,44273.0,8375.0,14893.0,3510.0,18.0,26796.0,26796.0,60.5
+Jenkins,5066.0,716.0,1414.0,488.0,3.0,2621.0,2621.0,51.7
+Screven,0.0,1498.0,2541.0,776.0,12.0,4827.0,4827.0,0.0

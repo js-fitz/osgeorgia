@@ -1,18 +1,4 @@
-,Precinct,County,Registered Voters,Chris Erwin (I) (Rep)_Election Day Votes,Chris Erwin (I) (Rep)_Advanced Voting Votes,Chris Erwin (I) (Rep)_Absentee by Mail Votes,Chris Erwin (I) (Rep)_Provisional Votes,Chris Erwin (I) (Rep)_Choice Total,Total,calc_participation
-8,Columbia,Banks,363.0,64.0,167.0,35.0,0.0,266.0,266.0,73.3
-14,Poplar Springs,Banks,1775.0,232.0,742.0,170.0,1.0,1145.0,1145.0,64.5
-13,Homer,Banks,1544.0,181.0,678.0,132.0,1.0,992.0,992.0,64.2
-12,Hollingsworth,Banks,667.0,90.0,293.0,60.0,1.0,444.0,444.0,66.6
-11,Grove River,Banks,600.0,96.0,240.0,71.0,0.0,407.0,407.0,67.8
-10,Golden Hill,Banks,1008.0,134.0,341.0,83.0,0.0,558.0,558.0,55.4
-9,Davids,Banks,1977.0,260.0,765.0,150.0,4.0,1179.0,1179.0,59.6
-15,Washington,Banks,704.0,89.0,317.0,56.0,1.0,463.0,463.0,65.8
-16,Wilmonts,Banks,620.0,76.0,264.0,54.0,0.0,394.0,394.0,63.5
-6,Berlin,Banks,415.0,45.0,195.0,29.0,1.0,270.0,270.0,65.1
-5,Baldwin,Banks,876.0,99.0,337.0,136.0,0.0,572.0,572.0,65.3
-4,Anderson,Banks,1533.0,223.0,589.0,117.0,1.0,930.0,930.0,60.7
-7,Bushville,Banks,816.0,122.0,306.0,50.0,1.0,479.0,479.0,58.7
-2,Town of Mt Airy,Habersham,790.0,110.0,263.0,77.0,2.0,452.0,452.0,57.2
-1,Habersham South,Habersham,6171.0,269.0,1437.0,369.0,3.0,2078.0,2078.0,33.7
-0,Habersham North,Habersham,9096.0,178.0,1188.0,255.0,2.0,1623.0,1623.0,17.8
-3,Senior Center,Stephens,0.0,1399.0,7301.0,1700.0,3.0,10403.0,10403.0,
+County,Registered Voters,Chris Erwin (I) (Rep)_Election Day Votes,Chris Erwin (I) (Rep)_Advanced Voting Votes,Chris Erwin (I) (Rep)_Absentee by Mail Votes,Chris Erwin (I) (Rep)_Provisional Votes,Chris Erwin (I) (Rep)_Choice Total,Total,calc_participation
+Banks,12898.0,1711.0,5234.0,1143.0,11.0,8099.0,8099.0,62.8
+Habersham,16057.0,557.0,2888.0,701.0,7.0,4153.0,4153.0,25.9
+Stephens,0.0,1399.0,7301.0,1700.0,3.0,10403.0,10403.0,0.0

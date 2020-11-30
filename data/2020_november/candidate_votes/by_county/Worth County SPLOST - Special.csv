@@ -1,16 +1,2 @@
-,Precinct,County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
-0,Sylvester,Worth,3006.0,221.0,527.0,307.0,0.0,1055.0,133.0,287.0,105.0,0.0,525.0,1580.0,52.6
-1,Scooterville,Worth,603.0,123.0,104.0,28.0,0.0,255.0,76.0,46.0,11.0,0.0,133.0,388.0,64.3
-2,Minton,Worth,543.0,123.0,124.0,30.0,0.0,277.0,66.0,35.0,14.0,0.0,115.0,392.0,72.2
-3,Bridgeboro,Worth,1286.0,224.0,247.0,72.0,0.0,543.0,109.0,115.0,36.0,0.0,260.0,803.0,62.4
-4,County Line,Worth,887.0,126.0,139.0,51.0,0.0,316.0,60.0,78.0,29.0,0.0,167.0,483.0,54.5
-5,Isabella,Worth,1424.0,200.0,387.0,96.0,0.0,683.0,92.0,171.0,35.0,0.0,298.0,981.0,68.9
-6,Piney Woods,Worth,336.0,44.0,77.0,30.0,0.0,151.0,22.0,21.0,7.0,0.0,50.0,201.0,59.8
-7,Sylvester East,Worth,1406.0,144.0,393.0,108.0,0.0,645.0,58.0,148.0,44.0,0.0,250.0,895.0,63.7
-8,Poulan,Worth,887.0,177.0,176.0,47.0,0.0,400.0,78.0,63.0,32.0,0.0,173.0,573.0,64.6
-9,Sumner,Worth,871.0,162.0,141.0,60.0,0.0,363.0,83.0,86.0,19.0,0.0,188.0,551.0,63.3
-10,Shingler,Worth,554.0,132.0,118.0,31.0,0.0,281.0,56.0,49.0,17.0,0.0,122.0,403.0,72.7
-11,Red Rock,Worth,1287.0,224.0,173.0,74.0,0.0,471.0,94.0,103.0,41.0,0.0,238.0,709.0,55.1
-12,Doles,Worth,449.0,99.0,72.0,26.0,0.0,197.0,60.0,34.0,13.0,0.0,107.0,304.0,67.7
-13,Oakfield,Worth,229.0,42.0,33.0,19.0,0.0,94.0,19.0,22.0,10.0,0.0,51.0,145.0,63.3
-14,Warwick,Worth,701.0,143.0,85.0,68.0,0.0,296.0,87.0,47.0,32.0,0.0,166.0,462.0,65.9
+County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
+Worth,14469.0,2184.0,2796.0,1047.0,0.0,6027.0,1093.0,1305.0,445.0,0.0,2843.0,8870.0,61.3

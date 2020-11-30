@@ -1,8 +1,2 @@
-,Precinct,County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
-0,Northeast Morgan,Morgan,2919.0,182.0,954.0,333.0,1.0,1470.0,67.0,365.0,144.0,0.0,576.0,2046.0,70.1
-1,East Morgan,Morgan,2228.0,323.0,706.0,169.0,2.0,1200.0,148.0,342.0,82.0,0.0,572.0,1772.0,79.5
-2,Beth/Springfield,Morgan,862.0,108.0,230.0,89.0,0.0,427.0,61.0,143.0,41.0,0.0,245.0,672.0,78.0
-3,Central Morgan,Morgan,2761.0,205.0,1011.0,294.0,0.0,1510.0,79.0,398.0,98.0,0.0,575.0,2085.0,75.5
-4,Clacks Chapel,Morgan,709.0,104.0,240.0,57.0,0.0,401.0,37.0,119.0,13.0,0.0,169.0,570.0,80.4
-5,West Morgan,Morgan,2655.0,319.0,895.0,177.0,0.0,1391.0,157.0,422.0,81.0,0.0,660.0,2051.0,77.3
-6,North Morgan,Morgan,2690.0,340.0,762.0,249.0,1.0,1352.0,187.0,404.0,92.0,1.0,684.0,2036.0,75.7
+County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
+Morgan,14824.0,1581.0,4798.0,1368.0,4.0,7751.0,736.0,2193.0,551.0,1.0,3481.0,11232.0,75.8

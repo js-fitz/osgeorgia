@@ -1,10 +1,2 @@
-,Precinct,County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
-0,131,McDuffie,1172.0,57.0,206.0,97.0,0.0,360.0,37.0,171.0,142.0,0.0,350.0,710.0,60.6
-1,132,McDuffie,1507.0,85.0,566.0,130.0,0.0,781.0,33.0,251.0,73.0,0.0,357.0,1138.0,75.5
-2,133A,McDuffie,1278.0,92.0,350.0,102.0,0.0,544.0,47.0,165.0,54.0,0.0,266.0,810.0,63.4
-3,133B,McDuffie,1959.0,143.0,594.0,161.0,0.0,898.0,99.0,296.0,70.0,0.0,465.0,1363.0,69.6
-4,134,McDuffie,1908.0,92.0,435.0,186.0,0.0,713.0,77.0,301.0,209.0,0.0,587.0,1300.0,68.1
-5,135,McDuffie,3089.0,145.0,902.0,288.0,0.0,1335.0,109.0,508.0,145.0,0.0,762.0,2097.0,67.9
-6,136,McDuffie,1940.0,115.0,265.0,175.0,0.0,555.0,73.0,222.0,167.0,0.0,462.0,1017.0,52.4
-7,137,McDuffie,1202.0,55.0,423.0,109.0,0.0,587.0,36.0,236.0,66.0,0.0,338.0,925.0,77.0
-8,139,McDuffie,978.0,62.0,281.0,90.0,0.0,433.0,38.0,154.0,62.0,0.0,254.0,687.0,70.2
+County,Registered Voters,YES_Election Day Votes,YES_Advanced Voting Votes,YES_Absentee by Mail Votes,YES_Provisional Votes,YES_Choice Total,NO_Election Day Votes,NO_Advanced Voting Votes,NO_Absentee by Mail Votes,NO_Provisional Votes,NO_Choice Total,Total,calc_participation
+McDuffie,15033.0,846.0,4022.0,1338.0,0.0,6206.0,549.0,2304.0,988.0,0.0,3841.0,10047.0,66.8

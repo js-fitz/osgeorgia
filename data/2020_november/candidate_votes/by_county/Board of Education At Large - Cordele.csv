@@ -1,6 +1,2 @@
-,Precinct,County,Registered Voters,Benjamin Bruce Drennan (Rep)_Election Day Votes,Benjamin Bruce Drennan (Rep)_Advanced Voting Votes,Benjamin Bruce Drennan (Rep)_Absentee by Mail Votes,Benjamin Bruce Drennan (Rep)_Provisional Votes,Benjamin Bruce Drennan (Rep)_Choice Total,Elizabeth Maddox (I) (Dem)_Election Day Votes,Elizabeth Maddox (I) (Dem)_Advanced Voting Votes,Elizabeth Maddox (I) (Dem)_Absentee by Mail Votes,Elizabeth Maddox (I) (Dem)_Provisional Votes,Elizabeth Maddox (I) (Dem)_Choice Total,Total,calc_participation
-0,Arabi,Crisp,785.0,153.0,229.0,36.0,0.0,418.0,42.0,68.0,31.0,0.0,141.0,559.0,71.2
-1,Coney,Crisp,859.0,117.0,370.0,78.0,0.0,565.0,21.0,81.0,38.0,0.0,140.0,705.0,82.1
-2,Cordele,Crisp,8897.0,227.0,1470.0,374.0,3.0,2074.0,555.0,1645.0,829.0,0.0,3029.0,5103.0,57.4
-3,Jamestown,Crisp,1196.0,189.0,434.0,125.0,0.0,748.0,31.0,98.0,47.0,1.0,177.0,925.0,77.3
-4,Listonia,Crisp,817.0,173.0,274.0,71.0,0.0,518.0,23.0,36.0,21.0,0.0,80.0,598.0,73.2
+County,Registered Voters,Benjamin Bruce Drennan (Rep)_Election Day Votes,Benjamin Bruce Drennan (Rep)_Advanced Voting Votes,Benjamin Bruce Drennan (Rep)_Absentee by Mail Votes,Benjamin Bruce Drennan (Rep)_Provisional Votes,Benjamin Bruce Drennan (Rep)_Choice Total,Elizabeth Maddox (I) (Dem)_Election Day Votes,Elizabeth Maddox (I) (Dem)_Advanced Voting Votes,Elizabeth Maddox (I) (Dem)_Absentee by Mail Votes,Elizabeth Maddox (I) (Dem)_Provisional Votes,Elizabeth Maddox (I) (Dem)_Choice Total,Total,calc_participation
+Crisp,12554.0,859.0,2777.0,684.0,3.0,4323.0,672.0,1928.0,966.0,1.0,3567.0,7890.0,62.8

@@ -1,8 +1,2 @@
-,Precinct,County,Registered Voters,Stanton Tankersley (I)_Election Day Votes,Stanton Tankersley (I)_Advanced Voting Votes,Stanton Tankersley (I)_Absentee by Mail Votes,Stanton Tankersley (I)_Provisional Votes,Stanton Tankersley (I)_Choice Total,Total,calc_participation
-0,Midway,Lincoln,587.0,110.0,167.0,73.0,0.0,350.0,350.0,59.6
-1,Lincoln Club House,Lincoln,799.0,103.0,203.0,105.0,2.0,413.0,413.0,51.7
-2,Lincoln Center,Lincoln,1489.0,200.0,559.0,169.0,0.0,928.0,928.0,62.3
-3,Faith Temple of Lincoln,Lincoln,489.0,90.0,144.0,68.0,0.0,302.0,302.0,61.8
-4,Tabernacle,Lincoln,1003.0,162.0,271.0,112.0,0.0,545.0,545.0,54.3
-5,Bethany Church,Lincoln,575.0,110.0,177.0,63.0,0.0,350.0,350.0,60.9
-6,Martins Crossroad,Lincoln,1234.0,245.0,456.0,137.0,1.0,839.0,839.0,68.0
+County,Registered Voters,Stanton Tankersley (I)_Election Day Votes,Stanton Tankersley (I)_Advanced Voting Votes,Stanton Tankersley (I)_Absentee by Mail Votes,Stanton Tankersley (I)_Provisional Votes,Stanton Tankersley (I)_Choice Total,Total,calc_participation
+Lincoln,6176.0,1020.0,1977.0,727.0,3.0,3727.0,3727.0,60.3
